@@ -1,0 +1,1876 @@
+month,org_level,org_name,parent_org,metric,value,severity
+2026-01,team,DTD - Platform,DTD,work_type_pct,52.865709094938836,Investment
+2026-01,team,DTD - Platform,DTD,work_type_pct,14.762153936476876,Tech Mod
+2026-01,team,DTD - Platform,DTD,work_type_pct,15.069479949817621,CTD
+2026-01,team,DTD - Platform,DTD,work_type_pct,17.302657018766666,RTE
+2026-01,team,DTD - Platform,DTD,pct_time_ctd_rte,32.372136968584286,
+2026-01,team,DTD - Platform,DTD,deployment_frequency,2.1940267655096632,
+2026-01,team,DTD - Platform,DTD,lead_time,6.023470482170867,
+2026-01,team,DTD - Platform,DTD,cycle_time,4.327920016049062,
+2026-01,team,DTD - Platform,DTD,prs_per_engineer,7.785635939006757,
+2026-01,team,DTD - Platform,DTD,direct_expense_variance,3.177693371720039,
+2026-01,team,DTD - Platform,DTD,aws_expense_variance,8.534426798689474,
+2026-01,team,DTD - Platform,DTD,snowflake_expense_variance,0.0,
+2026-01,team,DTD - Platform,DTD,span_of_control,8.420708770037603,
+2026-01,team,DTD - Platform,DTD,contractor_mix_pct,40.55761010044269,
+2026-01,team,DTD - Platform,DTD,engagement_pct,81.2101411357074,
+2026-01,team,DTD - Platform,DTD,enablement_pct,86.43655419714298,
+2026-01,team,DTD - Platform,DTD,inclusion_pct,86.76191641915743,
+2026-01,team,DTD - Platform,DTD,pli_pct,88.51046580901225,
+2026-01,team,DTD - Platform,DTD,slo_pct,100.0,
+2026-01,team,DTD - Platform,DTD,change_failure_rate,11.093839915870138,
+2026-01,team,DTD - Platform,DTD,time_to_restore,3.1898448293886945,
+2026-01,team,DTD - Platform,DTD,high_vuln_age,58.56056805664141,
+2026-01,team,DTD - Platform,DTD,incidents,0.0,P1
+2026-01,team,DTD - Platform,DTD,incidents,2.0,P2
+2026-01,team,DTD - Platform,DTD,incidents,2.0,P3
+2026-02,team,DTD - Platform,DTD,work_type_pct,54.528070448017765,Investment
+2026-02,team,DTD - Platform,DTD,work_type_pct,15.48367296668137,Tech Mod
+2026-02,team,DTD - Platform,DTD,work_type_pct,14.080730821930734,CTD
+2026-02,team,DTD - Platform,DTD,work_type_pct,15.907525763370135,RTE
+2026-02,team,DTD - Platform,DTD,pct_time_ctd_rte,29.988256585300867,
+2026-02,team,DTD - Platform,DTD,deployment_frequency,2.461532530167803,
+2026-02,team,DTD - Platform,DTD,lead_time,5.399533732624647,
+2026-02,team,DTD - Platform,DTD,cycle_time,3.947808391319015,
+2026-02,team,DTD - Platform,DTD,prs_per_engineer,7.117088713431172,
+2026-02,team,DTD - Platform,DTD,direct_expense_variance,3.6424702480209796,
+2026-02,team,DTD - Platform,DTD,aws_expense_variance,6.629522346712862,
+2026-02,team,DTD - Platform,DTD,snowflake_expense_variance,0.0,
+2026-02,team,DTD - Platform,DTD,span_of_control,8.412249059865106,
+2026-02,team,DTD - Platform,DTD,contractor_mix_pct,36.62801023277083,
+2026-02,team,DTD - Platform,DTD,engagement_pct,80.88411096530572,
+2026-02,team,DTD - Platform,DTD,enablement_pct,85.87453690848847,
+2026-02,team,DTD - Platform,DTD,inclusion_pct,92.03877871656093,
+2026-02,team,DTD - Platform,DTD,pli_pct,92.24756642717061,
+2026-02,team,DTD - Platform,DTD,slo_pct,100.0,
+2026-02,team,DTD - Platform,DTD,change_failure_rate,11.046928538449425,
+2026-02,team,DTD - Platform,DTD,time_to_restore,3.0240616312895323,
+2026-02,team,DTD - Platform,DTD,high_vuln_age,44.881625889638514,
+2026-02,team,DTD - Platform,DTD,incidents,0.0,P1
+2026-02,team,DTD - Platform,DTD,incidents,1.0,P2
+2026-02,team,DTD - Platform,DTD,incidents,1.0,P3
+2026-03,team,DTD - Platform,DTD,work_type_pct,58.52254524630827,Investment
+2026-03,team,DTD - Platform,DTD,work_type_pct,14.622376419884631,Tech Mod
+2026-03,team,DTD - Platform,DTD,work_type_pct,12.744910935450845,CTD
+2026-03,team,DTD - Platform,DTD,work_type_pct,14.110167398356255,RTE
+2026-03,team,DTD - Platform,DTD,pct_time_ctd_rte,26.8550783338071,
+2026-03,team,DTD - Platform,DTD,deployment_frequency,2.067299761009786,
+2026-03,team,DTD - Platform,DTD,lead_time,5.406857858671312,
+2026-03,team,DTD - Platform,DTD,cycle_time,3.8772613920355146,
+2026-03,team,DTD - Platform,DTD,prs_per_engineer,8.431704287298512,
+2026-03,team,DTD - Platform,DTD,direct_expense_variance,4.688558788881066,
+2026-03,team,DTD - Platform,DTD,aws_expense_variance,10.313369033346891,
+2026-03,team,DTD - Platform,DTD,snowflake_expense_variance,0.0,
+2026-03,team,DTD - Platform,DTD,span_of_control,8.027037640928707,
+2026-03,team,DTD - Platform,DTD,contractor_mix_pct,36.5306660478733,
+2026-03,team,DTD - Platform,DTD,engagement_pct,82.95320287798243,
+2026-03,team,DTD - Platform,DTD,enablement_pct,90.53348797261816,
+2026-03,team,DTD - Platform,DTD,inclusion_pct,89.44876505042578,
+2026-03,team,DTD - Platform,DTD,pli_pct,90.84768964972693,
+2026-03,team,DTD - Platform,DTD,slo_pct,100.0,
+2026-03,team,DTD - Platform,DTD,change_failure_rate,10.53564812116977,
+2026-03,team,DTD - Platform,DTD,time_to_restore,3.128161422614024,
+2026-03,team,DTD - Platform,DTD,high_vuln_age,47.65979639798931,
+2026-03,team,DTD - Platform,DTD,incidents,0.0,P1
+2026-03,team,DTD - Platform,DTD,incidents,1.0,P2
+2026-03,team,DTD - Platform,DTD,incidents,1.0,P3
+2026-01,team,DTD - Integrations,DTD,work_type_pct,43.560274245272396,Investment
+2026-01,team,DTD - Integrations,DTD,work_type_pct,17.249417084781914,Tech Mod
+2026-01,team,DTD - Integrations,DTD,work_type_pct,17.398475886327113,CTD
+2026-01,team,DTD - Integrations,DTD,work_type_pct,21.791832783618577,RTE
+2026-01,team,DTD - Integrations,DTD,pct_time_ctd_rte,39.19030866994569,
+2026-01,team,DTD - Integrations,DTD,deployment_frequency,2.129855342357139,
+2026-01,team,DTD - Integrations,DTD,lead_time,6.593218043630127,
+2026-01,team,DTD - Integrations,DTD,cycle_time,4.877681408685526,
+2026-01,team,DTD - Integrations,DTD,prs_per_engineer,7.276978742280844,
+2026-01,team,DTD - Integrations,DTD,direct_expense_variance,3.1494278721569855,
+2026-01,team,DTD - Integrations,DTD,aws_expense_variance,9.017023247513343,
+2026-01,team,DTD - Integrations,DTD,snowflake_expense_variance,0.0,
+2026-01,team,DTD - Integrations,DTD,span_of_control,9.368184534843763,
+2026-01,team,DTD - Integrations,DTD,contractor_mix_pct,42.91062340180841,
+2026-01,team,DTD - Integrations,DTD,engagement_pct,80.15440820358404,
+2026-01,team,DTD - Integrations,DTD,enablement_pct,82.68342620309856,
+2026-01,team,DTD - Integrations,DTD,inclusion_pct,93.79019824463562,
+2026-01,team,DTD - Integrations,DTD,pli_pct,91.90033816526243,
+2026-01,team,DTD - Integrations,DTD,slo_pct,100.0,
+2026-01,team,DTD - Integrations,DTD,change_failure_rate,11.380592375123719,
+2026-01,team,DTD - Integrations,DTD,time_to_restore,4.071839322149455,
+2026-01,team,DTD - Integrations,DTD,high_vuln_age,54.354529594939905,
+2026-01,team,DTD - Integrations,DTD,incidents,0.0,P1
+2026-01,team,DTD - Integrations,DTD,incidents,3.0,P2
+2026-01,team,DTD - Integrations,DTD,incidents,0.0,P3
+2026-02,team,DTD - Integrations,DTD,work_type_pct,50.55232187670058,Investment
+2026-02,team,DTD - Integrations,DTD,work_type_pct,16.51639767414427,Tech Mod
+2026-02,team,DTD - Integrations,DTD,work_type_pct,15.037371005444442,CTD
+2026-02,team,DTD - Integrations,DTD,work_type_pct,17.893909443710708,RTE
+2026-02,team,DTD - Integrations,DTD,pct_time_ctd_rte,32.93128044915515,
+2026-02,team,DTD - Integrations,DTD,deployment_frequency,2.2408677304154523,
+2026-02,team,DTD - Integrations,DTD,lead_time,5.599255864300884,
+2026-02,team,DTD - Integrations,DTD,cycle_time,3.804456875533075,
+2026-02,team,DTD - Integrations,DTD,prs_per_engineer,7.200772936427224,
+2026-02,team,DTD - Integrations,DTD,direct_expense_variance,3.730071851796557,
+2026-02,team,DTD - Integrations,DTD,aws_expense_variance,9.300458981750184,
+2026-02,team,DTD - Integrations,DTD,snowflake_expense_variance,0.0,
+2026-02,team,DTD - Integrations,DTD,span_of_control,8.609601787145369,
+2026-02,team,DTD - Integrations,DTD,contractor_mix_pct,38.71930749286687,
+2026-02,team,DTD - Integrations,DTD,engagement_pct,82.91212824080678,
+2026-02,team,DTD - Integrations,DTD,enablement_pct,87.9631949245919,
+2026-02,team,DTD - Integrations,DTD,inclusion_pct,92.21814137852235,
+2026-02,team,DTD - Integrations,DTD,pli_pct,91.5999916704208,
+2026-02,team,DTD - Integrations,DTD,slo_pct,100.0,
+2026-02,team,DTD - Integrations,DTD,change_failure_rate,10.085038625568414,
+2026-02,team,DTD - Integrations,DTD,time_to_restore,3.2763602080673815,
+2026-02,team,DTD - Integrations,DTD,high_vuln_age,54.66835308361657,
+2026-02,team,DTD - Integrations,DTD,incidents,0.0,P1
+2026-02,team,DTD - Integrations,DTD,incidents,0.0,P2
+2026-02,team,DTD - Integrations,DTD,incidents,3.0,P3
+2026-03,team,DTD - Integrations,DTD,work_type_pct,49.32183922074883,Investment
+2026-03,team,DTD - Integrations,DTD,work_type_pct,17.344851729720276,Tech Mod
+2026-03,team,DTD - Integrations,DTD,work_type_pct,13.692180772648928,CTD
+2026-03,team,DTD - Integrations,DTD,work_type_pct,19.641128276881968,RTE
+2026-03,team,DTD - Integrations,DTD,pct_time_ctd_rte,33.3333090495309,
+2026-03,team,DTD - Integrations,DTD,deployment_frequency,2.3982486667849248,
+2026-03,team,DTD - Integrations,DTD,lead_time,6.195730066692617,
+2026-03,team,DTD - Integrations,DTD,cycle_time,3.704436449978831,
+2026-03,team,DTD - Integrations,DTD,prs_per_engineer,7.218376048029226,
+2026-03,team,DTD - Integrations,DTD,direct_expense_variance,2.3262479833068226,
+2026-03,team,DTD - Integrations,DTD,aws_expense_variance,9.073587355200388,
+2026-03,team,DTD - Integrations,DTD,snowflake_expense_variance,0.0,
+2026-03,team,DTD - Integrations,DTD,span_of_control,8.427326043485282,
+2026-03,team,DTD - Integrations,DTD,contractor_mix_pct,37.01835344233816,
+2026-03,team,DTD - Integrations,DTD,engagement_pct,84.86961289942121,
+2026-03,team,DTD - Integrations,DTD,enablement_pct,83.39805471180286,
+2026-03,team,DTD - Integrations,DTD,inclusion_pct,88.98453218790301,
+2026-03,team,DTD - Integrations,DTD,pli_pct,94.24070280792208,
+2026-03,team,DTD - Integrations,DTD,slo_pct,100.0,
+2026-03,team,DTD - Integrations,DTD,change_failure_rate,8.706242021957593,
+2026-03,team,DTD - Integrations,DTD,time_to_restore,3.582227277556715,
+2026-03,team,DTD - Integrations,DTD,high_vuln_age,60.15222394687024,
+2026-03,team,DTD - Integrations,DTD,incidents,0.0,P1
+2026-03,team,DTD - Integrations,DTD,incidents,1.0,P2
+2026-03,team,DTD - Integrations,DTD,incidents,3.0,P3
+2026-01,team,DTD - Analytics,DTD,work_type_pct,51.412874535940865,Investment
+2026-01,team,DTD - Analytics,DTD,work_type_pct,15.937098542403453,Tech Mod
+2026-01,team,DTD - Analytics,DTD,work_type_pct,15.512593084780068,CTD
+2026-01,team,DTD - Analytics,DTD,work_type_pct,17.137433836875616,RTE
+2026-01,team,DTD - Analytics,DTD,pct_time_ctd_rte,32.65002692165568,
+2026-01,team,DTD - Analytics,DTD,deployment_frequency,1.649635962487499,
+2026-01,team,DTD - Analytics,DTD,lead_time,5.069978604130829,
+2026-01,team,DTD - Analytics,DTD,cycle_time,3.6516682204048636,
+2026-01,team,DTD - Analytics,DTD,prs_per_engineer,5.332280967331713,
+2026-01,team,DTD - Analytics,DTD,direct_expense_variance,3.307029327278244,
+2026-01,team,DTD - Analytics,DTD,aws_expense_variance,7.244444313082726,
+2026-01,team,DTD - Analytics,DTD,snowflake_expense_variance,0.0,
+2026-01,team,DTD - Analytics,DTD,span_of_control,6.9258785384872334,
+2026-01,team,DTD - Analytics,DTD,contractor_mix_pct,33.96323958629277,
+2026-01,team,DTD - Analytics,DTD,engagement_pct,64.61148924459563,
+2026-01,team,DTD - Analytics,DTD,enablement_pct,65.53127209091798,
+2026-01,team,DTD - Analytics,DTD,inclusion_pct,71.82446390658384,
+2026-01,team,DTD - Analytics,DTD,pli_pct,69.15896450703151,
+2026-01,team,DTD - Analytics,DTD,slo_pct,93.07290701880643,
+2026-01,team,DTD - Analytics,DTD,change_failure_rate,10.922562018656649,
+2026-01,team,DTD - Analytics,DTD,time_to_restore,3.037891839817069,
+2026-01,team,DTD - Analytics,DTD,high_vuln_age,44.174170415914574,
+2026-01,team,DTD - Analytics,DTD,incidents,0.0,P1
+2026-01,team,DTD - Analytics,DTD,incidents,1.0,P2
+2026-01,team,DTD - Analytics,DTD,incidents,1.0,P3
+2026-02,team,DTD - Analytics,DTD,work_type_pct,52.765284189697645,Investment
+2026-02,team,DTD - Analytics,DTD,work_type_pct,14.573845577942851,Tech Mod
+2026-02,team,DTD - Analytics,DTD,work_type_pct,15.028428492091212,CTD
+2026-02,team,DTD - Analytics,DTD,work_type_pct,17.63244174026829,RTE
+2026-02,team,DTD - Analytics,DTD,pct_time_ctd_rte,32.6608702323595,
+2026-02,team,DTD - Analytics,DTD,deployment_frequency,1.6122554943682286,
+2026-02,team,DTD - Analytics,DTD,lead_time,4.480231027750394,
+2026-02,team,DTD - Analytics,DTD,cycle_time,3.361329585541007,
+2026-02,team,DTD - Analytics,DTD,prs_per_engineer,6.151372826348724,
+2026-02,team,DTD - Analytics,DTD,direct_expense_variance,3.0051341335121156,
+2026-02,team,DTD - Analytics,DTD,aws_expense_variance,6.47476216538764,
+2026-02,team,DTD - Analytics,DTD,snowflake_expense_variance,0.0,
+2026-02,team,DTD - Analytics,DTD,span_of_control,6.825484814753679,
+2026-02,team,DTD - Analytics,DTD,contractor_mix_pct,33.49497046265906,
+2026-02,team,DTD - Analytics,DTD,engagement_pct,60.58067328991111,
+2026-02,team,DTD - Analytics,DTD,enablement_pct,67.00844295328884,
+2026-02,team,DTD - Analytics,DTD,inclusion_pct,72.06381771994364,
+2026-02,team,DTD - Analytics,DTD,pli_pct,70.47384188557592,
+2026-02,team,DTD - Analytics,DTD,slo_pct,93.00164538500617,
+2026-02,team,DTD - Analytics,DTD,change_failure_rate,6.775639551375284,
+2026-02,team,DTD - Analytics,DTD,time_to_restore,2.720883625577406,
+2026-02,team,DTD - Analytics,DTD,high_vuln_age,48.9801496473592,
+2026-02,team,DTD - Analytics,DTD,incidents,0.0,P1
+2026-02,team,DTD - Analytics,DTD,incidents,1.0,P2
+2026-02,team,DTD - Analytics,DTD,incidents,3.0,P3
+2026-03,team,DTD - Analytics,DTD,work_type_pct,52.77645296140987,Investment
+2026-03,team,DTD - Analytics,DTD,work_type_pct,16.887759137693845,Tech Mod
+2026-03,team,DTD - Analytics,DTD,work_type_pct,13.976833358031037,CTD
+2026-03,team,DTD - Analytics,DTD,work_type_pct,16.358954542865245,RTE
+2026-03,team,DTD - Analytics,DTD,pct_time_ctd_rte,30.335787900896282,
+2026-03,team,DTD - Analytics,DTD,deployment_frequency,2.161818015034936,
+2026-03,team,DTD - Analytics,DTD,lead_time,4.578582637957752,
+2026-03,team,DTD - Analytics,DTD,cycle_time,3.284137570850922,
+2026-03,team,DTD - Analytics,DTD,prs_per_engineer,5.868128006605975,
+2026-03,team,DTD - Analytics,DTD,direct_expense_variance,3.8817869852580134,
+2026-03,team,DTD - Analytics,DTD,aws_expense_variance,6.799160471308605,
+2026-03,team,DTD - Analytics,DTD,snowflake_expense_variance,0.0,
+2026-03,team,DTD - Analytics,DTD,span_of_control,6.254728282604143,
+2026-03,team,DTD - Analytics,DTD,contractor_mix_pct,31.264852652081803,
+2026-03,team,DTD - Analytics,DTD,engagement_pct,66.73764776142635,
+2026-03,team,DTD - Analytics,DTD,enablement_pct,70.84716722697047,
+2026-03,team,DTD - Analytics,DTD,inclusion_pct,73.63326964836575,
+2026-03,team,DTD - Analytics,DTD,pli_pct,74.63292117758843,
+2026-03,team,DTD - Analytics,DTD,slo_pct,93.17825472221033,
+2026-03,team,DTD - Analytics,DTD,change_failure_rate,5.950163594225232,
+2026-03,team,DTD - Analytics,DTD,time_to_restore,2.304768720533387,
+2026-03,team,DTD - Analytics,DTD,high_vuln_age,32.563929858245636,
+2026-03,team,DTD - Analytics,DTD,incidents,0.0,P1
+2026-03,team,DTD - Analytics,DTD,incidents,3.0,P2
+2026-03,team,DTD - Analytics,DTD,incidents,2.0,P3
+2026-01,team,FMD - Originations,FMD,work_type_pct,48.628371676823285,Investment
+2026-01,team,FMD - Originations,FMD,work_type_pct,17.6505719416505,Tech Mod
+2026-01,team,FMD - Originations,FMD,work_type_pct,15.146336329402486,CTD
+2026-01,team,FMD - Originations,FMD,work_type_pct,18.57472005212373,RTE
+2026-01,team,FMD - Originations,FMD,pct_time_ctd_rte,33.72105638152622,
+2026-01,team,FMD - Originations,FMD,deployment_frequency,1.783371720884152,
+2026-01,team,FMD - Originations,FMD,lead_time,5.352164580127825,
+2026-01,team,FMD - Originations,FMD,cycle_time,3.8012088241823876,
+2026-01,team,FMD - Originations,FMD,prs_per_engineer,6.63328995307317,
+2026-01,team,FMD - Originations,FMD,direct_expense_variance,0.7259897444581633,
+2026-01,team,FMD - Originations,FMD,aws_expense_variance,5.594464713235261,
+2026-01,team,FMD - Originations,FMD,snowflake_expense_variance,0.0,
+2026-01,team,FMD - Originations,FMD,span_of_control,6.144612266922757,
+2026-01,team,FMD - Originations,FMD,contractor_mix_pct,37.4149883152778,
+2026-01,team,FMD - Originations,FMD,engagement_pct,67.21107744663331,
+2026-01,team,FMD - Originations,FMD,enablement_pct,70.62407175793574,
+2026-01,team,FMD - Originations,FMD,inclusion_pct,72.21078125819271,
+2026-01,team,FMD - Originations,FMD,pli_pct,73.03173676482085,
+2026-01,team,FMD - Originations,FMD,slo_pct,95.66413241434799,
+2026-01,team,FMD - Originations,FMD,change_failure_rate,9.897239534339054,
+2026-01,team,FMD - Originations,FMD,time_to_restore,3.0684778018830166,
+2026-01,team,FMD - Originations,FMD,high_vuln_age,49.450325531218944,
+2026-01,team,FMD - Originations,FMD,incidents,0.0,P1
+2026-01,team,FMD - Originations,FMD,incidents,1.0,P2
+2026-01,team,FMD - Originations,FMD,incidents,3.0,P3
+2026-02,team,FMD - Originations,FMD,work_type_pct,52.29609492240465,Investment
+2026-02,team,FMD - Originations,FMD,work_type_pct,15.629497496849327,Tech Mod
+2026-02,team,FMD - Originations,FMD,work_type_pct,12.766308787318556,CTD
+2026-02,team,FMD - Originations,FMD,work_type_pct,19.308098793427476,RTE
+2026-02,team,FMD - Originations,FMD,pct_time_ctd_rte,32.07440758074603,
+2026-02,team,FMD - Originations,FMD,deployment_frequency,1.968424628563324,
+2026-02,team,FMD - Originations,FMD,lead_time,4.825648791146361,
+2026-02,team,FMD - Originations,FMD,cycle_time,3.781449105108328,
+2026-02,team,FMD - Originations,FMD,prs_per_engineer,6.734596711053713,
+2026-02,team,FMD - Originations,FMD,direct_expense_variance,4.276301005337708,
+2026-02,team,FMD - Originations,FMD,aws_expense_variance,7.3971523796463,
+2026-02,team,FMD - Originations,FMD,snowflake_expense_variance,0.0,
+2026-02,team,FMD - Originations,FMD,span_of_control,6.838334353059058,
+2026-02,team,FMD - Originations,FMD,contractor_mix_pct,28.204131973163566,
+2026-02,team,FMD - Originations,FMD,engagement_pct,70.63343703431362,
+2026-02,team,FMD - Originations,FMD,enablement_pct,68.49463638966647,
+2026-02,team,FMD - Originations,FMD,inclusion_pct,73.97475174331302,
+2026-02,team,FMD - Originations,FMD,pli_pct,74.55900741824188,
+2026-02,team,FMD - Originations,FMD,slo_pct,95.57858337138057,
+2026-02,team,FMD - Originations,FMD,change_failure_rate,7.494363187979127,
+2026-02,team,FMD - Originations,FMD,time_to_restore,2.228788225916657,
+2026-02,team,FMD - Originations,FMD,high_vuln_age,40.25893738457204,
+2026-02,team,FMD - Originations,FMD,incidents,0.0,P1
+2026-02,team,FMD - Originations,FMD,incidents,2.0,P2
+2026-02,team,FMD - Originations,FMD,incidents,4.0,P3
+2026-03,team,FMD - Originations,FMD,work_type_pct,50.83891831954311,Investment
+2026-03,team,FMD - Originations,FMD,work_type_pct,17.097046268495372,Tech Mod
+2026-03,team,FMD - Originations,FMD,work_type_pct,12.984190978918738,CTD
+2026-03,team,FMD - Originations,FMD,work_type_pct,19.07984443304278,RTE
+2026-03,team,FMD - Originations,FMD,pct_time_ctd_rte,32.06403541196152,
+2026-03,team,FMD - Originations,FMD,deployment_frequency,1.8244479221598795,
+2026-03,team,FMD - Originations,FMD,lead_time,4.4420698982873095,
+2026-03,team,FMD - Originations,FMD,cycle_time,3.1847176038881937,
+2026-03,team,FMD - Originations,FMD,prs_per_engineer,6.615557319800431,
+2026-03,team,FMD - Originations,FMD,direct_expense_variance,3.478961704267342,
+2026-03,team,FMD - Originations,FMD,aws_expense_variance,8.359672612785422,
+2026-03,team,FMD - Originations,FMD,snowflake_expense_variance,0.0,
+2026-03,team,FMD - Originations,FMD,span_of_control,6.9824945919141665,
+2026-03,team,FMD - Originations,FMD,contractor_mix_pct,32.261110754515265,
+2026-03,team,FMD - Originations,FMD,engagement_pct,65.08270015847387,
+2026-03,team,FMD - Originations,FMD,enablement_pct,67.80367022907672,
+2026-03,team,FMD - Originations,FMD,inclusion_pct,71.51404914590776,
+2026-03,team,FMD - Originations,FMD,pli_pct,68.01036579888518,
+2026-03,team,FMD - Originations,FMD,slo_pct,95.74277793101587,
+2026-03,team,FMD - Originations,FMD,change_failure_rate,8.385384840552144,
+2026-03,team,FMD - Originations,FMD,time_to_restore,2.3158080239131236,
+2026-03,team,FMD - Originations,FMD,high_vuln_age,39.16464747419319,
+2026-03,team,FMD - Originations,FMD,incidents,0.0,P1
+2026-03,team,FMD - Originations,FMD,incidents,1.0,P2
+2026-03,team,FMD - Originations,FMD,incidents,1.0,P3
+2026-01,team,FMD - Servicing,FMD,work_type_pct,48.73381396865367,Investment
+2026-01,team,FMD - Servicing,FMD,work_type_pct,18.26404068944117,Tech Mod
+2026-01,team,FMD - Servicing,FMD,work_type_pct,15.702637852845575,CTD
+2026-01,team,FMD - Servicing,FMD,work_type_pct,17.29950748905958,RTE
+2026-01,team,FMD - Servicing,FMD,pct_time_ctd_rte,33.002145341905155,
+2026-01,team,FMD - Servicing,FMD,deployment_frequency,1.5911886036191867,
+2026-01,team,FMD - Servicing,FMD,lead_time,4.532283773226382,
+2026-01,team,FMD - Servicing,FMD,cycle_time,3.3040219555255725,
+2026-01,team,FMD - Servicing,FMD,prs_per_engineer,5.428063435729216,
+2026-01,team,FMD - Servicing,FMD,direct_expense_variance,3.6517753688316774,
+2026-01,team,FMD - Servicing,FMD,aws_expense_variance,8.041399729666956,
+2026-01,team,FMD - Servicing,FMD,snowflake_expense_variance,0.0,
+2026-01,team,FMD - Servicing,FMD,span_of_control,6.93721168036495,
+2026-01,team,FMD - Servicing,FMD,contractor_mix_pct,31.96675485142412,
+2026-01,team,FMD - Servicing,FMD,engagement_pct,65.45066525801795,
+2026-01,team,FMD - Servicing,FMD,enablement_pct,66.62799567583305,
+2026-01,team,FMD - Servicing,FMD,inclusion_pct,67.72713451387025,
+2026-01,team,FMD - Servicing,FMD,pli_pct,71.18770512913883,
+2026-01,team,FMD - Servicing,FMD,slo_pct,92.75633475032811,
+2026-01,team,FMD - Servicing,FMD,change_failure_rate,8.919497570189428,
+2026-01,team,FMD - Servicing,FMD,time_to_restore,2.6063031496660334,
+2026-01,team,FMD - Servicing,FMD,high_vuln_age,44.54392607530494,
+2026-01,team,FMD - Servicing,FMD,incidents,0.0,P1
+2026-01,team,FMD - Servicing,FMD,incidents,2.0,P2
+2026-01,team,FMD - Servicing,FMD,incidents,6.0,P3
+2026-02,team,FMD - Servicing,FMD,work_type_pct,49.14076203087792,Investment
+2026-02,team,FMD - Servicing,FMD,work_type_pct,16.958135603214444,Tech Mod
+2026-02,team,FMD - Servicing,FMD,work_type_pct,15.491964145564799,CTD
+2026-02,team,FMD - Servicing,FMD,work_type_pct,18.40913822034284,RTE
+2026-02,team,FMD - Servicing,FMD,pct_time_ctd_rte,33.90110236590764,
+2026-02,team,FMD - Servicing,FMD,deployment_frequency,1.7957341878739004,
+2026-02,team,FMD - Servicing,FMD,lead_time,4.750101882049797,
+2026-02,team,FMD - Servicing,FMD,cycle_time,3.6056114964555843,
+2026-02,team,FMD - Servicing,FMD,prs_per_engineer,5.672050154765435,
+2026-02,team,FMD - Servicing,FMD,direct_expense_variance,3.6577349897333136,
+2026-02,team,FMD - Servicing,FMD,aws_expense_variance,6.554605057168137,
+2026-02,team,FMD - Servicing,FMD,snowflake_expense_variance,0.0,
+2026-02,team,FMD - Servicing,FMD,span_of_control,6.31920875816345,
+2026-02,team,FMD - Servicing,FMD,contractor_mix_pct,27.98674780726381,
+2026-02,team,FMD - Servicing,FMD,engagement_pct,61.45721143008714,
+2026-02,team,FMD - Servicing,FMD,enablement_pct,65.13961999183245,
+2026-02,team,FMD - Servicing,FMD,inclusion_pct,70.78222778104133,
+2026-02,team,FMD - Servicing,FMD,pli_pct,69.1567807950727,
+2026-02,team,FMD - Servicing,FMD,slo_pct,93.03295630986028,
+2026-02,team,FMD - Servicing,FMD,change_failure_rate,9.469197030014834,
+2026-02,team,FMD - Servicing,FMD,time_to_restore,2.337955570380764,
+2026-02,team,FMD - Servicing,FMD,high_vuln_age,43.48926850878783,
+2026-02,team,FMD - Servicing,FMD,incidents,0.0,P1
+2026-02,team,FMD - Servicing,FMD,incidents,2.0,P2
+2026-02,team,FMD - Servicing,FMD,incidents,4.0,P3
+2026-03,team,FMD - Servicing,FMD,work_type_pct,51.90083274616233,Investment
+2026-03,team,FMD - Servicing,FMD,work_type_pct,17.94948963097362,Tech Mod
+2026-03,team,FMD - Servicing,FMD,work_type_pct,13.591560125056604,CTD
+2026-03,team,FMD - Servicing,FMD,work_type_pct,16.558117497807455,RTE
+2026-03,team,FMD - Servicing,FMD,pct_time_ctd_rte,30.14967762286406,
+2026-03,team,FMD - Servicing,FMD,deployment_frequency,1.8758633059736385,
+2026-03,team,FMD - Servicing,FMD,lead_time,4.305465180714237,
+2026-03,team,FMD - Servicing,FMD,cycle_time,2.787296464234344,
+2026-03,team,FMD - Servicing,FMD,prs_per_engineer,6.241930410421007,
+2026-03,team,FMD - Servicing,FMD,direct_expense_variance,2.9138970498390897,
+2026-03,team,FMD - Servicing,FMD,aws_expense_variance,8.341127253022176,
+2026-03,team,FMD - Servicing,FMD,snowflake_expense_variance,0.0,
+2026-03,team,FMD - Servicing,FMD,span_of_control,7.023958465609514,
+2026-03,team,FMD - Servicing,FMD,contractor_mix_pct,29.31317179342341,
+2026-03,team,FMD - Servicing,FMD,engagement_pct,67.91003150007512,
+2026-03,team,FMD - Servicing,FMD,enablement_pct,67.76998148363793,
+2026-03,team,FMD - Servicing,FMD,inclusion_pct,73.87826990921447,
+2026-03,team,FMD - Servicing,FMD,pli_pct,66.9696003561152,
+2026-03,team,FMD - Servicing,FMD,slo_pct,92.97505085295045,
+2026-03,team,FMD - Servicing,FMD,change_failure_rate,5.54271596006026,
+2026-03,team,FMD - Servicing,FMD,time_to_restore,1.8812624744984046,
+2026-03,team,FMD - Servicing,FMD,high_vuln_age,42.49037400715446,
+2026-03,team,FMD - Servicing,FMD,incidents,0.0,P1
+2026-03,team,FMD - Servicing,FMD,incidents,1.0,P2
+2026-03,team,FMD - Servicing,FMD,incidents,6.0,P3
+2026-01,team,FMD - Risk,FMD,work_type_pct,51.29309538503289,Investment
+2026-01,team,FMD - Risk,FMD,work_type_pct,16.627171681366004,Tech Mod
+2026-01,team,FMD - Risk,FMD,work_type_pct,14.009963533290836,CTD
+2026-01,team,FMD - Risk,FMD,work_type_pct,18.069769400310275,RTE
+2026-01,team,FMD - Risk,FMD,pct_time_ctd_rte,32.07973293360111,
+2026-01,team,FMD - Risk,FMD,deployment_frequency,2.09274885841173,
+2026-01,team,FMD - Risk,FMD,lead_time,6.454801619809892,
+2026-01,team,FMD - Risk,FMD,cycle_time,4.052872279388181,
+2026-01,team,FMD - Risk,FMD,prs_per_engineer,7.26624387368071,
+2026-01,team,FMD - Risk,FMD,direct_expense_variance,5.107829187137777,
+2026-01,team,FMD - Risk,FMD,aws_expense_variance,6.257586604350456,
+2026-01,team,FMD - Risk,FMD,snowflake_expense_variance,0.0,
+2026-01,team,FMD - Risk,FMD,span_of_control,8.827104246623604,
+2026-01,team,FMD - Risk,FMD,contractor_mix_pct,40.1628320945853,
+2026-01,team,FMD - Risk,FMD,engagement_pct,81.02521574487747,
+2026-01,team,FMD - Risk,FMD,enablement_pct,80.14653741600743,
+2026-01,team,FMD - Risk,FMD,inclusion_pct,88.77791146370825,
+2026-01,team,FMD - Risk,FMD,pli_pct,84.07609161835802,
+2026-01,team,FMD - Risk,FMD,slo_pct,100.0,
+2026-01,team,FMD - Risk,FMD,change_failure_rate,12.670994706875819,
+2026-01,team,FMD - Risk,FMD,time_to_restore,3.3645885122884938,
+2026-01,team,FMD - Risk,FMD,high_vuln_age,52.25601262928427,
+2026-01,team,FMD - Risk,FMD,incidents,1.0,P1
+2026-01,team,FMD - Risk,FMD,incidents,0.0,P2
+2026-01,team,FMD - Risk,FMD,incidents,4.0,P3
+2026-02,team,FMD - Risk,FMD,work_type_pct,52.289562708456174,Investment
+2026-02,team,FMD - Risk,FMD,work_type_pct,16.677645099295972,Tech Mod
+2026-02,team,FMD - Risk,FMD,work_type_pct,13.935954139586704,CTD
+2026-02,team,FMD - Risk,FMD,work_type_pct,17.096838052661163,RTE
+2026-02,team,FMD - Risk,FMD,pct_time_ctd_rte,31.032792192247868,
+2026-02,team,FMD - Risk,FMD,deployment_frequency,2.0985602681702393,
+2026-02,team,FMD - Risk,FMD,lead_time,5.592765605658867,
+2026-02,team,FMD - Risk,FMD,cycle_time,4.025973939511208,
+2026-02,team,FMD - Risk,FMD,prs_per_engineer,6.765409362245041,
+2026-02,team,FMD - Risk,FMD,direct_expense_variance,4.63963751507659,
+2026-02,team,FMD - Risk,FMD,aws_expense_variance,8.614914224267425,
+2026-02,team,FMD - Risk,FMD,snowflake_expense_variance,0.0,
+2026-02,team,FMD - Risk,FMD,span_of_control,8.434361796264843,
+2026-02,team,FMD - Risk,FMD,contractor_mix_pct,38.033487242279435,
+2026-02,team,FMD - Risk,FMD,engagement_pct,83.2624694897799,
+2026-02,team,FMD - Risk,FMD,enablement_pct,81.36310756234022,
+2026-02,team,FMD - Risk,FMD,inclusion_pct,85.9968276481532,
+2026-02,team,FMD - Risk,FMD,pli_pct,82.74234385943663,
+2026-02,team,FMD - Risk,FMD,slo_pct,100.0,
+2026-02,team,FMD - Risk,FMD,change_failure_rate,9.016310337114744,
+2026-02,team,FMD - Risk,FMD,time_to_restore,2.9096426225671905,
+2026-02,team,FMD - Risk,FMD,high_vuln_age,50.68337687923376,
+2026-02,team,FMD - Risk,FMD,incidents,1.0,P1
+2026-02,team,FMD - Risk,FMD,incidents,0.0,P2
+2026-02,team,FMD - Risk,FMD,incidents,2.0,P3
+2026-03,team,FMD - Risk,FMD,work_type_pct,55.092506000275165,Investment
+2026-03,team,FMD - Risk,FMD,work_type_pct,17.302472620050672,Tech Mod
+2026-03,team,FMD - Risk,FMD,work_type_pct,12.797025328401906,CTD
+2026-03,team,FMD - Risk,FMD,work_type_pct,14.807996051272262,RTE
+2026-03,team,FMD - Risk,FMD,pct_time_ctd_rte,27.60502137967417,
+2026-03,team,FMD - Risk,FMD,deployment_frequency,2.2277603449620083,
+2026-03,team,FMD - Risk,FMD,lead_time,5.477049654670186,
+2026-03,team,FMD - Risk,FMD,cycle_time,3.438154762459476,
+2026-03,team,FMD - Risk,FMD,prs_per_engineer,7.29455856550483,
+2026-03,team,FMD - Risk,FMD,direct_expense_variance,2.869881782611908,
+2026-03,team,FMD - Risk,FMD,aws_expense_variance,10.381043371717782,
+2026-03,team,FMD - Risk,FMD,snowflake_expense_variance,0.0,
+2026-03,team,FMD - Risk,FMD,span_of_control,8.126600204629511,
+2026-03,team,FMD - Risk,FMD,contractor_mix_pct,37.15314710387872,
+2026-03,team,FMD - Risk,FMD,engagement_pct,76.05027876345926,
+2026-03,team,FMD - Risk,FMD,enablement_pct,80.20749252808716,
+2026-03,team,FMD - Risk,FMD,inclusion_pct,86.52160025136891,
+2026-03,team,FMD - Risk,FMD,pli_pct,83.08219338554066,
+2026-03,team,FMD - Risk,FMD,slo_pct,100.0,
+2026-03,team,FMD - Risk,FMD,change_failure_rate,11.079781397954614,
+2026-03,team,FMD - Risk,FMD,time_to_restore,2.525024305144866,
+2026-03,team,FMD - Risk,FMD,high_vuln_age,42.66416872840335,
+2026-03,team,FMD - Risk,FMD,incidents,0.0,P1
+2026-03,team,FMD - Risk,FMD,incidents,3.0,P2
+2026-03,team,FMD - Risk,FMD,incidents,3.0,P3
+2026-01,team,CLO - Lending,CLO,work_type_pct,52.805648121116064,Investment
+2026-01,team,CLO - Lending,CLO,work_type_pct,14.67744471806107,Tech Mod
+2026-01,team,CLO - Lending,CLO,work_type_pct,14.975446452686707,CTD
+2026-01,team,CLO - Lending,CLO,work_type_pct,17.541460708136157,RTE
+2026-01,team,CLO - Lending,CLO,pct_time_ctd_rte,32.51690716082287,
+2026-01,team,CLO - Lending,CLO,deployment_frequency,1.8173399942287984,
+2026-01,team,CLO - Lending,CLO,lead_time,6.550204602998087,
+2026-01,team,CLO - Lending,CLO,cycle_time,4.20042750195762,
+2026-01,team,CLO - Lending,CLO,prs_per_engineer,7.658739850968929,
+2026-01,team,CLO - Lending,CLO,direct_expense_variance,2.8358606177786236,
+2026-01,team,CLO - Lending,CLO,aws_expense_variance,6.847976432718884,
+2026-01,team,CLO - Lending,CLO,snowflake_expense_variance,0.0,
+2026-01,team,CLO - Lending,CLO,span_of_control,8.77210102158755,
+2026-01,team,CLO - Lending,CLO,contractor_mix_pct,42.4079027163832,
+2026-01,team,CLO - Lending,CLO,engagement_pct,77.24220498213153,
+2026-01,team,CLO - Lending,CLO,enablement_pct,84.46053817579269,
+2026-01,team,CLO - Lending,CLO,inclusion_pct,86.6097491940628,
+2026-01,team,CLO - Lending,CLO,pli_pct,86.69323786879981,
+2026-01,team,CLO - Lending,CLO,slo_pct,100.0,
+2026-01,team,CLO - Lending,CLO,change_failure_rate,11.906257022540363,
+2026-01,team,CLO - Lending,CLO,time_to_restore,3.324698951101862,
+2026-01,team,CLO - Lending,CLO,high_vuln_age,52.37203903016003,
+2026-01,team,CLO - Lending,CLO,incidents,1.0,P1
+2026-01,team,CLO - Lending,CLO,incidents,0.0,P2
+2026-01,team,CLO - Lending,CLO,incidents,2.0,P3
+2026-02,team,CLO - Lending,CLO,work_type_pct,56.207195248406464,Investment
+2026-02,team,CLO - Lending,CLO,work_type_pct,14.436967931868402,Tech Mod
+2026-02,team,CLO - Lending,CLO,work_type_pct,13.619645451637288,CTD
+2026-02,team,CLO - Lending,CLO,work_type_pct,15.736191368087843,RTE
+2026-02,team,CLO - Lending,CLO,pct_time_ctd_rte,29.35583681972513,
+2026-02,team,CLO - Lending,CLO,deployment_frequency,2.132063482873381,
+2026-02,team,CLO - Lending,CLO,lead_time,6.420868706642944,
+2026-02,team,CLO - Lending,CLO,cycle_time,3.758619307628355,
+2026-02,team,CLO - Lending,CLO,prs_per_engineer,6.222945388336796,
+2026-02,team,CLO - Lending,CLO,direct_expense_variance,5.686311375799878,
+2026-02,team,CLO - Lending,CLO,aws_expense_variance,10.971986863338142,
+2026-02,team,CLO - Lending,CLO,snowflake_expense_variance,0.0,
+2026-02,team,CLO - Lending,CLO,span_of_control,7.41141970201716,
+2026-02,team,CLO - Lending,CLO,contractor_mix_pct,38.053831454247316,
+2026-02,team,CLO - Lending,CLO,engagement_pct,80.98497874251804,
+2026-02,team,CLO - Lending,CLO,enablement_pct,83.49297428139647,
+2026-02,team,CLO - Lending,CLO,inclusion_pct,86.96250225222205,
+2026-02,team,CLO - Lending,CLO,pli_pct,87.90659645280019,
+2026-02,team,CLO - Lending,CLO,slo_pct,100.0,
+2026-02,team,CLO - Lending,CLO,change_failure_rate,9.072269282382923,
+2026-02,team,CLO - Lending,CLO,time_to_restore,3.467402868086527,
+2026-02,team,CLO - Lending,CLO,high_vuln_age,60.50486008197278,
+2026-02,team,CLO - Lending,CLO,incidents,0.0,P1
+2026-02,team,CLO - Lending,CLO,incidents,1.0,P2
+2026-02,team,CLO - Lending,CLO,incidents,7.0,P3
+2026-03,team,CLO - Lending,CLO,work_type_pct,58.93150039667757,Investment
+2026-03,team,CLO - Lending,CLO,work_type_pct,13.448793171951534,Tech Mod
+2026-03,team,CLO - Lending,CLO,work_type_pct,12.443225000952577,CTD
+2026-03,team,CLO - Lending,CLO,work_type_pct,15.17648143041832,RTE
+2026-03,team,CLO - Lending,CLO,pct_time_ctd_rte,27.619706431370897,
+2026-03,team,CLO - Lending,CLO,deployment_frequency,2.1600215770837305,
+2026-03,team,CLO - Lending,CLO,lead_time,5.602323351882644,
+2026-03,team,CLO - Lending,CLO,cycle_time,4.198632679989966,
+2026-03,team,CLO - Lending,CLO,prs_per_engineer,7.219664417324313,
+2026-03,team,CLO - Lending,CLO,direct_expense_variance,2.718266749409138,
+2026-03,team,CLO - Lending,CLO,aws_expense_variance,9.05214860212958,
+2026-03,team,CLO - Lending,CLO,snowflake_expense_variance,0.0,
+2026-03,team,CLO - Lending,CLO,span_of_control,8.315046241403136,
+2026-03,team,CLO - Lending,CLO,contractor_mix_pct,37.46241118286914,
+2026-03,team,CLO - Lending,CLO,engagement_pct,79.70289738081533,
+2026-03,team,CLO - Lending,CLO,enablement_pct,81.61869353282685,
+2026-03,team,CLO - Lending,CLO,inclusion_pct,90.43323923402906,
+2026-03,team,CLO - Lending,CLO,pli_pct,86.62267262712535,
+2026-03,team,CLO - Lending,CLO,slo_pct,100.0,
+2026-03,team,CLO - Lending,CLO,change_failure_rate,10.226160207706855,
+2026-03,team,CLO - Lending,CLO,time_to_restore,3.0419157370188565,
+2026-03,team,CLO - Lending,CLO,high_vuln_age,44.61153084591718,
+2026-03,team,CLO - Lending,CLO,incidents,0.0,P1
+2026-03,team,CLO - Lending,CLO,incidents,1.0,P2
+2026-03,team,CLO - Lending,CLO,incidents,5.0,P3
+2026-01,team,CLO - Operations,CLO,work_type_pct,51.00587544857399,Investment
+2026-01,team,CLO - Operations,CLO,work_type_pct,16.333501354109828,Tech Mod
+2026-01,team,CLO - Operations,CLO,work_type_pct,14.239540033228087,CTD
+2026-01,team,CLO - Operations,CLO,work_type_pct,18.4210831640881,RTE
+2026-01,team,CLO - Operations,CLO,pct_time_ctd_rte,32.660623197316184,
+2026-01,team,CLO - Operations,CLO,deployment_frequency,2.1498338281606215,
+2026-01,team,CLO - Operations,CLO,lead_time,7.027344024069302,
+2026-01,team,CLO - Operations,CLO,cycle_time,5.08583496207832,
+2026-01,team,CLO - Operations,CLO,prs_per_engineer,7.176750666360811,
+2026-01,team,CLO - Operations,CLO,direct_expense_variance,3.2628085484493514,
+2026-01,team,CLO - Operations,CLO,aws_expense_variance,8.39304159452144,
+2026-01,team,CLO - Operations,CLO,snowflake_expense_variance,0.0,
+2026-01,team,CLO - Operations,CLO,span_of_control,9.381005351499537,
+2026-01,team,CLO - Operations,CLO,contractor_mix_pct,40.01388177940876,
+2026-01,team,CLO - Operations,CLO,engagement_pct,83.91881390279181,
+2026-01,team,CLO - Operations,CLO,enablement_pct,86.93435177390404,
+2026-01,team,CLO - Operations,CLO,inclusion_pct,89.63629482495011,
+2026-01,team,CLO - Operations,CLO,pli_pct,89.48759155485955,
+2026-01,team,CLO - Operations,CLO,slo_pct,100.0,
+2026-01,team,CLO - Operations,CLO,change_failure_rate,11.936418989375996,
+2026-01,team,CLO - Operations,CLO,time_to_restore,4.088778203938074,
+2026-01,team,CLO - Operations,CLO,high_vuln_age,59.66738812541806,
+2026-01,team,CLO - Operations,CLO,incidents,0.0,P1
+2026-01,team,CLO - Operations,CLO,incidents,1.0,P2
+2026-01,team,CLO - Operations,CLO,incidents,3.0,P3
+2026-02,team,CLO - Operations,CLO,work_type_pct,53.34447847508667,Investment
+2026-02,team,CLO - Operations,CLO,work_type_pct,15.484309533651677,Tech Mod
+2026-02,team,CLO - Operations,CLO,work_type_pct,14.141398179712205,CTD
+2026-02,team,CLO - Operations,CLO,work_type_pct,17.029813811549456,RTE
+2026-02,team,CLO - Operations,CLO,pct_time_ctd_rte,31.17121199126166,
+2026-02,team,CLO - Operations,CLO,deployment_frequency,2.323389245080106,
+2026-02,team,CLO - Operations,CLO,lead_time,6.0891913897696135,
+2026-02,team,CLO - Operations,CLO,cycle_time,3.9545911942305563,
+2026-02,team,CLO - Operations,CLO,prs_per_engineer,7.096816002633132,
+2026-02,team,CLO - Operations,CLO,direct_expense_variance,4.928857449670492,
+2026-02,team,CLO - Operations,CLO,aws_expense_variance,8.136570417596593,
+2026-02,team,CLO - Operations,CLO,snowflake_expense_variance,0.0,
+2026-02,team,CLO - Operations,CLO,span_of_control,8.852696126107674,
+2026-02,team,CLO - Operations,CLO,contractor_mix_pct,43.046817903532265,
+2026-02,team,CLO - Operations,CLO,engagement_pct,82.06890961781995,
+2026-02,team,CLO - Operations,CLO,enablement_pct,85.99447950432521,
+2026-02,team,CLO - Operations,CLO,inclusion_pct,92.73838316520413,
+2026-02,team,CLO - Operations,CLO,pli_pct,95.01181302343623,
+2026-02,team,CLO - Operations,CLO,slo_pct,100.0,
+2026-02,team,CLO - Operations,CLO,change_failure_rate,11.851577680132149,
+2026-02,team,CLO - Operations,CLO,time_to_restore,3.1263589215668453,
+2026-02,team,CLO - Operations,CLO,high_vuln_age,51.22414193060375,
+2026-02,team,CLO - Operations,CLO,incidents,0.0,P1
+2026-02,team,CLO - Operations,CLO,incidents,0.0,P2
+2026-02,team,CLO - Operations,CLO,incidents,1.0,P3
+2026-03,team,CLO - Operations,CLO,work_type_pct,53.49294140961036,Investment
+2026-03,team,CLO - Operations,CLO,work_type_pct,15.481924146143323,Tech Mod
+2026-03,team,CLO - Operations,CLO,work_type_pct,13.345561458242067,CTD
+2026-03,team,CLO - Operations,CLO,work_type_pct,17.679572986004246,RTE
+2026-03,team,CLO - Operations,CLO,pct_time_ctd_rte,31.025134444246312,
+2026-03,team,CLO - Operations,CLO,deployment_frequency,2.1701627384625546,
+2026-03,team,CLO - Operations,CLO,lead_time,4.898188278091871,
+2026-03,team,CLO - Operations,CLO,cycle_time,4.38374231776822,
+2026-03,team,CLO - Operations,CLO,prs_per_engineer,8.441197599226712,
+2026-03,team,CLO - Operations,CLO,direct_expense_variance,3.637166792143093,
+2026-03,team,CLO - Operations,CLO,aws_expense_variance,7.420215977423891,
+2026-03,team,CLO - Operations,CLO,snowflake_expense_variance,0.0,
+2026-03,team,CLO - Operations,CLO,span_of_control,9.4703127763977,
+2026-03,team,CLO - Operations,CLO,contractor_mix_pct,43.242010465709015,
+2026-03,team,CLO - Operations,CLO,engagement_pct,89.05109903606777,
+2026-03,team,CLO - Operations,CLO,enablement_pct,89.26232224285356,
+2026-03,team,CLO - Operations,CLO,inclusion_pct,93.2937885026221,
+2026-03,team,CLO - Operations,CLO,pli_pct,93.00797748793332,
+2026-03,team,CLO - Operations,CLO,slo_pct,100.0,
+2026-03,team,CLO - Operations,CLO,change_failure_rate,9.167223716982559,
+2026-03,team,CLO - Operations,CLO,time_to_restore,3.7639003931437633,
+2026-03,team,CLO - Operations,CLO,high_vuln_age,57.66141502264046,
+2026-03,team,CLO - Operations,CLO,incidents,0.0,P1
+2026-03,team,CLO - Operations,CLO,incidents,1.0,P2
+2026-03,team,CLO - Operations,CLO,incidents,4.0,P3
+2026-01,team,CLO - Compliance,CLO,work_type_pct,52.48999643688269,Investment
+2026-01,team,CLO - Compliance,CLO,work_type_pct,16.965521207046717,Tech Mod
+2026-01,team,CLO - Compliance,CLO,work_type_pct,12.777789152254082,CTD
+2026-01,team,CLO - Compliance,CLO,work_type_pct,17.766693203816512,RTE
+2026-01,team,CLO - Compliance,CLO,pct_time_ctd_rte,30.544482356070596,
+2026-01,team,CLO - Compliance,CLO,deployment_frequency,1.8654303666374559,
+2026-01,team,CLO - Compliance,CLO,lead_time,5.36515458146636,
+2026-01,team,CLO - Compliance,CLO,cycle_time,4.612615839964586,
+2026-01,team,CLO - Compliance,CLO,prs_per_engineer,7.417824554485637,
+2026-01,team,CLO - Compliance,CLO,direct_expense_variance,4.682232630570714,
+2026-01,team,CLO - Compliance,CLO,aws_expense_variance,7.342915762237587,
+2026-01,team,CLO - Compliance,CLO,snowflake_expense_variance,0.0,
+2026-01,team,CLO - Compliance,CLO,span_of_control,7.818197203648092,
+2026-01,team,CLO - Compliance,CLO,contractor_mix_pct,39.252571142212844,
+2026-01,team,CLO - Compliance,CLO,engagement_pct,72.80798611996869,
+2026-01,team,CLO - Compliance,CLO,enablement_pct,78.42155847611738,
+2026-01,team,CLO - Compliance,CLO,inclusion_pct,82.57373060532109,
+2026-01,team,CLO - Compliance,CLO,pli_pct,77.59216282034025,
+2026-01,team,CLO - Compliance,CLO,slo_pct,100.0,
+2026-01,team,CLO - Compliance,CLO,change_failure_rate,10.68980856293628,
+2026-01,team,CLO - Compliance,CLO,time_to_restore,3.8665305832364907,
+2026-01,team,CLO - Compliance,CLO,high_vuln_age,57.34672998492637,
+2026-01,team,CLO - Compliance,CLO,incidents,0.0,P1
+2026-01,team,CLO - Compliance,CLO,incidents,3.0,P2
+2026-01,team,CLO - Compliance,CLO,incidents,1.0,P3
+2026-02,team,CLO - Compliance,CLO,work_type_pct,52.035156177484275,Investment
+2026-02,team,CLO - Compliance,CLO,work_type_pct,17.985968159810596,Tech Mod
+2026-02,team,CLO - Compliance,CLO,work_type_pct,14.092385591013867,CTD
+2026-02,team,CLO - Compliance,CLO,work_type_pct,15.886490071691265,RTE
+2026-02,team,CLO - Compliance,CLO,pct_time_ctd_rte,29.978875662705132,
+2026-02,team,CLO - Compliance,CLO,deployment_frequency,2.0337077697507104,
+2026-02,team,CLO - Compliance,CLO,lead_time,5.860704356765085,
+2026-02,team,CLO - Compliance,CLO,cycle_time,4.121946770340706,
+2026-02,team,CLO - Compliance,CLO,prs_per_engineer,7.548666343035393,
+2026-02,team,CLO - Compliance,CLO,direct_expense_variance,3.7959098675068543,
+2026-02,team,CLO - Compliance,CLO,aws_expense_variance,6.59137143999912,
+2026-02,team,CLO - Compliance,CLO,snowflake_expense_variance,0.0,
+2026-02,team,CLO - Compliance,CLO,span_of_control,7.985803272618952,
+2026-02,team,CLO - Compliance,CLO,contractor_mix_pct,36.56759286429212,
+2026-02,team,CLO - Compliance,CLO,engagement_pct,78.4743589848201,
+2026-02,team,CLO - Compliance,CLO,enablement_pct,80.33878298133736,
+2026-02,team,CLO - Compliance,CLO,inclusion_pct,82.71508224813377,
+2026-02,team,CLO - Compliance,CLO,pli_pct,78.21326342542153,
+2026-02,team,CLO - Compliance,CLO,slo_pct,100.0,
+2026-02,team,CLO - Compliance,CLO,change_failure_rate,9.970436479876911,
+2026-02,team,CLO - Compliance,CLO,time_to_restore,2.978635126098482,
+2026-02,team,CLO - Compliance,CLO,high_vuln_age,46.55030695334905,
+2026-02,team,CLO - Compliance,CLO,incidents,0.0,P1
+2026-02,team,CLO - Compliance,CLO,incidents,1.0,P2
+2026-02,team,CLO - Compliance,CLO,incidents,3.0,P3
+2026-03,team,CLO - Compliance,CLO,work_type_pct,53.42475733650708,Investment
+2026-03,team,CLO - Compliance,CLO,work_type_pct,16.963225754045016,Tech Mod
+2026-03,team,CLO - Compliance,CLO,work_type_pct,14.006247136901045,CTD
+2026-03,team,CLO - Compliance,CLO,work_type_pct,15.605769772546857,RTE
+2026-03,team,CLO - Compliance,CLO,pct_time_ctd_rte,29.612016909447902,
+2026-03,team,CLO - Compliance,CLO,deployment_frequency,1.8196575244433344,
+2026-03,team,CLO - Compliance,CLO,lead_time,4.310527745890271,
+2026-03,team,CLO - Compliance,CLO,cycle_time,3.5564744214428132,
+2026-03,team,CLO - Compliance,CLO,prs_per_engineer,6.9263335714878105,
+2026-03,team,CLO - Compliance,CLO,direct_expense_variance,4.131559602063945,
+2026-03,team,CLO - Compliance,CLO,aws_expense_variance,9.933751430970199,
+2026-03,team,CLO - Compliance,CLO,snowflake_expense_variance,0.0,
+2026-03,team,CLO - Compliance,CLO,span_of_control,8.111673073337906,
+2026-03,team,CLO - Compliance,CLO,contractor_mix_pct,37.677745193169685,
+2026-03,team,CLO - Compliance,CLO,engagement_pct,75.24073970688642,
+2026-03,team,CLO - Compliance,CLO,enablement_pct,78.35553407847928,
+2026-03,team,CLO - Compliance,CLO,inclusion_pct,82.05940725671512,
+2026-03,team,CLO - Compliance,CLO,pli_pct,79.93817299894862,
+2026-03,team,CLO - Compliance,CLO,slo_pct,100.0,
+2026-03,team,CLO - Compliance,CLO,change_failure_rate,10.11412659386282,
+2026-03,team,CLO - Compliance,CLO,time_to_restore,3.2782392828362976,
+2026-03,team,CLO - Compliance,CLO,high_vuln_age,42.50300430530924,
+2026-03,team,CLO - Compliance,CLO,incidents,1.0,P1
+2026-03,team,CLO - Compliance,CLO,incidents,2.0,P2
+2026-03,team,CLO - Compliance,CLO,incidents,3.0,P3
+2026-01,team,Core - Identity,Dealer Core,work_type_pct,51.42494088439342,Investment
+2026-01,team,Core - Identity,Dealer Core,work_type_pct,14.70851144568987,Tech Mod
+2026-01,team,Core - Identity,Dealer Core,work_type_pct,14.041405725164324,CTD
+2026-01,team,Core - Identity,Dealer Core,work_type_pct,19.825141944752385,RTE
+2026-01,team,Core - Identity,Dealer Core,pct_time_ctd_rte,33.86654766991671,
+2026-01,team,Core - Identity,Dealer Core,deployment_frequency,1.7242600086984945,
+2026-01,team,Core - Identity,Dealer Core,lead_time,5.397888153222632,
+2026-01,team,Core - Identity,Dealer Core,cycle_time,3.647490807632847,
+2026-01,team,Core - Identity,Dealer Core,prs_per_engineer,5.907919570216312,
+2026-01,team,Core - Identity,Dealer Core,direct_expense_variance,3.311820906682186,
+2026-01,team,Core - Identity,Dealer Core,aws_expense_variance,4.00551466185842,
+2026-01,team,Core - Identity,Dealer Core,snowflake_expense_variance,0.0,
+2026-01,team,Core - Identity,Dealer Core,span_of_control,6.38251832690368,
+2026-01,team,Core - Identity,Dealer Core,contractor_mix_pct,31.902372139267722,
+2026-01,team,Core - Identity,Dealer Core,engagement_pct,65.749670630769,
+2026-01,team,Core - Identity,Dealer Core,enablement_pct,68.44386684766346,
+2026-01,team,Core - Identity,Dealer Core,inclusion_pct,71.30406161904689,
+2026-01,team,Core - Identity,Dealer Core,pli_pct,72.40686363031904,
+2026-01,team,Core - Identity,Dealer Core,slo_pct,94.61057451419715,
+2026-01,team,Core - Identity,Dealer Core,change_failure_rate,9.212258300532621,
+2026-01,team,Core - Identity,Dealer Core,time_to_restore,2.8026132710789784,
+2026-01,team,Core - Identity,Dealer Core,high_vuln_age,47.80066333865229,
+2026-01,team,Core - Identity,Dealer Core,incidents,0.0,P1
+2026-01,team,Core - Identity,Dealer Core,incidents,2.0,P2
+2026-01,team,Core - Identity,Dealer Core,incidents,1.0,P3
+2026-02,team,Core - Identity,Dealer Core,work_type_pct,52.47019790717615,Investment
+2026-02,team,Core - Identity,Dealer Core,work_type_pct,15.2474499290528,Tech Mod
+2026-02,team,Core - Identity,Dealer Core,work_type_pct,13.728320962343204,CTD
+2026-02,team,Core - Identity,Dealer Core,work_type_pct,18.55403120142784,RTE
+2026-02,team,Core - Identity,Dealer Core,pct_time_ctd_rte,32.282352163771044,
+2026-02,team,Core - Identity,Dealer Core,deployment_frequency,1.8548897033473914,
+2026-02,team,Core - Identity,Dealer Core,lead_time,5.190607894932348,
+2026-02,team,Core - Identity,Dealer Core,cycle_time,3.0029319575305995,
+2026-02,team,Core - Identity,Dealer Core,prs_per_engineer,5.615928342475542,
+2026-02,team,Core - Identity,Dealer Core,direct_expense_variance,2.2176166635924783,
+2026-02,team,Core - Identity,Dealer Core,aws_expense_variance,7.037457256715235,
+2026-02,team,Core - Identity,Dealer Core,snowflake_expense_variance,0.0,
+2026-02,team,Core - Identity,Dealer Core,span_of_control,6.6600610376254386,
+2026-02,team,Core - Identity,Dealer Core,contractor_mix_pct,27.01134187441629,
+2026-02,team,Core - Identity,Dealer Core,engagement_pct,63.524330658015685,
+2026-02,team,Core - Identity,Dealer Core,enablement_pct,67.09515911182476,
+2026-02,team,Core - Identity,Dealer Core,inclusion_pct,72.05687890896439,
+2026-02,team,Core - Identity,Dealer Core,pli_pct,70.33878438555921,
+2026-02,team,Core - Identity,Dealer Core,slo_pct,94.80650255739987,
+2026-02,team,Core - Identity,Dealer Core,change_failure_rate,8.302219860495477,
+2026-02,team,Core - Identity,Dealer Core,time_to_restore,2.9830721122490425,
+2026-02,team,Core - Identity,Dealer Core,high_vuln_age,40.32228257449305,
+2026-02,team,Core - Identity,Dealer Core,incidents,0.0,P1
+2026-02,team,Core - Identity,Dealer Core,incidents,0.0,P2
+2026-02,team,Core - Identity,Dealer Core,incidents,4.0,P3
+2026-03,team,Core - Identity,Dealer Core,work_type_pct,52.94373170605174,Investment
+2026-03,team,Core - Identity,Dealer Core,work_type_pct,17.18003519359694,Tech Mod
+2026-03,team,Core - Identity,Dealer Core,work_type_pct,13.028750858435112,CTD
+2026-03,team,Core - Identity,Dealer Core,work_type_pct,16.8474822419162,RTE
+2026-03,team,Core - Identity,Dealer Core,pct_time_ctd_rte,29.876233100351314,
+2026-03,team,Core - Identity,Dealer Core,deployment_frequency,1.930376362631223,
+2026-03,team,Core - Identity,Dealer Core,lead_time,4.0051539154842555,
+2026-03,team,Core - Identity,Dealer Core,cycle_time,2.862982605043717,
+2026-03,team,Core - Identity,Dealer Core,prs_per_engineer,6.3396559112565924,
+2026-03,team,Core - Identity,Dealer Core,direct_expense_variance,4.44896790745686,
+2026-03,team,Core - Identity,Dealer Core,aws_expense_variance,7.001098788771612,
+2026-03,team,Core - Identity,Dealer Core,snowflake_expense_variance,0.0,
+2026-03,team,Core - Identity,Dealer Core,span_of_control,7.560840024540803,
+2026-03,team,Core - Identity,Dealer Core,contractor_mix_pct,33.040674731706744,
+2026-03,team,Core - Identity,Dealer Core,engagement_pct,69.40180694669844,
+2026-03,team,Core - Identity,Dealer Core,enablement_pct,72.52323342854629,
+2026-03,team,Core - Identity,Dealer Core,inclusion_pct,70.09332342459278,
+2026-03,team,Core - Identity,Dealer Core,pli_pct,71.52626325247283,
+2026-03,team,Core - Identity,Dealer Core,slo_pct,94.8435869436977,
+2026-03,team,Core - Identity,Dealer Core,change_failure_rate,7.709488581888075,
+2026-03,team,Core - Identity,Dealer Core,time_to_restore,2.2065601963054404,
+2026-03,team,Core - Identity,Dealer Core,high_vuln_age,37.329854212936375,
+2026-03,team,Core - Identity,Dealer Core,incidents,0.0,P1
+2026-03,team,Core - Identity,Dealer Core,incidents,1.0,P2
+2026-03,team,Core - Identity,Dealer Core,incidents,1.0,P3
+2026-01,team,Core - API,Dealer Core,work_type_pct,49.735263063828135,Investment
+2026-01,team,Core - API,Dealer Core,work_type_pct,15.955818063285715,Tech Mod
+2026-01,team,Core - API,Dealer Core,work_type_pct,15.43995113837166,CTD
+2026-01,team,Core - API,Dealer Core,work_type_pct,18.86896773451449,RTE
+2026-01,team,Core - API,Dealer Core,pct_time_ctd_rte,34.30891887288615,
+2026-01,team,Core - API,Dealer Core,deployment_frequency,1.9928091685107514,
+2026-01,team,Core - API,Dealer Core,lead_time,6.158049000446292,
+2026-01,team,Core - API,Dealer Core,cycle_time,3.7276333105259205,
+2026-01,team,Core - API,Dealer Core,prs_per_engineer,6.434011395598658,
+2026-01,team,Core - API,Dealer Core,direct_expense_variance,4.227377280811198,
+2026-01,team,Core - API,Dealer Core,aws_expense_variance,8.005198235346942,
+2026-01,team,Core - API,Dealer Core,snowflake_expense_variance,0.0,
+2026-01,team,Core - API,Dealer Core,span_of_control,8.222918578062478,
+2026-01,team,Core - API,Dealer Core,contractor_mix_pct,39.59684979263283,
+2026-01,team,Core - API,Dealer Core,engagement_pct,76.9543115954683,
+2026-01,team,Core - API,Dealer Core,enablement_pct,77.84510828482784,
+2026-01,team,Core - API,Dealer Core,inclusion_pct,81.41954775105361,
+2026-01,team,Core - API,Dealer Core,pli_pct,80.61767220388982,
+2026-01,team,Core - API,Dealer Core,slo_pct,100.0,
+2026-01,team,Core - API,Dealer Core,change_failure_rate,11.082047048934161,
+2026-01,team,Core - API,Dealer Core,time_to_restore,2.2514350825580545,
+2026-01,team,Core - API,Dealer Core,high_vuln_age,46.81496297359261,
+2026-01,team,Core - API,Dealer Core,incidents,0.0,P1
+2026-01,team,Core - API,Dealer Core,incidents,2.0,P2
+2026-01,team,Core - API,Dealer Core,incidents,5.0,P3
+2026-02,team,Core - API,Dealer Core,work_type_pct,53.66296788200344,Investment
+2026-02,team,Core - API,Dealer Core,work_type_pct,15.301507760002101,Tech Mod
+2026-02,team,Core - API,Dealer Core,work_type_pct,14.028282340892698,CTD
+2026-02,team,Core - API,Dealer Core,work_type_pct,17.007242017101756,RTE
+2026-02,team,Core - API,Dealer Core,pct_time_ctd_rte,31.035524357994454,
+2026-02,team,Core - API,Dealer Core,deployment_frequency,1.8290971953883113,
+2026-02,team,Core - API,Dealer Core,lead_time,5.288195706594106,
+2026-02,team,Core - API,Dealer Core,cycle_time,3.5527892376772856,
+2026-02,team,Core - API,Dealer Core,prs_per_engineer,7.4654345078902615,
+2026-02,team,Core - API,Dealer Core,direct_expense_variance,3.776415810577948,
+2026-02,team,Core - API,Dealer Core,aws_expense_variance,7.1984787444920695,
+2026-02,team,Core - API,Dealer Core,snowflake_expense_variance,0.0,
+2026-02,team,Core - API,Dealer Core,span_of_control,7.888629519716938,
+2026-02,team,Core - API,Dealer Core,contractor_mix_pct,36.821844563525126,
+2026-02,team,Core - API,Dealer Core,engagement_pct,73.64227536108804,
+2026-02,team,Core - API,Dealer Core,enablement_pct,75.66191955703782,
+2026-02,team,Core - API,Dealer Core,inclusion_pct,84.63877071372639,
+2026-02,team,Core - API,Dealer Core,pli_pct,79.56744712031639,
+2026-02,team,Core - API,Dealer Core,slo_pct,100.0,
+2026-02,team,Core - API,Dealer Core,change_failure_rate,10.139623038417323,
+2026-02,team,Core - API,Dealer Core,time_to_restore,3.160299176144811,
+2026-02,team,Core - API,Dealer Core,high_vuln_age,42.57390881480316,
+2026-02,team,Core - API,Dealer Core,incidents,0.0,P1
+2026-02,team,Core - API,Dealer Core,incidents,2.0,P2
+2026-02,team,Core - API,Dealer Core,incidents,6.0,P3
+2026-03,team,Core - API,Dealer Core,work_type_pct,54.99761747718058,Investment
+2026-03,team,Core - API,Dealer Core,work_type_pct,16.42338535927265,Tech Mod
+2026-03,team,Core - API,Dealer Core,work_type_pct,13.36740136591352,CTD
+2026-03,team,Core - API,Dealer Core,work_type_pct,15.211595797633247,RTE
+2026-03,team,Core - API,Dealer Core,pct_time_ctd_rte,28.578997163546767,
+2026-03,team,Core - API,Dealer Core,deployment_frequency,2.199597431286707,
+2026-03,team,Core - API,Dealer Core,lead_time,5.435607244211323,
+2026-03,team,Core - API,Dealer Core,cycle_time,3.567196313436961,
+2026-03,team,Core - API,Dealer Core,prs_per_engineer,6.94879788402042,
+2026-03,team,Core - API,Dealer Core,direct_expense_variance,5.10501413115342,
+2026-03,team,Core - API,Dealer Core,aws_expense_variance,8.452724899292932,
+2026-03,team,Core - API,Dealer Core,snowflake_expense_variance,0.0,
+2026-03,team,Core - API,Dealer Core,span_of_control,7.667281597258958,
+2026-03,team,Core - API,Dealer Core,contractor_mix_pct,35.8523612413336,
+2026-03,team,Core - API,Dealer Core,engagement_pct,77.10757818003194,
+2026-03,team,Core - API,Dealer Core,enablement_pct,79.44762353776888,
+2026-03,team,Core - API,Dealer Core,inclusion_pct,84.32954556362736,
+2026-03,team,Core - API,Dealer Core,pli_pct,80.64513760840074,
+2026-03,team,Core - API,Dealer Core,slo_pct,100.0,
+2026-03,team,Core - API,Dealer Core,change_failure_rate,9.078226288318472,
+2026-03,team,Core - API,Dealer Core,time_to_restore,2.361033405619226,
+2026-03,team,Core - API,Dealer Core,high_vuln_age,49.28017525554728,
+2026-03,team,Core - API,Dealer Core,incidents,1.0,P1
+2026-03,team,Core - API,Dealer Core,incidents,0.0,P2
+2026-03,team,Core - API,Dealer Core,incidents,2.0,P3
+2026-01,team,Core - Data,Dealer Core,work_type_pct,46.85618934520204,Investment
+2026-01,team,Core - Data,Dealer Core,work_type_pct,17.509112465692358,Tech Mod
+2026-01,team,Core - Data,Dealer Core,work_type_pct,15.308898637996759,CTD
+2026-01,team,Core - Data,Dealer Core,work_type_pct,20.325799551108844,RTE
+2026-01,team,Core - Data,Dealer Core,pct_time_ctd_rte,35.634698189105606,
+2026-01,team,Core - Data,Dealer Core,deployment_frequency,1.6717446897417918,
+2026-01,team,Core - Data,Dealer Core,lead_time,5.233994216452431,
+2026-01,team,Core - Data,Dealer Core,cycle_time,2.7795439985216746,
+2026-01,team,Core - Data,Dealer Core,prs_per_engineer,5.1659922766029,
+2026-01,team,Core - Data,Dealer Core,direct_expense_variance,0.3894406118069238,
+2026-01,team,Core - Data,Dealer Core,aws_expense_variance,5.8447840556943795,
+2026-01,team,Core - Data,Dealer Core,snowflake_expense_variance,0.0,
+2026-01,team,Core - Data,Dealer Core,span_of_control,6.955735097344089,
+2026-01,team,Core - Data,Dealer Core,contractor_mix_pct,34.47808742557708,
+2026-01,team,Core - Data,Dealer Core,engagement_pct,61.89953328339497,
+2026-01,team,Core - Data,Dealer Core,enablement_pct,62.77914037646875,
+2026-01,team,Core - Data,Dealer Core,inclusion_pct,68.76278653942224,
+2026-01,team,Core - Data,Dealer Core,pli_pct,64.97979708364551,
+2026-01,team,Core - Data,Dealer Core,slo_pct,88.5189439346898,
+2026-01,team,Core - Data,Dealer Core,change_failure_rate,9.967882358090538,
+2026-01,team,Core - Data,Dealer Core,time_to_restore,2.6360989918319224,
+2026-01,team,Core - Data,Dealer Core,high_vuln_age,48.35227733483041,
+2026-01,team,Core - Data,Dealer Core,incidents,1.0,P1
+2026-01,team,Core - Data,Dealer Core,incidents,1.0,P2
+2026-01,team,Core - Data,Dealer Core,incidents,2.0,P3
+2026-02,team,Core - Data,Dealer Core,work_type_pct,49.00608399460688,Investment
+2026-02,team,Core - Data,Dealer Core,work_type_pct,17.732285045123003,Tech Mod
+2026-02,team,Core - Data,Dealer Core,work_type_pct,13.549753777661392,CTD
+2026-02,team,Core - Data,Dealer Core,work_type_pct,19.711877182608735,RTE
+2026-02,team,Core - Data,Dealer Core,pct_time_ctd_rte,33.261630960270125,
+2026-02,team,Core - Data,Dealer Core,deployment_frequency,1.511620211914176,
+2026-02,team,Core - Data,Dealer Core,lead_time,4.375155293509455,
+2026-02,team,Core - Data,Dealer Core,cycle_time,3.1586843342793065,
+2026-02,team,Core - Data,Dealer Core,prs_per_engineer,7.141015685197673,
+2026-02,team,Core - Data,Dealer Core,direct_expense_variance,1.7324797412244854,
+2026-02,team,Core - Data,Dealer Core,aws_expense_variance,7.978182458344414,
+2026-02,team,Core - Data,Dealer Core,snowflake_expense_variance,0.0,
+2026-02,team,Core - Data,Dealer Core,span_of_control,6.636017477530136,
+2026-02,team,Core - Data,Dealer Core,contractor_mix_pct,29.56941105996782,
+2026-02,team,Core - Data,Dealer Core,engagement_pct,63.373758752482985,
+2026-02,team,Core - Data,Dealer Core,enablement_pct,63.97803913810708,
+2026-02,team,Core - Data,Dealer Core,inclusion_pct,71.06685798573585,
+2026-02,team,Core - Data,Dealer Core,pli_pct,65.62783421734787,
+2026-02,team,Core - Data,Dealer Core,slo_pct,88.69770268605097,
+2026-02,team,Core - Data,Dealer Core,change_failure_rate,7.427056609961307,
+2026-02,team,Core - Data,Dealer Core,time_to_restore,2.4823697247108347,
+2026-02,team,Core - Data,Dealer Core,high_vuln_age,35.95906514317033,
+2026-02,team,Core - Data,Dealer Core,incidents,0.0,P1
+2026-02,team,Core - Data,Dealer Core,incidents,1.0,P2
+2026-02,team,Core - Data,Dealer Core,incidents,2.0,P3
+2026-03,team,Core - Data,Dealer Core,work_type_pct,48.73381171647774,Investment
+2026-03,team,Core - Data,Dealer Core,work_type_pct,16.898985341997022,Tech Mod
+2026-03,team,Core - Data,Dealer Core,work_type_pct,14.058742844036457,CTD
+2026-03,team,Core - Data,Dealer Core,work_type_pct,20.308460097488776,RTE
+2026-03,team,Core - Data,Dealer Core,pct_time_ctd_rte,34.367202941525235,
+2026-03,team,Core - Data,Dealer Core,deployment_frequency,2.249647418356169,
+2026-03,team,Core - Data,Dealer Core,lead_time,3.907804324482933,
+2026-03,team,Core - Data,Dealer Core,cycle_time,3.3146653824136822,
+2026-03,team,Core - Data,Dealer Core,prs_per_engineer,5.885292411252608,
+2026-03,team,Core - Data,Dealer Core,direct_expense_variance,3.5198511504371766,
+2026-03,team,Core - Data,Dealer Core,aws_expense_variance,7.795842077800385,
+2026-03,team,Core - Data,Dealer Core,snowflake_expense_variance,0.0,
+2026-03,team,Core - Data,Dealer Core,span_of_control,6.5844262765586485,
+2026-03,team,Core - Data,Dealer Core,contractor_mix_pct,27.62928533892427,
+2026-03,team,Core - Data,Dealer Core,engagement_pct,61.26179925561459,
+2026-03,team,Core - Data,Dealer Core,enablement_pct,62.175919900216385,
+2026-03,team,Core - Data,Dealer Core,inclusion_pct,70.0757585205317,
+2026-03,team,Core - Data,Dealer Core,pli_pct,67.00031984152389,
+2026-03,team,Core - Data,Dealer Core,slo_pct,88.6776274128452,
+2026-03,team,Core - Data,Dealer Core,change_failure_rate,7.044021355815993,
+2026-03,team,Core - Data,Dealer Core,time_to_restore,2.433793849910008,
+2026-03,team,Core - Data,Dealer Core,high_vuln_age,35.89010071847951,
+2026-03,team,Core - Data,Dealer Core,incidents,2.0,P1
+2026-03,team,Core - Data,Dealer Core,incidents,0.0,P2
+2026-03,team,Core - Data,Dealer Core,incidents,4.0,P3
+2026-01,team,DR - Recovery,DR,work_type_pct,54.45365214661591,Investment
+2026-01,team,DR - Recovery,DR,work_type_pct,15.0235585780057,Tech Mod
+2026-01,team,DR - Recovery,DR,work_type_pct,12.337497223804341,CTD
+2026-01,team,DR - Recovery,DR,work_type_pct,18.185292051574052,RTE
+2026-01,team,DR - Recovery,DR,pct_time_ctd_rte,30.522789275378393,
+2026-01,team,DR - Recovery,DR,deployment_frequency,1.553772613477893,
+2026-01,team,DR - Recovery,DR,lead_time,5.061566388189248,
+2026-01,team,DR - Recovery,DR,cycle_time,4.1356593568807485,
+2026-01,team,DR - Recovery,DR,prs_per_engineer,6.332159965182205,
+2026-01,team,DR - Recovery,DR,direct_expense_variance,4.507290394054031,
+2026-01,team,DR - Recovery,DR,aws_expense_variance,6.072935133304102,
+2026-01,team,DR - Recovery,DR,snowflake_expense_variance,0.0,
+2026-01,team,DR - Recovery,DR,span_of_control,6.948072908397849,
+2026-01,team,DR - Recovery,DR,contractor_mix_pct,35.56471068425835,
+2026-01,team,DR - Recovery,DR,engagement_pct,67.88366898131684,
+2026-01,team,DR - Recovery,DR,enablement_pct,72.47803240238652,
+2026-01,team,DR - Recovery,DR,inclusion_pct,73.94720994570176,
+2026-01,team,DR - Recovery,DR,pli_pct,73.38562944271125,
+2026-01,team,DR - Recovery,DR,slo_pct,97.27900757745125,
+2026-01,team,DR - Recovery,DR,change_failure_rate,10.26211639740303,
+2026-01,team,DR - Recovery,DR,time_to_restore,3.050067957646194,
+2026-01,team,DR - Recovery,DR,high_vuln_age,46.23044282876285,
+2026-01,team,DR - Recovery,DR,incidents,1.0,P1
+2026-01,team,DR - Recovery,DR,incidents,2.0,P2
+2026-01,team,DR - Recovery,DR,incidents,5.0,P3
+2026-02,team,DR - Recovery,DR,work_type_pct,55.07894925053872,Investment
+2026-02,team,DR - Recovery,DR,work_type_pct,15.75094254687264,Tech Mod
+2026-02,team,DR - Recovery,DR,work_type_pct,12.356579817901824,CTD
+2026-02,team,DR - Recovery,DR,work_type_pct,16.813528384686816,RTE
+2026-02,team,DR - Recovery,DR,pct_time_ctd_rte,29.17010820258864,
+2026-02,team,DR - Recovery,DR,deployment_frequency,1.8533278734156067,
+2026-02,team,DR - Recovery,DR,lead_time,4.910864509890847,
+2026-02,team,DR - Recovery,DR,cycle_time,3.9628235245485413,
+2026-02,team,DR - Recovery,DR,prs_per_engineer,5.173248748223362,
+2026-02,team,DR - Recovery,DR,direct_expense_variance,1.3438991582232633,
+2026-02,team,DR - Recovery,DR,aws_expense_variance,6.264107924422068,
+2026-02,team,DR - Recovery,DR,snowflake_expense_variance,0.0,
+2026-02,team,DR - Recovery,DR,span_of_control,7.417065885802364,
+2026-02,team,DR - Recovery,DR,contractor_mix_pct,33.22704546716297,
+2026-02,team,DR - Recovery,DR,engagement_pct,67.97572910804452,
+2026-02,team,DR - Recovery,DR,enablement_pct,72.7469246427884,
+2026-02,team,DR - Recovery,DR,inclusion_pct,77.03811931772856,
+2026-02,team,DR - Recovery,DR,pli_pct,73.53758184353028,
+2026-02,team,DR - Recovery,DR,slo_pct,97.51457308350673,
+2026-02,team,DR - Recovery,DR,change_failure_rate,9.094216343594988,
+2026-02,team,DR - Recovery,DR,time_to_restore,2.5840780340174496,
+2026-02,team,DR - Recovery,DR,high_vuln_age,46.93048665182066,
+2026-02,team,DR - Recovery,DR,incidents,0.0,P1
+2026-02,team,DR - Recovery,DR,incidents,3.0,P2
+2026-02,team,DR - Recovery,DR,incidents,3.0,P3
+2026-03,team,DR - Recovery,DR,work_type_pct,54.76541010711949,Investment
+2026-03,team,DR - Recovery,DR,work_type_pct,14.106546302852118,Tech Mod
+2026-03,team,DR - Recovery,DR,work_type_pct,13.391769657634716,CTD
+2026-03,team,DR - Recovery,DR,work_type_pct,17.73627393239367,RTE
+2026-03,team,DR - Recovery,DR,pct_time_ctd_rte,31.128043590028383,
+2026-03,team,DR - Recovery,DR,deployment_frequency,1.9024627806449932,
+2026-03,team,DR - Recovery,DR,lead_time,4.450135960297235,
+2026-03,team,DR - Recovery,DR,cycle_time,2.834498830725607,
+2026-03,team,DR - Recovery,DR,prs_per_engineer,5.289275912824487,
+2026-03,team,DR - Recovery,DR,direct_expense_variance,3.8227979941549255,
+2026-03,team,DR - Recovery,DR,aws_expense_variance,6.746908113808318,
+2026-03,team,DR - Recovery,DR,snowflake_expense_variance,0.0,
+2026-03,team,DR - Recovery,DR,span_of_control,6.362749507803389,
+2026-03,team,DR - Recovery,DR,contractor_mix_pct,30.022460410600114,
+2026-03,team,DR - Recovery,DR,engagement_pct,70.52016020408398,
+2026-03,team,DR - Recovery,DR,enablement_pct,72.43081110634543,
+2026-03,team,DR - Recovery,DR,inclusion_pct,76.3972282642358,
+2026-03,team,DR - Recovery,DR,pli_pct,71.42016084196221,
+2026-03,team,DR - Recovery,DR,slo_pct,97.60707173975938,
+2026-03,team,DR - Recovery,DR,change_failure_rate,7.080366516362878,
+2026-03,team,DR - Recovery,DR,time_to_restore,2.6352142707861654,
+2026-03,team,DR - Recovery,DR,high_vuln_age,39.140943059074004,
+2026-03,team,DR - Recovery,DR,incidents,0.0,P1
+2026-03,team,DR - Recovery,DR,incidents,2.0,P2
+2026-03,team,DR - Recovery,DR,incidents,4.0,P3
+2026-01,team,DR - Collections,DR,work_type_pct,50.265156480215445,Investment
+2026-01,team,DR - Collections,DR,work_type_pct,17.39892288126616,Tech Mod
+2026-01,team,DR - Collections,DR,work_type_pct,13.721714404040947,CTD
+2026-01,team,DR - Collections,DR,work_type_pct,18.61420623447745,RTE
+2026-01,team,DR - Collections,DR,pct_time_ctd_rte,32.335920638518395,
+2026-01,team,DR - Collections,DR,deployment_frequency,1.889661749688498,
+2026-01,team,DR - Collections,DR,lead_time,4.636410486863857,
+2026-01,team,DR - Collections,DR,cycle_time,3.11455769055315,
+2026-01,team,DR - Collections,DR,prs_per_engineer,5.2640382173093885,
+2026-01,team,DR - Collections,DR,direct_expense_variance,3.200883112911509,
+2026-01,team,DR - Collections,DR,aws_expense_variance,5.8627547268167985,
+2026-01,team,DR - Collections,DR,snowflake_expense_variance,0.0,
+2026-01,team,DR - Collections,DR,span_of_control,6.283345082402514,
+2026-01,team,DR - Collections,DR,contractor_mix_pct,32.004455776939515,
+2026-01,team,DR - Collections,DR,engagement_pct,61.667879380303006,
+2026-01,team,DR - Collections,DR,enablement_pct,70.3312535117052,
+2026-01,team,DR - Collections,DR,inclusion_pct,70.46497400294842,
+2026-01,team,DR - Collections,DR,pli_pct,69.9086097704854,
+2026-01,team,DR - Collections,DR,slo_pct,91.16427900801811,
+2026-01,team,DR - Collections,DR,change_failure_rate,9.103206143948768,
+2026-01,team,DR - Collections,DR,time_to_restore,2.6658838595760965,
+2026-01,team,DR - Collections,DR,high_vuln_age,35.953574450703556,
+2026-01,team,DR - Collections,DR,incidents,0.0,P1
+2026-01,team,DR - Collections,DR,incidents,0.0,P2
+2026-01,team,DR - Collections,DR,incidents,4.0,P3
+2026-02,team,DR - Collections,DR,work_type_pct,49.99297127682896,Investment
+2026-02,team,DR - Collections,DR,work_type_pct,17.077136290908445,Tech Mod
+2026-02,team,DR - Collections,DR,work_type_pct,13.426811569123517,CTD
+2026-02,team,DR - Collections,DR,work_type_pct,19.503080863139072,RTE
+2026-02,team,DR - Collections,DR,pct_time_ctd_rte,32.92989243226259,
+2026-02,team,DR - Collections,DR,deployment_frequency,1.870559532644626,
+2026-02,team,DR - Collections,DR,lead_time,4.347125256253083,
+2026-02,team,DR - Collections,DR,cycle_time,3.3909451511249276,
+2026-02,team,DR - Collections,DR,prs_per_engineer,6.316538709178175,
+2026-02,team,DR - Collections,DR,direct_expense_variance,2.682614815776607,
+2026-02,team,DR - Collections,DR,aws_expense_variance,5.202081888878664,
+2026-02,team,DR - Collections,DR,snowflake_expense_variance,0.0,
+2026-02,team,DR - Collections,DR,span_of_control,6.6667469562400825,
+2026-02,team,DR - Collections,DR,contractor_mix_pct,30.859690052705126,
+2026-02,team,DR - Collections,DR,engagement_pct,62.83836762477702,
+2026-02,team,DR - Collections,DR,enablement_pct,66.28507767923008,
+2026-02,team,DR - Collections,DR,inclusion_pct,71.47334834969078,
+2026-02,team,DR - Collections,DR,pli_pct,69.8521361705453,
+2026-02,team,DR - Collections,DR,slo_pct,91.40607453646118,
+2026-02,team,DR - Collections,DR,change_failure_rate,9.485682090316734,
+2026-02,team,DR - Collections,DR,time_to_restore,2.2812890488685573,
+2026-02,team,DR - Collections,DR,high_vuln_age,48.02379671950388,
+2026-02,team,DR - Collections,DR,incidents,0.0,P1
+2026-02,team,DR - Collections,DR,incidents,1.0,P2
+2026-02,team,DR - Collections,DR,incidents,5.0,P3
+2026-03,team,DR - Collections,DR,work_type_pct,50.58654694159536,Investment
+2026-03,team,DR - Collections,DR,work_type_pct,17.488660231763344,Tech Mod
+2026-03,team,DR - Collections,DR,work_type_pct,13.40281913951277,CTD
+2026-03,team,DR - Collections,DR,work_type_pct,18.52197368712854,RTE
+2026-03,team,DR - Collections,DR,pct_time_ctd_rte,31.92479282664131,
+2026-03,team,DR - Collections,DR,deployment_frequency,1.9777699566367124,
+2026-03,team,DR - Collections,DR,lead_time,4.282547957048831,
+2026-03,team,DR - Collections,DR,cycle_time,3.502353125465099,
+2026-03,team,DR - Collections,DR,prs_per_engineer,5.666118084607355,
+2026-03,team,DR - Collections,DR,direct_expense_variance,4.808948217061408,
+2026-03,team,DR - Collections,DR,aws_expense_variance,7.590038737826397,
+2026-03,team,DR - Collections,DR,snowflake_expense_variance,0.0,
+2026-03,team,DR - Collections,DR,span_of_control,6.497780703817373,
+2026-03,team,DR - Collections,DR,contractor_mix_pct,29.187514911886627,
+2026-03,team,DR - Collections,DR,engagement_pct,65.66534044904861,
+2026-03,team,DR - Collections,DR,enablement_pct,65.54599048758756,
+2026-03,team,DR - Collections,DR,inclusion_pct,72.14380420579214,
+2026-03,team,DR - Collections,DR,pli_pct,70.91856094931715,
+2026-03,team,DR - Collections,DR,slo_pct,91.43949487754423,
+2026-03,team,DR - Collections,DR,change_failure_rate,8.731367746841757,
+2026-03,team,DR - Collections,DR,time_to_restore,2.7017761016624546,
+2026-03,team,DR - Collections,DR,high_vuln_age,34.918331303166944,
+2026-03,team,DR - Collections,DR,incidents,1.0,P1
+2026-03,team,DR - Collections,DR,incidents,0.0,P2
+2026-03,team,DR - Collections,DR,incidents,0.0,P3
+2026-01,team,DR - Reporting,DR,work_type_pct,52.6812058478488,Investment
+2026-01,team,DR - Reporting,DR,work_type_pct,14.938249483216604,Tech Mod
+2026-01,team,DR - Reporting,DR,work_type_pct,14.981727579522033,CTD
+2026-01,team,DR - Reporting,DR,work_type_pct,17.398817089412567,RTE
+2026-01,team,DR - Reporting,DR,pct_time_ctd_rte,32.380544668934604,
+2026-01,team,DR - Reporting,DR,deployment_frequency,1.3858636581265409,
+2026-01,team,DR - Reporting,DR,lead_time,4.418095629105653,
+2026-01,team,DR - Reporting,DR,cycle_time,3.9032114482125078,
+2026-01,team,DR - Reporting,DR,prs_per_engineer,5.790864552492679,
+2026-01,team,DR - Reporting,DR,direct_expense_variance,3.142527923889329,
+2026-01,team,DR - Reporting,DR,aws_expense_variance,4.730269601142133,
+2026-01,team,DR - Reporting,DR,snowflake_expense_variance,0.0,
+2026-01,team,DR - Reporting,DR,span_of_control,7.920711083519549,
+2026-01,team,DR - Reporting,DR,contractor_mix_pct,36.10620181897829,
+2026-01,team,DR - Reporting,DR,engagement_pct,66.52234202950895,
+2026-01,team,DR - Reporting,DR,enablement_pct,67.72429072400118,
+2026-01,team,DR - Reporting,DR,inclusion_pct,72.2141411680793,
+2026-01,team,DR - Reporting,DR,pli_pct,66.61743158609397,
+2026-01,team,DR - Reporting,DR,slo_pct,95.18332002827395,
+2026-01,team,DR - Reporting,DR,change_failure_rate,10.437659463361944,
+2026-01,team,DR - Reporting,DR,time_to_restore,2.5243566058530007,
+2026-01,team,DR - Reporting,DR,high_vuln_age,45.58906061577487,
+2026-01,team,DR - Reporting,DR,incidents,0.0,P1
+2026-01,team,DR - Reporting,DR,incidents,2.0,P2
+2026-01,team,DR - Reporting,DR,incidents,3.0,P3
+2026-02,team,DR - Reporting,DR,work_type_pct,51.50293687217198,Investment
+2026-02,team,DR - Reporting,DR,work_type_pct,16.060199792885637,Tech Mod
+2026-02,team,DR - Reporting,DR,work_type_pct,17.22305316494088,CTD
+2026-02,team,DR - Reporting,DR,work_type_pct,15.213810170001496,RTE
+2026-02,team,DR - Reporting,DR,pct_time_ctd_rte,32.43686333494237,
+2026-02,team,DR - Reporting,DR,deployment_frequency,1.773000647748839,
+2026-02,team,DR - Reporting,DR,lead_time,4.283015173779791,
+2026-02,team,DR - Reporting,DR,cycle_time,3.605885514911808,
+2026-02,team,DR - Reporting,DR,prs_per_engineer,5.904683792355744,
+2026-02,team,DR - Reporting,DR,direct_expense_variance,3.8037110303879222,
+2026-02,team,DR - Reporting,DR,aws_expense_variance,7.382256395471826,
+2026-02,team,DR - Reporting,DR,snowflake_expense_variance,0.0,
+2026-02,team,DR - Reporting,DR,span_of_control,6.808659601064886,
+2026-02,team,DR - Reporting,DR,contractor_mix_pct,32.30624469741904,
+2026-02,team,DR - Reporting,DR,engagement_pct,64.27900846193927,
+2026-02,team,DR - Reporting,DR,enablement_pct,71.50929715037292,
+2026-02,team,DR - Reporting,DR,inclusion_pct,72.03276834315123,
+2026-02,team,DR - Reporting,DR,pli_pct,70.3672469845266,
+2026-02,team,DR - Reporting,DR,slo_pct,95.2638747944833,
+2026-02,team,DR - Reporting,DR,change_failure_rate,7.161752219500434,
+2026-02,team,DR - Reporting,DR,time_to_restore,2.7548470765462696,
+2026-02,team,DR - Reporting,DR,high_vuln_age,47.002788078875184,
+2026-02,team,DR - Reporting,DR,incidents,0.0,P1
+2026-02,team,DR - Reporting,DR,incidents,0.0,P2
+2026-02,team,DR - Reporting,DR,incidents,1.0,P3
+2026-03,team,DR - Reporting,DR,work_type_pct,52.57543762963248,Investment
+2026-03,team,DR - Reporting,DR,work_type_pct,15.319301551718963,Tech Mod
+2026-03,team,DR - Reporting,DR,work_type_pct,15.403722181834627,CTD
+2026-03,team,DR - Reporting,DR,work_type_pct,16.70153863681393,RTE
+2026-03,team,DR - Reporting,DR,pct_time_ctd_rte,32.10526081864856,
+2026-03,team,DR - Reporting,DR,deployment_frequency,1.9926211093542818,
+2026-03,team,DR - Reporting,DR,lead_time,5.312794492694416,
+2026-03,team,DR - Reporting,DR,cycle_time,3.2529801484689767,
+2026-03,team,DR - Reporting,DR,prs_per_engineer,6.5045098227084805,
+2026-03,team,DR - Reporting,DR,direct_expense_variance,6.725842112194773,
+2026-03,team,DR - Reporting,DR,aws_expense_variance,7.495842483839049,
+2026-03,team,DR - Reporting,DR,snowflake_expense_variance,0.0,
+2026-03,team,DR - Reporting,DR,span_of_control,7.226551725393827,
+2026-03,team,DR - Reporting,DR,contractor_mix_pct,31.41860448510186,
+2026-03,team,DR - Reporting,DR,engagement_pct,67.65735503281448,
+2026-03,team,DR - Reporting,DR,enablement_pct,68.02811101535016,
+2026-03,team,DR - Reporting,DR,inclusion_pct,78.24976613219184,
+2026-03,team,DR - Reporting,DR,pli_pct,73.20634928316039,
+2026-03,team,DR - Reporting,DR,slo_pct,95.31454493315753,
+2026-03,team,DR - Reporting,DR,change_failure_rate,8.504232061500812,
+2026-03,team,DR - Reporting,DR,time_to_restore,2.3555000134821293,
+2026-03,team,DR - Reporting,DR,high_vuln_age,37.19766893435649,
+2026-03,team,DR - Reporting,DR,incidents,2.0,P1
+2026-03,team,DR - Reporting,DR,incidents,0.0,P2
+2026-03,team,DR - Reporting,DR,incidents,4.0,P3
+2026-01,team,Fraud - Detection,Fraud,work_type_pct,47.69286013955678,Investment
+2026-01,team,Fraud - Detection,Fraud,work_type_pct,15.445020012866046,Tech Mod
+2026-01,team,Fraud - Detection,Fraud,work_type_pct,17.980313767891023,CTD
+2026-01,team,Fraud - Detection,Fraud,work_type_pct,18.881806079686147,RTE
+2026-01,team,Fraud - Detection,Fraud,pct_time_ctd_rte,36.86211984757717,
+2026-01,team,Fraud - Detection,Fraud,deployment_frequency,2.0848832328702684,
+2026-01,team,Fraud - Detection,Fraud,lead_time,5.748104436723343,
+2026-01,team,Fraud - Detection,Fraud,cycle_time,4.205392363400458,
+2026-01,team,Fraud - Detection,Fraud,prs_per_engineer,5.905392096912404,
+2026-01,team,Fraud - Detection,Fraud,direct_expense_variance,4.643592995075837,
+2026-01,team,Fraud - Detection,Fraud,aws_expense_variance,8.455392246110684,
+2026-01,team,Fraud - Detection,Fraud,snowflake_expense_variance,0.0,
+2026-01,team,Fraud - Detection,Fraud,span_of_control,7.033036492721486,
+2026-01,team,Fraud - Detection,Fraud,contractor_mix_pct,40.29665869387076,
+2026-01,team,Fraud - Detection,Fraud,engagement_pct,75.59255805239098,
+2026-01,team,Fraud - Detection,Fraud,enablement_pct,74.22850216299504,
+2026-01,team,Fraud - Detection,Fraud,inclusion_pct,82.2508611018116,
+2026-01,team,Fraud - Detection,Fraud,pli_pct,80.8857313750805,
+2026-01,team,Fraud - Detection,Fraud,slo_pct,100.0,
+2026-01,team,Fraud - Detection,Fraud,change_failure_rate,10.913103116418455,
+2026-01,team,Fraud - Detection,Fraud,time_to_restore,3.4175837197781296,
+2026-01,team,Fraud - Detection,Fraud,high_vuln_age,59.53030048025549,
+2026-01,team,Fraud - Detection,Fraud,incidents,0.0,P1
+2026-01,team,Fraud - Detection,Fraud,incidents,1.0,P2
+2026-01,team,Fraud - Detection,Fraud,incidents,2.0,P3
+2026-02,team,Fraud - Detection,Fraud,work_type_pct,51.97173878309614,Investment
+2026-02,team,Fraud - Detection,Fraud,work_type_pct,14.294041585603498,Tech Mod
+2026-02,team,Fraud - Detection,Fraud,work_type_pct,15.797702717523107,CTD
+2026-02,team,Fraud - Detection,Fraud,work_type_pct,17.936516913777254,RTE
+2026-02,team,Fraud - Detection,Fraud,pct_time_ctd_rte,33.73421963130036,
+2026-02,team,Fraud - Detection,Fraud,deployment_frequency,1.9432920812008083,
+2026-02,team,Fraud - Detection,Fraud,lead_time,6.060577006422605,
+2026-02,team,Fraud - Detection,Fraud,cycle_time,3.6237937716220037,
+2026-02,team,Fraud - Detection,Fraud,prs_per_engineer,7.239722306498436,
+2026-02,team,Fraud - Detection,Fraud,direct_expense_variance,1.7837513530198927,
+2026-02,team,Fraud - Detection,Fraud,aws_expense_variance,9.656868705001855,
+2026-02,team,Fraud - Detection,Fraud,snowflake_expense_variance,0.0,
+2026-02,team,Fraud - Detection,Fraud,span_of_control,7.704492979025698,
+2026-02,team,Fraud - Detection,Fraud,contractor_mix_pct,36.84402810236767,
+2026-02,team,Fraud - Detection,Fraud,engagement_pct,73.0357959998873,
+2026-02,team,Fraud - Detection,Fraud,enablement_pct,80.34871097258765,
+2026-02,team,Fraud - Detection,Fraud,inclusion_pct,82.1928431784185,
+2026-02,team,Fraud - Detection,Fraud,pli_pct,80.20758387862321,
+2026-02,team,Fraud - Detection,Fraud,slo_pct,100.0,
+2026-02,team,Fraud - Detection,Fraud,change_failure_rate,9.196875549057209,
+2026-02,team,Fraud - Detection,Fraud,time_to_restore,3.2361948430437524,
+2026-02,team,Fraud - Detection,Fraud,high_vuln_age,49.73558884554431,
+2026-02,team,Fraud - Detection,Fraud,incidents,0.0,P1
+2026-02,team,Fraud - Detection,Fraud,incidents,1.0,P2
+2026-02,team,Fraud - Detection,Fraud,incidents,5.0,P3
+2026-03,team,Fraud - Detection,Fraud,work_type_pct,53.091175784522534,Investment
+2026-03,team,Fraud - Detection,Fraud,work_type_pct,15.20025691302331,Tech Mod
+2026-03,team,Fraud - Detection,Fraud,work_type_pct,14.615823706266063,CTD
+2026-03,team,Fraud - Detection,Fraud,work_type_pct,17.09274359618809,RTE
+2026-03,team,Fraud - Detection,Fraud,pct_time_ctd_rte,31.708567302454153,
+2026-03,team,Fraud - Detection,Fraud,deployment_frequency,2.1149051050109158,
+2026-03,team,Fraud - Detection,Fraud,lead_time,5.022600929643386,
+2026-03,team,Fraud - Detection,Fraud,cycle_time,3.6595520991541024,
+2026-03,team,Fraud - Detection,Fraud,prs_per_engineer,7.6326835441606535,
+2026-03,team,Fraud - Detection,Fraud,direct_expense_variance,4.438910303638419,
+2026-03,team,Fraud - Detection,Fraud,aws_expense_variance,7.50171535759651,
+2026-03,team,Fraud - Detection,Fraud,snowflake_expense_variance,0.0,
+2026-03,team,Fraud - Detection,Fraud,span_of_control,8.360732875904404,
+2026-03,team,Fraud - Detection,Fraud,contractor_mix_pct,35.985244840297156,
+2026-03,team,Fraud - Detection,Fraud,engagement_pct,78.76021993741396,
+2026-03,team,Fraud - Detection,Fraud,enablement_pct,78.41853788681615,
+2026-03,team,Fraud - Detection,Fraud,inclusion_pct,81.56632500119572,
+2026-03,team,Fraud - Detection,Fraud,pli_pct,79.83151912551588,
+2026-03,team,Fraud - Detection,Fraud,slo_pct,100.0,
+2026-03,team,Fraud - Detection,Fraud,change_failure_rate,8.96950756256271,
+2026-03,team,Fraud - Detection,Fraud,time_to_restore,2.7074277409563816,
+2026-03,team,Fraud - Detection,Fraud,high_vuln_age,41.9955040366732,
+2026-03,team,Fraud - Detection,Fraud,incidents,1.0,P1
+2026-03,team,Fraud - Detection,Fraud,incidents,1.0,P2
+2026-03,team,Fraud - Detection,Fraud,incidents,1.0,P3
+2026-01,team,Fraud - Investigation,Fraud,work_type_pct,48.93961862534533,Investment
+2026-01,team,Fraud - Investigation,Fraud,work_type_pct,15.653292290101403,Tech Mod
+2026-01,team,Fraud - Investigation,Fraud,work_type_pct,13.744570287732946,CTD
+2026-01,team,Fraud - Investigation,Fraud,work_type_pct,21.662518796820315,RTE
+2026-01,team,Fraud - Investigation,Fraud,pct_time_ctd_rte,35.40708908455326,
+2026-01,team,Fraud - Investigation,Fraud,deployment_frequency,2.6442089085821405,
+2026-01,team,Fraud - Investigation,Fraud,lead_time,7.04745974274055,
+2026-01,team,Fraud - Investigation,Fraud,cycle_time,4.795433859820999,
+2026-01,team,Fraud - Investigation,Fraud,prs_per_engineer,7.846987511416611,
+2026-01,team,Fraud - Investigation,Fraud,direct_expense_variance,4.544342482132545,
+2026-01,team,Fraud - Investigation,Fraud,aws_expense_variance,8.566364409959363,
+2026-01,team,Fraud - Investigation,Fraud,snowflake_expense_variance,0.0,
+2026-01,team,Fraud - Investigation,Fraud,span_of_control,10.360937721314595,
+2026-01,team,Fraud - Investigation,Fraud,contractor_mix_pct,47.23089431714129,
+2026-01,team,Fraud - Investigation,Fraud,engagement_pct,97.04934545110406,
+2026-01,team,Fraud - Investigation,Fraud,enablement_pct,95.89772071809675,
+2026-01,team,Fraud - Investigation,Fraud,inclusion_pct,100.0,
+2026-01,team,Fraud - Investigation,Fraud,pli_pct,99.62778243425026,
+2026-01,team,Fraud - Investigation,Fraud,slo_pct,100.0,
+2026-01,team,Fraud - Investigation,Fraud,change_failure_rate,12.342090520012297,
+2026-01,team,Fraud - Investigation,Fraud,time_to_restore,3.790680821709338,
+2026-01,team,Fraud - Investigation,Fraud,high_vuln_age,66.94433201635425,
+2026-01,team,Fraud - Investigation,Fraud,incidents,1.0,P1
+2026-01,team,Fraud - Investigation,Fraud,incidents,2.0,P2
+2026-01,team,Fraud - Investigation,Fraud,incidents,2.0,P3
+2026-02,team,Fraud - Investigation,Fraud,work_type_pct,51.147655520414595,Investment
+2026-02,team,Fraud - Investigation,Fraud,work_type_pct,15.209663993464536,Tech Mod
+2026-02,team,Fraud - Investigation,Fraud,work_type_pct,13.605259227383776,CTD
+2026-02,team,Fraud - Investigation,Fraud,work_type_pct,20.0374212587371,RTE
+2026-02,team,Fraud - Investigation,Fraud,pct_time_ctd_rte,33.64268048612088,
+2026-02,team,Fraud - Investigation,Fraud,deployment_frequency,2.8354893958998164,
+2026-02,team,Fraud - Investigation,Fraud,lead_time,6.044084365151331,
+2026-02,team,Fraud - Investigation,Fraud,cycle_time,4.557462525641543,
+2026-02,team,Fraud - Investigation,Fraud,prs_per_engineer,9.413471299750261,
+2026-02,team,Fraud - Investigation,Fraud,direct_expense_variance,4.981426579646058,
+2026-02,team,Fraud - Investigation,Fraud,aws_expense_variance,9.82682548379466,
+2026-02,team,Fraud - Investigation,Fraud,snowflake_expense_variance,0.0,
+2026-02,team,Fraud - Investigation,Fraud,span_of_control,9.7877699144405,
+2026-02,team,Fraud - Investigation,Fraud,contractor_mix_pct,45.82279198551192,
+2026-02,team,Fraud - Investigation,Fraud,engagement_pct,91.9555576437211,
+2026-02,team,Fraud - Investigation,Fraud,enablement_pct,97.98494980465131,
+2026-02,team,Fraud - Investigation,Fraud,inclusion_pct,99.50351785377443,
+2026-02,team,Fraud - Investigation,Fraud,pli_pct,100.0,
+2026-02,team,Fraud - Investigation,Fraud,slo_pct,100.0,
+2026-02,team,Fraud - Investigation,Fraud,change_failure_rate,11.444450995355005,
+2026-02,team,Fraud - Investigation,Fraud,time_to_restore,3.7350165622042963,
+2026-02,team,Fraud - Investigation,Fraud,high_vuln_age,57.68298796736212,
+2026-02,team,Fraud - Investigation,Fraud,incidents,0.0,P1
+2026-02,team,Fraud - Investigation,Fraud,incidents,0.0,P2
+2026-02,team,Fraud - Investigation,Fraud,incidents,6.0,P3
+2026-03,team,Fraud - Investigation,Fraud,work_type_pct,52.92844476419861,Investment
+2026-03,team,Fraud - Investigation,Fraud,work_type_pct,16.371036368798066,Tech Mod
+2026-03,team,Fraud - Investigation,Fraud,work_type_pct,12.071937590789787,CTD
+2026-03,team,Fraud - Investigation,Fraud,work_type_pct,18.628581276213534,RTE
+2026-03,team,Fraud - Investigation,Fraud,pct_time_ctd_rte,30.70051886700332,
+2026-03,team,Fraud - Investigation,Fraud,deployment_frequency,2.2734867980348836,
+2026-03,team,Fraud - Investigation,Fraud,lead_time,6.362711256585741,
+2026-03,team,Fraud - Investigation,Fraud,cycle_time,5.038846258390255,
+2026-03,team,Fraud - Investigation,Fraud,prs_per_engineer,8.487380558325768,
+2026-03,team,Fraud - Investigation,Fraud,direct_expense_variance,5.0802581488599845,
+2026-03,team,Fraud - Investigation,Fraud,aws_expense_variance,10.809552894512727,
+2026-03,team,Fraud - Investigation,Fraud,snowflake_expense_variance,0.0,
+2026-03,team,Fraud - Investigation,Fraud,span_of_control,8.714755157740749,
+2026-03,team,Fraud - Investigation,Fraud,contractor_mix_pct,40.43180620396775,
+2026-03,team,Fraud - Investigation,Fraud,engagement_pct,95.45432175927976,
+2026-03,team,Fraud - Investigation,Fraud,enablement_pct,95.773592560787,
+2026-03,team,Fraud - Investigation,Fraud,inclusion_pct,100.0,
+2026-03,team,Fraud - Investigation,Fraud,pli_pct,99.73437525455165,
+2026-03,team,Fraud - Investigation,Fraud,slo_pct,100.0,
+2026-03,team,Fraud - Investigation,Fraud,change_failure_rate,9.82857481227897,
+2026-03,team,Fraud - Investigation,Fraud,time_to_restore,2.633281283378648,
+2026-03,team,Fraud - Investigation,Fraud,high_vuln_age,54.212370515431274,
+2026-03,team,Fraud - Investigation,Fraud,incidents,1.0,P1
+2026-03,team,Fraud - Investigation,Fraud,incidents,1.0,P2
+2026-03,team,Fraud - Investigation,Fraud,incidents,0.0,P3
+2026-01,team,Fraud - Prevention,Fraud,work_type_pct,46.40841100964374,Investment
+2026-01,team,Fraud - Prevention,Fraud,work_type_pct,16.99056693343012,Tech Mod
+2026-01,team,Fraud - Prevention,Fraud,work_type_pct,15.546781282351066,CTD
+2026-01,team,Fraud - Prevention,Fraud,work_type_pct,21.054240774575074,RTE
+2026-01,team,Fraud - Prevention,Fraud,pct_time_ctd_rte,36.60102205692614,
+2026-01,team,Fraud - Prevention,Fraud,deployment_frequency,2.5025099831806012,
+2026-01,team,Fraud - Prevention,Fraud,lead_time,6.512406937422108,
+2026-01,team,Fraud - Prevention,Fraud,cycle_time,5.480594797755868,
+2026-01,team,Fraud - Prevention,Fraud,prs_per_engineer,7.322723505149095,
+2026-01,team,Fraud - Prevention,Fraud,direct_expense_variance,4.699895611335185,
+2026-01,team,Fraud - Prevention,Fraud,aws_expense_variance,6.55926699611577,
+2026-01,team,Fraud - Prevention,Fraud,snowflake_expense_variance,0.0,
+2026-01,team,Fraud - Prevention,Fraud,span_of_control,10.15595748860786,
+2026-01,team,Fraud - Prevention,Fraud,contractor_mix_pct,45.88402457738542,
+2026-01,team,Fraud - Prevention,Fraud,engagement_pct,91.95451752079367,
+2026-01,team,Fraud - Prevention,Fraud,enablement_pct,93.8947789702409,
+2026-01,team,Fraud - Prevention,Fraud,inclusion_pct,98.93926020380964,
+2026-01,team,Fraud - Prevention,Fraud,pli_pct,99.35178247169297,
+2026-01,team,Fraud - Prevention,Fraud,slo_pct,100.0,
+2026-01,team,Fraud - Prevention,Fraud,change_failure_rate,11.056837101675384,
+2026-01,team,Fraud - Prevention,Fraud,time_to_restore,3.716178181555534,
+2026-01,team,Fraud - Prevention,Fraud,high_vuln_age,65.86849049837724,
+2026-01,team,Fraud - Prevention,Fraud,incidents,0.0,P1
+2026-01,team,Fraud - Prevention,Fraud,incidents,0.0,P2
+2026-01,team,Fraud - Prevention,Fraud,incidents,2.0,P3
+2026-02,team,Fraud - Prevention,Fraud,work_type_pct,50.3320161776428,Investment
+2026-02,team,Fraud - Prevention,Fraud,work_type_pct,15.853497623358951,Tech Mod
+2026-02,team,Fraud - Prevention,Fraud,work_type_pct,13.516257007989338,CTD
+2026-02,team,Fraud - Prevention,Fraud,work_type_pct,20.29822919100891,RTE
+2026-02,team,Fraud - Prevention,Fraud,pct_time_ctd_rte,33.81448619899825,
+2026-02,team,Fraud - Prevention,Fraud,deployment_frequency,2.5753635291455366,
+2026-02,team,Fraud - Prevention,Fraud,lead_time,6.458227154209957,
+2026-02,team,Fraud - Prevention,Fraud,cycle_time,4.445351273251259,
+2026-02,team,Fraud - Prevention,Fraud,prs_per_engineer,8.39988333936911,
+2026-02,team,Fraud - Prevention,Fraud,direct_expense_variance,3.5558076749459344,
+2026-02,team,Fraud - Prevention,Fraud,aws_expense_variance,7.674103505045493,
+2026-02,team,Fraud - Prevention,Fraud,snowflake_expense_variance,0.0,
+2026-02,team,Fraud - Prevention,Fraud,span_of_control,9.071761856016678,
+2026-02,team,Fraud - Prevention,Fraud,contractor_mix_pct,41.27293002881273,
+2026-02,team,Fraud - Prevention,Fraud,engagement_pct,91.62590595049662,
+2026-02,team,Fraud - Prevention,Fraud,enablement_pct,95.38818370493087,
+2026-02,team,Fraud - Prevention,Fraud,inclusion_pct,96.67951525419564,
+2026-02,team,Fraud - Prevention,Fraud,pli_pct,97.07795128807206,
+2026-02,team,Fraud - Prevention,Fraud,slo_pct,100.0,
+2026-02,team,Fraud - Prevention,Fraud,change_failure_rate,12.062360321155142,
+2026-02,team,Fraud - Prevention,Fraud,time_to_restore,3.6485267707668805,
+2026-02,team,Fraud - Prevention,Fraud,high_vuln_age,52.97462590188352,
+2026-02,team,Fraud - Prevention,Fraud,incidents,0.0,P1
+2026-02,team,Fraud - Prevention,Fraud,incidents,0.0,P2
+2026-02,team,Fraud - Prevention,Fraud,incidents,2.0,P3
+2026-03,team,Fraud - Prevention,Fraud,work_type_pct,55.08479888628196,Investment
+2026-03,team,Fraud - Prevention,Fraud,work_type_pct,15.195365308114656,Tech Mod
+2026-03,team,Fraud - Prevention,Fraud,work_type_pct,12.813929539668079,CTD
+2026-03,team,Fraud - Prevention,Fraud,work_type_pct,16.905906265935304,RTE
+2026-03,team,Fraud - Prevention,Fraud,pct_time_ctd_rte,29.71983580560338,
+2026-03,team,Fraud - Prevention,Fraud,deployment_frequency,2.529126746278465,
+2026-03,team,Fraud - Prevention,Fraud,lead_time,5.512869565363998,
+2026-03,team,Fraud - Prevention,Fraud,cycle_time,3.59745832253339,
+2026-03,team,Fraud - Prevention,Fraud,prs_per_engineer,8.721375121191846,
+2026-03,team,Fraud - Prevention,Fraud,direct_expense_variance,3.8789668636636243,
+2026-03,team,Fraud - Prevention,Fraud,aws_expense_variance,9.460462074819555,
+2026-03,team,Fraud - Prevention,Fraud,snowflake_expense_variance,0.0,
+2026-03,team,Fraud - Prevention,Fraud,span_of_control,8.781082960304017,
+2026-03,team,Fraud - Prevention,Fraud,contractor_mix_pct,42.03943046677304,
+2026-03,team,Fraud - Prevention,Fraud,engagement_pct,91.37829791422752,
+2026-03,team,Fraud - Prevention,Fraud,enablement_pct,95.67906643854022,
+2026-03,team,Fraud - Prevention,Fraud,inclusion_pct,100.0,
+2026-03,team,Fraud - Prevention,Fraud,pli_pct,98.69068506561703,
+2026-03,team,Fraud - Prevention,Fraud,slo_pct,100.0,
+2026-03,team,Fraud - Prevention,Fraud,change_failure_rate,12.230625566983495,
+2026-03,team,Fraud - Prevention,Fraud,time_to_restore,3.038458200490139,
+2026-03,team,Fraud - Prevention,Fraud,high_vuln_age,53.48186703094033,
+2026-03,team,Fraud - Prevention,Fraud,incidents,0.0,P1
+2026-03,team,Fraud - Prevention,Fraud,incidents,1.0,P2
+2026-03,team,Fraud - Prevention,Fraud,incidents,2.0,P3
+2026-01,sub_org,DTD,Dealer,deployment_frequency,1.9911726901181008,
+2026-01,sub_org,DTD,Dealer,lead_time,5.895555709977274,
+2026-01,sub_org,DTD,Dealer,cycle_time,4.285756548379817,
+2026-01,sub_org,DTD,Dealer,prs_per_engineer,6.798298549539772,
+2026-01,sub_org,DTD,Dealer,pct_time_ctd_rte,34.73749085339522,
+2026-01,sub_org,DTD,Dealer,work_type_pct,49.279619292050704,Investment
+2026-01,sub_org,DTD,Dealer,work_type_pct,15.982889854554081,Tech Mod
+2026-01,sub_org,DTD,Dealer,work_type_pct,15.993516306974934,CTD
+2026-01,sub_org,DTD,Dealer,work_type_pct,18.743974546420286,RTE
+2026-01,sub_org,DTD,Dealer,direct_expense_variance,3.211383523718423,
+2026-01,sub_org,DTD,Dealer,aws_expense_variance,8.265298119761846,
+2026-01,sub_org,DTD,Dealer,snowflake_expense_variance,0.0,
+2026-01,sub_org,DTD,Dealer,span_of_control,8.238257281122866,
+2026-01,sub_org,DTD,Dealer,contractor_mix_pct,39.14382436284796,
+2026-01,sub_org,DTD,Dealer,engagement_pct,75.32534619462903,
+2026-01,sub_org,DTD,Dealer,enablement_pct,78.21708416371985,
+2026-01,sub_org,DTD,Dealer,inclusion_pct,84.12552619012563,
+2026-01,sub_org,DTD,Dealer,pli_pct,83.18992282710207,
+2026-01,sub_org,DTD,Dealer,incidents,0.0,P1
+2026-01,sub_org,DTD,Dealer,incidents,6.0,P2
+2026-01,sub_org,DTD,Dealer,incidents,3.0,P3
+2026-01,sub_org,DTD,Dealer,slo_pct,97.6909690062688,
+2026-01,sub_org,DTD,Dealer,change_failure_rate,11.132331436550169,
+2026-01,sub_org,DTD,Dealer,time_to_restore,3.4331919971184064,
+2026-01,sub_org,DTD,Dealer,high_vuln_age,52.36308935583196,
+2026-02,sub_org,DTD,Dealer,deployment_frequency,2.1048852516504946,
+2026-02,sub_org,DTD,Dealer,lead_time,5.159673541558641,
+2026-02,sub_org,DTD,Dealer,cycle_time,3.7045316174643657,
+2026-02,sub_org,DTD,Dealer,prs_per_engineer,6.823078158735707,
+2026-02,sub_org,DTD,Dealer,pct_time_ctd_rte,31.86013575560517,
+2026-02,sub_org,DTD,Dealer,work_type_pct,52.61522550480533,Investment
+2026-02,sub_org,DTD,Dealer,work_type_pct,15.524638739589497,Tech Mod
+2026-02,sub_org,DTD,Dealer,work_type_pct,14.715510106488798,CTD
+2026-02,sub_org,DTD,Dealer,work_type_pct,17.144625649116378,RTE
+2026-02,sub_org,DTD,Dealer,direct_expense_variance,3.459225411109884,
+2026-02,sub_org,DTD,Dealer,aws_expense_variance,7.468247831283563,
+2026-02,sub_org,DTD,Dealer,snowflake_expense_variance,0.0,
+2026-02,sub_org,DTD,Dealer,span_of_control,7.949111887254719,
+2026-02,sub_org,DTD,Dealer,contractor_mix_pct,36.28076272943226,
+2026-02,sub_org,DTD,Dealer,engagement_pct,74.7923041653412,
+2026-02,sub_org,DTD,Dealer,enablement_pct,80.28205826212307,
+2026-02,sub_org,DTD,Dealer,inclusion_pct,85.4402459383423,
+2026-02,sub_org,DTD,Dealer,pli_pct,84.77379999438911,
+2026-02,sub_org,DTD,Dealer,incidents,0.0,P1
+2026-02,sub_org,DTD,Dealer,incidents,2.0,P2
+2026-02,sub_org,DTD,Dealer,incidents,7.0,P3
+2026-02,sub_org,DTD,Dealer,slo_pct,97.66721512833539,
+2026-02,sub_org,DTD,Dealer,change_failure_rate,9.302535571797707,
+2026-02,sub_org,DTD,Dealer,time_to_restore,3.0071018216447736,
+2026-02,sub_org,DTD,Dealer,high_vuln_age,49.51004287353809,
+2026-03,sub_org,DTD,Dealer,deployment_frequency,2.2091221476098823,
+2026-03,sub_org,DTD,Dealer,lead_time,5.393723521107227,
+2026-03,sub_org,DTD,Dealer,cycle_time,3.621945137621756,
+2026-03,sub_org,DTD,Dealer,prs_per_engineer,7.172736113977905,
+2026-03,sub_org,DTD,Dealer,pct_time_ctd_rte,30.17472509474476,
+2026-03,sub_org,DTD,Dealer,work_type_pct,53.54027914282233,Investment
+2026-03,sub_org,DTD,Dealer,work_type_pct,16.284995762432917,Tech Mod
+2026-03,sub_org,DTD,Dealer,work_type_pct,13.471308355376935,CTD
+2026-03,sub_org,DTD,Dealer,work_type_pct,16.703416739367825,RTE
+2026-03,sub_org,DTD,Dealer,direct_expense_variance,3.632197919148634,
+2026-03,sub_org,DTD,Dealer,aws_expense_variance,8.728705619951961,
+2026-03,sub_org,DTD,Dealer,snowflake_expense_variance,0.0,
+2026-03,sub_org,DTD,Dealer,span_of_control,7.569697322339377,
+2026-03,sub_org,DTD,Dealer,contractor_mix_pct,34.93795738076442,
+2026-03,sub_org,DTD,Dealer,engagement_pct,78.18682117960999,
+2026-03,sub_org,DTD,Dealer,enablement_pct,81.59290330379716,
+2026-03,sub_org,DTD,Dealer,inclusion_pct,84.02218896223151,
+2026-03,sub_org,DTD,Dealer,pli_pct,86.57377121174581,
+2026-03,sub_org,DTD,Dealer,incidents,0.0,P1
+2026-03,sub_org,DTD,Dealer,incidents,5.0,P2
+2026-03,sub_org,DTD,Dealer,incidents,6.0,P3
+2026-03,sub_org,DTD,Dealer,slo_pct,97.72608490740345,
+2026-03,sub_org,DTD,Dealer,change_failure_rate,8.397351245784199,
+2026-03,sub_org,DTD,Dealer,time_to_restore,3.005052473568042,
+2026-03,sub_org,DTD,Dealer,high_vuln_age,46.79198340103506,
+2026-01,sub_org,FMD,Dealer,deployment_frequency,1.8224363943050228,
+2026-01,sub_org,FMD,Dealer,lead_time,5.446416657721367,
+2026-01,sub_org,FMD,Dealer,cycle_time,3.7193676863653806,
+2026-01,sub_org,FMD,Dealer,prs_per_engineer,6.442532420827699,
+2026-01,sub_org,FMD,Dealer,pct_time_ctd_rte,32.93431155234416,
+2026-01,sub_org,FMD,Dealer,work_type_pct,49.55176034350328,Investment
+2026-01,sub_org,FMD,Dealer,work_type_pct,17.51392810415256,Tech Mod
+2026-01,sub_org,FMD,Dealer,work_type_pct,14.952979238512967,CTD
+2026-01,sub_org,FMD,Dealer,work_type_pct,17.981332313831192,RTE
+2026-01,sub_org,FMD,Dealer,direct_expense_variance,3.161864766809206,
+2026-01,sub_org,FMD,Dealer,aws_expense_variance,6.631150349084225,
+2026-01,sub_org,FMD,Dealer,snowflake_expense_variance,0.0,
+2026-01,sub_org,FMD,Dealer,span_of_control,7.302976064637103,
+2026-01,sub_org,FMD,Dealer,contractor_mix_pct,36.51485842042907,
+2026-01,sub_org,FMD,Dealer,engagement_pct,71.22898614984291,
+2026-01,sub_org,FMD,Dealer,enablement_pct,72.46620161659207,
+2026-01,sub_org,FMD,Dealer,inclusion_pct,76.23860907859041,
+2026-01,sub_org,FMD,Dealer,pli_pct,76.09851117077257,
+2026-01,sub_org,FMD,Dealer,incidents,1.0,P1
+2026-01,sub_org,FMD,Dealer,incidents,3.0,P2
+2026-01,sub_org,FMD,Dealer,incidents,13.0,P3
+2026-01,sub_org,FMD,Dealer,slo_pct,96.1401557215587,
+2026-01,sub_org,FMD,Dealer,change_failure_rate,10.495910603801434,
+2026-01,sub_org,FMD,Dealer,time_to_restore,3.0131231546125146,
+2026-01,sub_org,FMD,Dealer,high_vuln_age,48.750088078602715,
+2026-02,sub_org,FMD,Dealer,deployment_frequency,1.9542396948691547,
+2026-02,sub_org,FMD,Dealer,lead_time,5.056172092951675,
+2026-02,sub_org,FMD,Dealer,cycle_time,3.8043448470250403,
+2026-02,sub_org,FMD,Dealer,prs_per_engineer,6.39068540935473,
+2026-02,sub_org,FMD,Dealer,pct_time_ctd_rte,32.33610071296718,
+2026-02,sub_org,FMD,Dealer,work_type_pct,51.24213988724625,Investment
+2026-02,sub_org,FMD,Dealer,work_type_pct,16.42175939978658,Tech Mod
+2026-02,sub_org,FMD,Dealer,work_type_pct,14.064742357490019,CTD
+2026-02,sub_org,FMD,Dealer,work_type_pct,18.271358355477158,RTE
+2026-02,sub_org,FMD,Dealer,direct_expense_variance,4.191224503382537,
+2026-02,sub_org,FMD,Dealer,aws_expense_variance,7.5222238870272875,
+2026-02,sub_org,FMD,Dealer,snowflake_expense_variance,0.0,
+2026-02,sub_org,FMD,Dealer,span_of_control,7.197301635829118,
+2026-02,sub_org,FMD,Dealer,contractor_mix_pct,31.40812234090227,
+2026-02,sub_org,FMD,Dealer,engagement_pct,71.78437265139355,
+2026-02,sub_org,FMD,Dealer,enablement_pct,71.6657879812797,
+2026-02,sub_org,FMD,Dealer,inclusion_pct,76.91793572416918,
+2026-02,sub_org,FMD,Dealer,pli_pct,75.4860440242504,
+2026-02,sub_org,FMD,Dealer,incidents,1.0,P1
+2026-02,sub_org,FMD,Dealer,incidents,4.0,P2
+2026-02,sub_org,FMD,Dealer,incidents,10.0,P3
+2026-02,sub_org,FMD,Dealer,slo_pct,96.20384656041362,
+2026-02,sub_org,FMD,Dealer,change_failure_rate,8.659956851702901,
+2026-02,sub_org,FMD,Dealer,time_to_restore,2.492128806288204,
+2026-02,sub_org,FMD,Dealer,high_vuln_age,44.810527590864545,
+2026-03,sub_org,FMD,Dealer,deployment_frequency,1.9760238576985085,
+2026-03,sub_org,FMD,Dealer,lead_time,4.741528244557244,
+2026-03,sub_org,FMD,Dealer,cycle_time,3.1367229435273374,
+2026-03,sub_org,FMD,Dealer,prs_per_engineer,6.71734876524209,
+2026-03,sub_org,FMD,Dealer,pct_time_ctd_rte,29.93957813816658,
+2026-03,sub_org,FMD,Dealer,work_type_pct,52.610752355326866,Investment
+2026-03,sub_org,FMD,Dealer,work_type_pct,17.449669506506556,Tech Mod
+2026-03,sub_org,FMD,Dealer,work_type_pct,13.124258810792417,CTD
+2026-03,sub_org,FMD,Dealer,work_type_pct,16.815319327374166,RTE
+2026-03,sub_org,FMD,Dealer,direct_expense_variance,3.0875801789061135,
+2026-03,sub_org,FMD,Dealer,aws_expense_variance,9.027281079175125,
+2026-03,sub_org,FMD,Dealer,snowflake_expense_variance,0.0,
+2026-03,sub_org,FMD,Dealer,span_of_control,7.37768442071773,
+2026-03,sub_org,FMD,Dealer,contractor_mix_pct,32.909143217272465,
+2026-03,sub_org,FMD,Dealer,engagement_pct,69.68100347400275,
+2026-03,sub_org,FMD,Dealer,enablement_pct,71.92704808026727,
+2026-03,sub_org,FMD,Dealer,inclusion_pct,77.30463976883038,
+2026-03,sub_org,FMD,Dealer,pli_pct,72.68738651351367,
+2026-03,sub_org,FMD,Dealer,incidents,0.0,P1
+2026-03,sub_org,FMD,Dealer,incidents,5.0,P2
+2026-03,sub_org,FMD,Dealer,incidents,10.0,P3
+2026-03,sub_org,FMD,Dealer,slo_pct,96.2392762613221,
+2026-03,sub_org,FMD,Dealer,change_failure_rate,8.335960732855673,
+2026-03,sub_org,FMD,Dealer,time_to_restore,2.240698267852131,
+2026-03,sub_org,FMD,Dealer,high_vuln_age,41.439730069917,
+2026-01,sub_org,CLO,Dealer,deployment_frequency,1.944201396342292,
+2026-01,sub_org,CLO,Dealer,lead_time,6.314234402844583,
+2026-01,sub_org,CLO,Dealer,cycle_time,4.632959434666842,
+2026-01,sub_org,CLO,Dealer,prs_per_engineer,7.417771690605126,
+2026-01,sub_org,CLO,Dealer,pct_time_ctd_rte,31.907337571403218,
+2026-01,sub_org,CLO,Dealer,work_type_pct,52.10050666885758,Investment
+2026-01,sub_org,CLO,Dealer,work_type_pct,15.992155759739205,Tech Mod
+2026-01,sub_org,CLO,Dealer,work_type_pct,13.997591879389624,CTD
+2026-01,sub_org,CLO,Dealer,work_type_pct,17.90974569201359,RTE
+2026-01,sub_org,CLO,Dealer,direct_expense_variance,3.593633932266229,
+2026-01,sub_org,CLO,Dealer,aws_expense_variance,7.52797792982597,
+2026-01,sub_org,CLO,Dealer,snowflake_expense_variance,0.0,
+2026-01,sub_org,CLO,Dealer,span_of_control,8.65710119224506,
+2026-01,sub_org,CLO,Dealer,contractor_mix_pct,40.5581185460016,
+2026-01,sub_org,CLO,Dealer,engagement_pct,77.98966833496401,
+2026-01,sub_org,CLO,Dealer,enablement_pct,83.27214947527138,
+2026-01,sub_org,CLO,Dealer,inclusion_pct,86.27325820811133,
+2026-01,sub_org,CLO,Dealer,pli_pct,84.59099741466655,
+2026-01,sub_org,CLO,Dealer,incidents,1.0,P1
+2026-01,sub_org,CLO,Dealer,incidents,4.0,P2
+2026-01,sub_org,CLO,Dealer,incidents,6.0,P3
+2026-01,sub_org,CLO,Dealer,slo_pct,100.0,
+2026-01,sub_org,CLO,Dealer,change_failure_rate,11.510828191617547,
+2026-01,sub_org,CLO,Dealer,time_to_restore,3.7600025794254752,
+2026-01,sub_org,CLO,Dealer,high_vuln_age,56.46205238016815,
+2026-02,sub_org,CLO,Dealer,deployment_frequency,2.163053499234733,
+2026-02,sub_org,CLO,Dealer,lead_time,6.123588151059214,
+2026-02,sub_org,CLO,Dealer,cycle_time,3.945052424066539,
+2026-02,sub_org,CLO,Dealer,prs_per_engineer,6.956142578001774,
+2026-02,sub_org,CLO,Dealer,pct_time_ctd_rte,30.16864149123064,
+2026-02,sub_org,CLO,Dealer,work_type_pct,53.86227663365914,Investment
+2026-02,sub_org,CLO,Dealer,work_type_pct,15.969081875110225,Tech Mod
+2026-02,sub_org,CLO,Dealer,work_type_pct,13.95114307412112,CTD
+2026-02,sub_org,CLO,Dealer,work_type_pct,16.21749841710952,RTE
+2026-02,sub_org,CLO,Dealer,direct_expense_variance,4.803692897659075,
+2026-02,sub_org,CLO,Dealer,aws_expense_variance,8.566642906977952,
+2026-02,sub_org,CLO,Dealer,snowflake_expense_variance,0.0,
+2026-02,sub_org,CLO,Dealer,span_of_control,8.083306366914595,
+2026-02,sub_org,CLO,Dealer,contractor_mix_pct,39.22274740735724,
+2026-02,sub_org,CLO,Dealer,engagement_pct,80.50941578171937,
+2026-02,sub_org,CLO,Dealer,enablement_pct,83.27541225568636,
+2026-02,sub_org,CLO,Dealer,inclusion_pct,87.47198922185332,
+2026-02,sub_org,CLO,Dealer,pli_pct,87.04389096721933,
+2026-02,sub_org,CLO,Dealer,incidents,0.0,P1
+2026-02,sub_org,CLO,Dealer,incidents,2.0,P2
+2026-02,sub_org,CLO,Dealer,incidents,11.0,P3
+2026-02,sub_org,CLO,Dealer,slo_pct,100.0,
+2026-02,sub_org,CLO,Dealer,change_failure_rate,10.298094480797326,
+2026-02,sub_org,CLO,Dealer,time_to_restore,3.190798971917285,
+2026-02,sub_org,CLO,Dealer,high_vuln_age,52.759769655308524,
+2026-03,sub_org,CLO,Dealer,deployment_frequency,2.0499472799965397,
+2026-03,sub_org,CLO,Dealer,lead_time,4.937013125288262,
+2026-03,sub_org,CLO,Dealer,cycle_time,4.046283139733666,
+2026-03,sub_org,CLO,Dealer,prs_per_engineer,7.529065196012945,
+2026-03,sub_org,CLO,Dealer,pct_time_ctd_rte,29.418952595021704,
+2026-03,sub_org,CLO,Dealer,work_type_pct,55.28306638093167,Investment
+2026-03,sub_org,CLO,Dealer,work_type_pct,15.297981024046626,Tech Mod
+2026-03,sub_org,CLO,Dealer,work_type_pct,13.265011198698565,CTD
+2026-03,sub_org,CLO,Dealer,work_type_pct,16.15394139632314,RTE
+2026-03,sub_org,CLO,Dealer,direct_expense_variance,3.495664381205392,
+2026-03,sub_org,CLO,Dealer,aws_expense_variance,8.802038670174555,
+2026-03,sub_org,CLO,Dealer,snowflake_expense_variance,0.0,
+2026-03,sub_org,CLO,Dealer,span_of_control,8.63234403037958,
+2026-03,sub_org,CLO,Dealer,contractor_mix_pct,39.46072228058261,
+2026-03,sub_org,CLO,Dealer,engagement_pct,81.33157870792317,
+2026-03,sub_org,CLO,Dealer,enablement_pct,83.07884995138656,
+2026-03,sub_org,CLO,Dealer,inclusion_pct,88.5954783311221,
+2026-03,sub_org,CLO,Dealer,pli_pct,86.52294103800243,
+2026-03,sub_org,CLO,Dealer,incidents,1.0,P1
+2026-03,sub_org,CLO,Dealer,incidents,4.0,P2
+2026-03,sub_org,CLO,Dealer,incidents,12.0,P3
+2026-03,sub_org,CLO,Dealer,slo_pct,100.0,
+2026-03,sub_org,CLO,Dealer,change_failure_rate,9.83583683951741,
+2026-03,sub_org,CLO,Dealer,time_to_restore,3.3613518043329726,
+2026-03,sub_org,CLO,Dealer,high_vuln_age,48.25865005795563,
+2026-01,sub_org,Dealer Core,Dealer,deployment_frequency,1.7962712889836794,
+2026-01,sub_org,Dealer Core,Dealer,lead_time,5.596643790040452,
+2026-01,sub_org,Dealer Core,Dealer,cycle_time,3.384889372226814,
+2026-01,sub_org,Dealer Core,Dealer,prs_per_engineer,5.83597441413929,
+2026-01,sub_org,Dealer Core,Dealer,pct_time_ctd_rte,34.60338824396949,
+2026-01,sub_org,Dealer Core,Dealer,work_type_pct,49.33879776447453,Investment
+2026-01,sub_org,Dealer Core,Dealer,work_type_pct,16.057813991555978,Tech Mod
+2026-01,sub_org,Dealer Core,Dealer,work_type_pct,14.93008516717758,CTD
+2026-01,sub_org,Dealer Core,Dealer,work_type_pct,19.673303076791907,RTE
+2026-01,sub_org,Dealer Core,Dealer,direct_expense_variance,2.6428795997667693,
+2026-01,sub_org,Dealer Core,Dealer,aws_expense_variance,5.951832317633247,
+2026-01,sub_org,Dealer Core,Dealer,snowflake_expense_variance,0.0,
+2026-01,sub_org,Dealer Core,Dealer,span_of_control,7.187057334103415,
+2026-01,sub_org,Dealer Core,Dealer,contractor_mix_pct,35.32576978582588,
+2026-01,sub_org,Dealer Core,Dealer,engagement_pct,68.2011718365441,
+2026-01,sub_org,Dealer Core,Dealer,enablement_pct,69.68937183632002,
+2026-01,sub_org,Dealer Core,Dealer,inclusion_pct,73.82879863650759,
+2026-01,sub_org,Dealer Core,Dealer,pli_pct,72.66811097261812,
+2026-01,sub_org,Dealer Core,Dealer,incidents,1.0,P1
+2026-01,sub_org,Dealer Core,Dealer,incidents,5.0,P2
+2026-01,sub_org,Dealer Core,Dealer,incidents,8.0,P3
+2026-01,sub_org,Dealer Core,Dealer,slo_pct,94.37650614962898,
+2026-01,sub_org,Dealer Core,Dealer,change_failure_rate,10.087395902519107,
+2026-01,sub_org,Dealer Core,Dealer,time_to_restore,2.5633824484896515,
+2026-01,sub_org,Dealer Core,Dealer,high_vuln_age,47.65596788235843,
+2026-02,sub_org,Dealer Core,Dealer,deployment_frequency,1.7318690368832927,
+2026-02,sub_org,Dealer Core,Dealer,lead_time,4.951319631678636,
+2026-02,sub_org,Dealer Core,Dealer,cycle_time,3.2381351764957302,
+2026-02,sub_org,Dealer Core,Dealer,prs_per_engineer,6.740792845187825,
+2026-02,sub_org,Dealer Core,Dealer,pct_time_ctd_rte,32.19316916067854,
+2026-02,sub_org,Dealer Core,Dealer,work_type_pct,51.71308326126216,Investment
+2026-02,sub_org,Dealer Core,Dealer,work_type_pct,16.093747578059304,Tech Mod
+2026-02,sub_org,Dealer Core,Dealer,work_type_pct,13.76878569363243,CTD
+2026-02,sub_org,Dealer Core,Dealer,work_type_pct,18.42438346704611,RTE
+2026-02,sub_org,Dealer Core,Dealer,direct_expense_variance,2.575504071798304,
+2026-02,sub_org,Dealer Core,Dealer,aws_expense_variance,7.404706153183906,
+2026-02,sub_org,Dealer Core,Dealer,snowflake_expense_variance,0.0,
+2026-02,sub_org,Dealer Core,Dealer,span_of_control,7.061569344957504,
+2026-02,sub_org,Dealer Core,Dealer,contractor_mix_pct,31.134199165969743,
+2026-02,sub_org,Dealer Core,Dealer,engagement_pct,66.84678825719557,
+2026-02,sub_org,Dealer Core,Dealer,enablement_pct,68.91170593565654,
+2026-02,sub_org,Dealer Core,Dealer,inclusion_pct,75.92083586947554,
+2026-02,sub_org,Dealer Core,Dealer,pli_pct,71.84468857440783,
+2026-02,sub_org,Dealer Core,Dealer,incidents,0.0,P1
+2026-02,sub_org,Dealer Core,Dealer,incidents,3.0,P2
+2026-02,sub_org,Dealer Core,Dealer,incidents,12.0,P3
+2026-02,sub_org,Dealer Core,Dealer,slo_pct,94.50140174781696,
+2026-02,sub_org,Dealer Core,Dealer,change_failure_rate,8.622966502958036,
+2026-02,sub_org,Dealer Core,Dealer,time_to_restore,2.8752470043682288,
+2026-02,sub_org,Dealer Core,Dealer,high_vuln_age,39.618418844155514,
+2026-03,sub_org,Dealer Core,Dealer,deployment_frequency,2.1265404040913665,
+2026-03,sub_org,Dealer Core,Dealer,lead_time,4.449521828059504,
+2026-03,sub_org,Dealer Core,Dealer,cycle_time,3.2482814336314534,
+2026-03,sub_org,Dealer Core,Dealer,prs_per_engineer,6.3912487355098735,
+2026-03,sub_org,Dealer Core,Dealer,pct_time_ctd_rte,30.940811068474442,
+2026-03,sub_org,Dealer Core,Dealer,work_type_pct,52.22505363323668,Investment
+2026-03,sub_org,Dealer Core,Dealer,work_type_pct,16.83413529828887,Tech Mod
+2026-03,sub_org,Dealer Core,Dealer,work_type_pct,13.48496502279503,CTD
+2026-03,sub_org,Dealer Core,Dealer,work_type_pct,17.455846045679408,RTE
+2026-03,sub_org,Dealer Core,Dealer,direct_expense_variance,4.357944396349152,
+2026-03,sub_org,Dealer Core,Dealer,aws_expense_variance,7.749888588621643,
+2026-03,sub_org,Dealer Core,Dealer,snowflake_expense_variance,0.0,
+2026-03,sub_org,Dealer Core,Dealer,span_of_control,7.270849299452803,
+2026-03,sub_org,Dealer Core,Dealer,contractor_mix_pct,32.174107103988206,
+2026-03,sub_org,Dealer Core,Dealer,engagement_pct,69.25706146078166,
+2026-03,sub_org,Dealer Core,Dealer,enablement_pct,71.38225895551052,
+2026-03,sub_org,Dealer Core,Dealer,inclusion_pct,74.83287583625062,
+2026-03,sub_org,Dealer Core,Dealer,pli_pct,73.0572402341325,
+2026-03,sub_org,Dealer Core,Dealer,incidents,3.0,P1
+2026-03,sub_org,Dealer Core,Dealer,incidents,1.0,P2
+2026-03,sub_org,Dealer Core,Dealer,incidents,7.0,P3
+2026-03,sub_org,Dealer Core,Dealer,slo_pct,94.50707145218097,
+2026-03,sub_org,Dealer Core,Dealer,change_failure_rate,7.9439120753408465,
+2026-03,sub_org,Dealer Core,Dealer,time_to_restore,2.333795817278225,
+2026-03,sub_org,Dealer Core,Dealer,high_vuln_age,40.83337672898772,
+2026-01,sub_org,DR,Dealer,deployment_frequency,1.6097660070976438,
+2026-01,sub_org,DR,Dealer,lead_time,4.705357501386253,
+2026-01,sub_org,DR,Dealer,cycle_time,3.7178094985488017,
+2026-01,sub_org,DR,Dealer,prs_per_engineer,5.795687578328091,
+2026-01,sub_org,DR,Dealer,pct_time_ctd_rte,31.74641819427713,
+2026-01,sub_org,DR,Dealer,work_type_pct,52.46667149156006,Investment
+2026-01,sub_org,DR,Dealer,work_type_pct,15.786910314162819,Tech Mod
+2026-01,sub_org,DR,Dealer,work_type_pct,13.68031306912244,CTD
+2026-01,sub_org,DR,Dealer,work_type_pct,18.06610512515469,RTE
+2026-01,sub_org,DR,Dealer,direct_expense_variance,3.616900476951623,
+2026-01,sub_org,DR,Dealer,aws_expense_variance,5.555319820421012,
+2026-01,sub_org,DR,Dealer,snowflake_expense_variance,0.0,
+2026-01,sub_org,DR,Dealer,span_of_control,7.0507096914399705,
+2026-01,sub_org,DR,Dealer,contractor_mix_pct,34.55845609339205,
+2026-01,sub_org,DR,Dealer,engagement_pct,65.3579634637096,
+2026-01,sub_org,DR,Dealer,enablement_pct,70.17785887936431,
+2026-01,sub_org,DR,Dealer,inclusion_pct,72.20877503890982,
+2026-01,sub_org,DR,Dealer,pli_pct,69.97055693309687,
+2026-01,sub_org,DR,Dealer,incidents,1.0,P1
+2026-01,sub_org,DR,Dealer,incidents,4.0,P2
+2026-01,sub_org,DR,Dealer,incidents,12.0,P3
+2026-01,sub_org,DR,Dealer,slo_pct,94.5422022045811,
+2026-01,sub_org,DR,Dealer,change_failure_rate,9.93432733490458,
+2026-01,sub_org,DR,Dealer,time_to_restore,2.7467694743584303,
+2026-01,sub_org,DR,Dealer,high_vuln_age,42.591025965080426,
+2026-02,sub_org,DR,Dealer,deployment_frequency,1.8322960179363574,
+2026-02,sub_org,DR,Dealer,lead_time,4.513668313307907,
+2026-02,sub_org,DR,Dealer,cycle_time,3.6532180635284255,
+2026-02,sub_org,DR,Dealer,prs_per_engineer,5.798157083252427,
+2026-02,sub_org,DR,Dealer,pct_time_ctd_rte,31.5122879899312,
+2026-02,sub_org,DR,Dealer,work_type_pct,52.19161913317989,Investment
+2026-02,sub_org,DR,Dealer,work_type_pct,16.296092876888906,Tech Mod
+2026-02,sub_org,DR,Dealer,work_type_pct,14.335481517322073,CTD
+2026-02,sub_org,DR,Dealer,work_type_pct,17.176806472609126,RTE
+2026-02,sub_org,DR,Dealer,direct_expense_variance,2.6100750014625977,
+2026-02,sub_org,DR,Dealer,aws_expense_variance,6.282815402924186,
+2026-02,sub_org,DR,Dealer,snowflake_expense_variance,0.0,
+2026-02,sub_org,DR,Dealer,span_of_control,6.964157481035778,
+2026-02,sub_org,DR,Dealer,contractor_mix_pct,32.130993405762375,
+2026-02,sub_org,DR,Dealer,engagement_pct,65.03103506492027,
+2026-02,sub_org,DR,Dealer,enablement_pct,70.18043315746381,
+2026-02,sub_org,DR,Dealer,inclusion_pct,73.51474533685685,
+2026-02,sub_org,DR,Dealer,pli_pct,71.25232166620073,
+2026-02,sub_org,DR,Dealer,incidents,0.0,P1
+2026-02,sub_org,DR,Dealer,incidents,4.0,P2
+2026-02,sub_org,DR,Dealer,incidents,9.0,P3
+2026-02,sub_org,DR,Dealer,slo_pct,94.7281741381504,
+2026-02,sub_org,DR,Dealer,change_failure_rate,8.580550217804053,
+2026-02,sub_org,DR,Dealer,time_to_restore,2.5400713864774254,
+2026-02,sub_org,DR,Dealer,high_vuln_age,47.31902381673324,
+2026-03,sub_org,DR,Dealer,deployment_frequency,1.9576179488786625,
+2026-03,sub_org,DR,Dealer,lead_time,4.681826136680161,
+2026-03,sub_org,DR,Dealer,cycle_time,3.1966107015532277,
+2026-03,sub_org,DR,Dealer,prs_per_engineer,5.819967940046774,
+2026-03,sub_org,DR,Dealer,pct_time_ctd_rte,31.719365745106085,
+2026-03,sub_org,DR,Dealer,work_type_pct,52.64246489278244,Investment
+2026-03,sub_org,DR,Dealer,work_type_pct,15.638169362111476,Tech Mod
+2026-03,sub_org,DR,Dealer,work_type_pct,14.066103659660705,CTD
+2026-03,sub_org,DR,Dealer,work_type_pct,17.65326208544538,RTE
+2026-03,sub_org,DR,Dealer,direct_expense_variance,5.119196107803702,
+2026-03,sub_org,DR,Dealer,aws_expense_variance,7.277596445157921,
+2026-03,sub_org,DR,Dealer,snowflake_expense_variance,0.0,
+2026-03,sub_org,DR,Dealer,span_of_control,6.695693979004862,
+2026-03,sub_org,DR,Dealer,contractor_mix_pct,30.209526602529536,
+2026-03,sub_org,DR,Dealer,engagement_pct,67.94761856198235,
+2026-03,sub_org,DR,Dealer,enablement_pct,68.66830420309438,
+2026-03,sub_org,DR,Dealer,inclusion_pct,75.5969328674066,
+2026-03,sub_org,DR,Dealer,pli_pct,71.84835702481325,
+2026-03,sub_org,DR,Dealer,incidents,3.0,P1
+2026-03,sub_org,DR,Dealer,incidents,2.0,P2
+2026-03,sub_org,DR,Dealer,incidents,8.0,P3
+2026-03,sub_org,DR,Dealer,slo_pct,94.78703718348704,
+2026-03,sub_org,DR,Dealer,change_failure_rate,8.105322108235148,
+2026-03,sub_org,DR,Dealer,time_to_restore,2.5641634619769165,
+2026-03,sub_org,DR,Dealer,high_vuln_age,37.085647765532485,
+2026-01,sub_org,Fraud,Dealer,deployment_frequency,2.4105340415443366,
+2026-01,sub_org,Fraud,Dealer,lead_time,6.4359903722953336,
+2026-01,sub_org,Fraud,Dealer,cycle_time,4.8271403403257755,
+2026-01,sub_org,Fraud,Dealer,prs_per_engineer,7.025034371159371,
+2026-01,sub_org,Fraud,Dealer,pct_time_ctd_rte,36.29007699635219,
+2026-01,sub_org,Fraud,Dealer,work_type_pct,47.68029659151529,Investment
+2026-01,sub_org,Fraud,Dealer,work_type_pct,16.029626412132526,Tech Mod
+2026-01,sub_org,Fraud,Dealer,work_type_pct,15.757221779325013,CTD
+2026-01,sub_org,Fraud,Dealer,work_type_pct,20.53285521702718,RTE
+2026-01,sub_org,Fraud,Dealer,direct_expense_variance,4.629277029514522,
+2026-01,sub_org,Fraud,Dealer,aws_expense_variance,7.8603412173952725,
+2026-01,sub_org,Fraud,Dealer,snowflake_expense_variance,0.0,
+2026-01,sub_org,Fraud,Dealer,span_of_control,9.18331056754798,
+2026-01,sub_org,Fraud,Dealer,contractor_mix_pct,44.47052586279916,
+2026-01,sub_org,Fraud,Dealer,engagement_pct,88.19880700809624,
+2026-01,sub_org,Fraud,Dealer,enablement_pct,88.0070006171109,
+2026-01,sub_org,Fraud,Dealer,inclusion_pct,93.73004043520707,
+2026-01,sub_org,Fraud,Dealer,pli_pct,93.28843209367459,
+2026-01,sub_org,Fraud,Dealer,incidents,1.0,P1
+2026-01,sub_org,Fraud,Dealer,incidents,3.0,P2
+2026-01,sub_org,Fraud,Dealer,incidents,6.0,P3
+2026-01,sub_org,Fraud,Dealer,slo_pct,100.0,
+2026-01,sub_org,Fraud,Dealer,change_failure_rate,11.437343579368713,
+2026-01,sub_org,Fraud,Dealer,time_to_restore,3.6414809076810006,
+2026-01,sub_org,Fraud,Dealer,high_vuln_age,64.11437433166232,
+2026-02,sub_org,Fraud,Dealer,deployment_frequency,2.4513816687487204,
+2026-02,sub_org,Fraud,Dealer,lead_time,6.187629508594632,
+2026-02,sub_org,Fraud,Dealer,cycle_time,4.208869190171602,
+2026-02,sub_org,Fraud,Dealer,prs_per_engineer,8.35102564853927,
+2026-02,sub_org,Fraud,Dealer,pct_time_ctd_rte,33.730462105473165,
+2026-02,sub_org,Fraud,Dealer,work_type_pct,51.150470160384515,Investment
+2026-02,sub_org,Fraud,Dealer,work_type_pct,15.119067734142329,Tech Mod
+2026-02,sub_org,Fraud,Dealer,work_type_pct,14.306406317632074,CTD
+2026-02,sub_org,Fraud,Dealer,work_type_pct,19.424055787841088,RTE
+2026-02,sub_org,Fraud,Dealer,direct_expense_variance,3.4403285358706284,
+2026-02,sub_org,Fraud,Dealer,aws_expense_variance,9.05259923128067,
+2026-02,sub_org,Fraud,Dealer,snowflake_expense_variance,0.0,
+2026-02,sub_org,Fraud,Dealer,span_of_control,8.854674916494291,
+2026-02,sub_org,Fraud,Dealer,contractor_mix_pct,41.31325003889744,
+2026-02,sub_org,Fraud,Dealer,engagement_pct,85.53908653136834,
+2026-02,sub_org,Fraud,Dealer,enablement_pct,91.24061482738993,
+2026-02,sub_org,Fraud,Dealer,inclusion_pct,92.79195876212952,
+2026-02,sub_org,Fraud,Dealer,pli_pct,92.42851172223175,
+2026-02,sub_org,Fraud,Dealer,incidents,0.0,P1
+2026-02,sub_org,Fraud,Dealer,incidents,1.0,P2
+2026-02,sub_org,Fraud,Dealer,incidents,13.0,P3
+2026-02,sub_org,Fraud,Dealer,slo_pct,100.0,
+2026-02,sub_org,Fraud,Dealer,change_failure_rate,10.901228955189119,
+2026-02,sub_org,Fraud,Dealer,time_to_restore,3.5399127253383096,
+2026-02,sub_org,Fraud,Dealer,high_vuln_age,53.46440090492998,
+2026-03,sub_org,Fraud,Dealer,deployment_frequency,2.305839549774755,
+2026-03,sub_org,Fraud,Dealer,lead_time,5.632727250531041,
+2026-03,sub_org,Fraud,Dealer,cycle_time,4.098618893359249,
+2026-03,sub_org,Fraud,Dealer,prs_per_engineer,8.280479741226088,
+2026-03,sub_org,Fraud,Dealer,pct_time_ctd_rte,30.709640658353617,
+2026-03,sub_org,Fraud,Dealer,work_type_pct,53.70147314500104,Investment
+2026-03,sub_org,Fraud,Dealer,work_type_pct,15.588886196645342,Tech Mod
+2026-03,sub_org,Fraud,Dealer,work_type_pct,13.167230278907978,CTD
+2026-03,sub_org,Fraud,Dealer,work_type_pct,17.54241037944564,RTE
+2026-03,sub_org,Fraud,Dealer,direct_expense_variance,4.466045105387343,
+2026-03,sub_org,Fraud,Dealer,aws_expense_variance,9.257243442309596,
+2026-03,sub_org,Fraud,Dealer,snowflake_expense_variance,0.0,
+2026-03,sub_org,Fraud,Dealer,span_of_control,8.618856997983057,
+2026-03,sub_org,Fraud,Dealer,contractor_mix_pct,39.48549383701265,
+2026-03,sub_org,Fraud,Dealer,engagement_pct,88.53094653697376,
+2026-03,sub_org,Fraud,Dealer,enablement_pct,89.95706562871446,
+2026-03,sub_org,Fraud,Dealer,inclusion_pct,93.85544166706524,
+2026-03,sub_org,Fraud,Dealer,pli_pct,92.75219314856152,
+2026-03,sub_org,Fraud,Dealer,incidents,2.0,P1
+2026-03,sub_org,Fraud,Dealer,incidents,3.0,P2
+2026-03,sub_org,Fraud,Dealer,incidents,3.0,P3
+2026-03,sub_org,Fraud,Dealer,slo_pct,100.0,
+2026-03,sub_org,Fraud,Dealer,change_failure_rate,10.342902647275057,
+2026-03,sub_org,Fraud,Dealer,time_to_restore,2.7930557416083897,
+2026-03,sub_org,Fraud,Dealer,high_vuln_age,49.8965805276816,
+2026-01,dealer,Dealer,,deployment_frequency,1.9290636363985127,
+2026-01,dealer,Dealer,,lead_time,5.732366405710877,
+2026-01,dealer,Dealer,,cycle_time,4.094653813418906,
+2026-01,dealer,Dealer,,prs_per_engineer,6.552549837433225,
+2026-01,dealer,Dealer,,pct_time_ctd_rte,33.70317056862357,
+2026-01,dealer,Dealer,,work_type_pct,50.06960869199357,Investment
+2026-01,dealer,Dealer,,work_type_pct,16.22722073938286,Tech Mod
+2026-01,dealer,Dealer,,work_type_pct,14.88528457341709,CTD
+2026-01,dealer,Dealer,,work_type_pct,18.817885995206474,RTE
+2026-01,dealer,Dealer,,direct_expense_variance,3.4759898881711293,
+2026-01,dealer,Dealer,,aws_expense_variance,6.965319959020262,
+2026-01,dealer,Dealer,,snowflake_expense_variance,0.0,
+2026-01,dealer,Dealer,,span_of_control,7.936568688516066,
+2026-01,dealer,Dealer,,contractor_mix_pct,38.42859217854929,
+2026-01,dealer,Dealer,,engagement_pct,74.38365716463099,
+2026-01,dealer,Dealer,,enablement_pct,76.9716110980631,
+2026-01,dealer,Dealer,,inclusion_pct,81.06750126457531,
+2026-01,dealer,Dealer,,pli_pct,79.9677552353218,
+2026-01,dealer,Dealer,,incidents,5.0,P1
+2026-01,dealer,Dealer,,incidents,25.0,P2
+2026-01,dealer,Dealer,,incidents,48.0,P3
+2026-01,dealer,Dealer,,slo_pct,97.12497218033961,
+2026-01,dealer,Dealer,,change_failure_rate,10.766356174793591,
+2026-01,dealer,Dealer,,time_to_restore,3.192991760280913,
+2026-01,dealer,Dealer,,high_vuln_age,51.98943299895067,
+2026-02,dealer,Dealer,,deployment_frequency,2.039620861553792,
+2026-02,dealer,Dealer,,lead_time,5.3320085398584505,
+2026-02,dealer,Dealer,,cycle_time,3.75902521979195,
+2026-02,dealer,Dealer,,prs_per_engineer,6.843313620511956,
+2026-02,dealer,Dealer,,pct_time_ctd_rte,31.966799535980982,
+2026-02,dealer,Dealer,,work_type_pct,52.12913576342288,Investment
+2026-02,dealer,Dealer,,work_type_pct,15.904064700596143,Tech Mod
+2026-02,dealer,Dealer,,work_type_pct,14.190344844447756,CTD
+2026-02,dealer,Dealer,,work_type_pct,17.77645469153323,RTE
+2026-02,dealer,Dealer,,direct_expense_variance,3.513341736880504,
+2026-02,dealer,Dealer,,aws_expense_variance,7.716205902112928,
+2026-02,dealer,Dealer,,snowflake_expense_variance,0.0,
+2026-02,dealer,Dealer,,span_of_control,7.685020272081001,
+2026-02,dealer,Dealer,,contractor_mix_pct,35.24834584805355,
+2026-02,dealer,Dealer,,engagement_pct,74.08383374198972,
+2026-02,dealer,Dealer,,enablement_pct,77.5926687365999,
+2026-02,dealer,Dealer,,inclusion_pct,82.00961847547111,
+2026-02,dealer,Dealer,,pli_pct,80.47154282478319,
+2026-02,dealer,Dealer,,incidents,1.0,P1
+2026-02,dealer,Dealer,,incidents,16.0,P2
+2026-02,dealer,Dealer,,incidents,62.0,P3
+2026-02,dealer,Dealer,,slo_pct,97.18343959578606,
+2026-02,dealer,Dealer,,change_failure_rate,9.394222096708189,
+2026-02,dealer,Dealer,,time_to_restore,2.9408767860057043,
+2026-02,dealer,Dealer,,high_vuln_age,47.913697280921646,
+2026-03,dealer,Dealer,,deployment_frequency,2.104181864674952,
+2026-03,dealer,Dealer,,lead_time,4.9727233510372395,
+2026-03,dealer,Dealer,,cycle_time,3.558077041571115,
+2026-03,dealer,Dealer,,prs_per_engineer,6.985141082002612,
+2026-03,dealer,Dealer,,pct_time_ctd_rte,30.48384554997786,
+2026-03,dealer,Dealer,,work_type_pct,53.33384825835017,Investment
+2026-03,dealer,Dealer,,work_type_pct,16.182306191671966,Tech Mod
+2026-03,dealer,Dealer,,work_type_pct,13.429812887705273,CTD
+2026-03,dealer,Dealer,,work_type_pct,17.054032662272594,RTE
+2026-03,dealer,Dealer,,direct_expense_variance,4.026438014800056,
+2026-03,dealer,Dealer,,aws_expense_variance,8.473792307565132,
+2026-03,dealer,Dealer,,snowflake_expense_variance,0.0,
+2026-03,dealer,Dealer,,span_of_control,7.694187674979568,
+2026-03,dealer,Dealer,,contractor_mix_pct,34.86282507035832,
+2026-03,dealer,Dealer,,engagement_pct,75.82250498687895,
+2026-03,dealer,Dealer,,enablement_pct,77.76773835379507,
+2026-03,dealer,Dealer,,inclusion_pct,82.36792623881773,
+2026-03,dealer,Dealer,,pli_pct,80.5736481951282,
+2026-03,dealer,Dealer,,incidents,9.0,P1
+2026-03,dealer,Dealer,,incidents,20.0,P2
+2026-03,dealer,Dealer,,incidents,46.0,P3
+2026-03,dealer,Dealer,,slo_pct,97.20991163406559,
+2026-03,dealer,Dealer,,change_failure_rate,8.826880941501388,
+2026-03,dealer,Dealer,,time_to_restore,2.7163529277694463,
+2026-03,dealer,Dealer,,high_vuln_age,44.05099475851825,

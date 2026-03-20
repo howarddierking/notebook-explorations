@@ -1,0 +1,395 @@
+goal_id,employee_id,review_period,title,category,status,completion_pct
+1,E001,2026-Q1,Complete Inclusive Leadership workshop,Development,On Track,83.0
+2,E001,2026-Q1,Mentor 20 engineers toward promotion readiness,Leadership,On Track,75.0
+3,E001,2026-Q1,Mentor 50 engineers toward promotion readiness,Leadership,On Track,70.0
+4,E001,2026-Q1,Reduce sprint carryover rate below 50%,Delivery,At Risk,35.0
+5,E002,2026-Q1,Deliver risk scoring feature-flag rollout,Delivery,On Track,60.0
+6,E002,2026-Q1,Present tech talk on ML in production to the broader engineering org,Leadership,Not Started,3.0
+7,E002,2026-Q1,Lead architecture design review for DMS integration,Leadership,On Track,82.0
+8,E002,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,57.0
+9,E002,2026-Q1,Lead architecture design review for lead routing,Leadership,On Track,61.0
+10,E003,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,At Risk,20.0
+11,E003,2026-Q1,Close 50 legacy technical debt items,Delivery,On Track,75.0
+12,E003,2026-Q1,Finish Manager Essentials learning path,Development,At Risk,20.0
+13,E003,2026-Q1,Complete remediation for 100 high-severity vulnerabilities,Technical,On Track,75.0
+14,E004,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,Complete,100.0
+15,E004,2026-Q1,Complete Lean Six Sigma Yellow Belt certification,Development,At Risk,22.0
+16,E004,2026-Q1,Complete data literacy course series,Development,At Risk,23.0
+17,E004,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,Complete,100.0
+18,E004,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,65.0
+19,E005,2026-Q1,Reduce sprint carryover rate below 200%,Delivery,At Risk,33.0
+20,E005,2026-Q1,Complete data migration for data warehouse,Delivery,On Track,78.0
+21,E005,2026-Q1,Migrate auth service to container-based deployment,Technical,At Risk,29.0
+22,E005,2026-Q1,Lead architecture design review for compliance reporting,Leadership,On Track,77.0
+23,E005,2026-Q1,Migrate auth service to container-based deployment,Technical,On Track,68.0
+24,E006,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,36.0
+25,E006,2026-Q1,Close 15 legacy technical debt items,Delivery,Complete,100.0
+26,E006,2026-Q1,Implement end-to-end test coverage for risk scoring flow,Technical,On Track,75.0
+27,E006,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,Not Started,0.0
+28,E006,2026-Q1,Close 100 legacy technical debt items,Delivery,Not Started,4.0
+29,E007,2026-Q1,Ship dealer onboarding to 100% of production traffic by end of quarter,Delivery,At Risk,42.0
+30,E007,2026-Q1,Migrate auth service to container-based deployment,Technical,Complete,100.0
+31,E007,2026-Q1,Implement end-to-end test coverage for fraud alerts flow,Technical,On Track,82.0
+32,E007,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,62.0
+33,E008,2026-Q1,Mentor 25 engineers toward promotion readiness,Leadership,At Risk,38.0
+34,E008,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,At Risk,28.0
+35,E008,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,72.0
+36,E008,2026-Q1,Deliver risk scoring feature-flag rollout,Delivery,On Track,79.0
+37,E008,2026-Q1,Finish Manager Essentials learning path,Development,On Track,84.0
+38,E009,2026-Q1,Implement end-to-end test coverage for fraud alerts flow,Technical,On Track,74.0
+39,E009,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,55.0
+40,E009,2026-Q1,Migrate payments service to container-based deployment,Technical,Complete,100.0
+41,E009,2026-Q1,Ship risk scoring to 100% of production traffic by end of quarter,Delivery,Complete,100.0
+42,E010,2026-Q1,Migrate payments service to container-based deployment,Technical,On Track,73.0
+43,E010,2026-Q1,Reduce p95 API latency by 30%,Technical,On Track,58.0
+44,E010,2026-Q1,Establish automated performance benchmarking pipeline,Technical,Not Started,0.0
+45,E010,2026-Q1,Finish Manager Essentials learning path,Development,On Track,59.0
+46,E011,2026-Q1,Complete remediation for 10 high-severity vulnerabilities,Technical,At Risk,49.0
+47,E011,2026-Q1,Migrate auth service to container-based deployment,Technical,At Risk,29.0
+48,E011,2026-Q1,Reduce p95 API latency by 15%,Technical,On Track,76.0
+49,E011,2026-Q1,Deliver risk scoring feature-flag rollout,Delivery,Complete,100.0
+50,E012,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,67.0
+51,E012,2026-Q1,Complete data literacy course series,Development,Complete,100.0
+52,E012,2026-Q1,Implement end-to-end test coverage for dealer onboarding flow,Technical,Not Started,7.0
+53,E012,2026-Q1,Complete Inclusive Leadership workshop,Development,On Track,65.0
+54,E012,2026-Q1,Reduce sprint carryover rate below 15%,Delivery,Complete,100.0
+55,E013,2026-Q1,Lead architecture design review for compliance reporting,Leadership,At Risk,21.0
+56,E013,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,69.0
+57,E013,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,On Track,79.0
+58,E013,2026-Q1,Mentor 15 engineers toward promotion readiness,Leadership,Not Started,6.0
+59,E013,2026-Q1,Present tech talk on ML in production to the broader engineering org,Leadership,At Risk,37.0
+60,E014,2026-Q1,Migrate search service to container-based deployment,Technical,At Risk,30.0
+61,E014,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,68.0
+62,E014,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,Complete,100.0
+63,E014,2026-Q1,Mentor 100 engineers toward promotion readiness,Leadership,Complete,100.0
+64,E015,2026-Q1,Complete Lean Six Sigma Yellow Belt certification,Development,On Track,72.0
+65,E015,2026-Q1,Finish Manager Essentials learning path,Development,Not Started,4.0
+66,E015,2026-Q1,Deliver batch export feature-flag rollout,Delivery,Complete,100.0
+67,E016,2026-Q1,Complete data migration for compliance reporting,Delivery,On Track,70.0
+68,E016,2026-Q1,Close 20 legacy technical debt items,Delivery,On Track,66.0
+69,E016,2026-Q1,Migrate search service to container-based deployment,Technical,Not Started,5.0
+70,E016,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,73.0
+71,E016,2026-Q1,Achieve AWS Solutions Architect certification,Technical,At Risk,26.0
+72,E017,2026-Q1,Deliver batch export feature-flag rollout,Delivery,Not Started,3.0
+73,E017,2026-Q1,Complete data migration for lead routing,Delivery,On Track,66.0
+74,E017,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,On Track,56.0
+75,E018,2026-Q1,Lead architecture design review for data warehouse,Leadership,On Track,66.0
+76,E018,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,75.0
+77,E018,2026-Q1,Complete data migration for lead routing,Delivery,On Track,75.0
+78,E019,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,Not Started,6.0
+79,E019,2026-Q1,Mentor 30 engineers toward promotion readiness,Leadership,At Risk,16.0
+80,E019,2026-Q1,Close 10 legacy technical debt items,Delivery,At Risk,37.0
+81,E019,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,55.0
+82,E020,2026-Q1,Migrate checkout service to container-based deployment,Technical,Not Started,3.0
+83,E020,2026-Q1,Complete Lean Six Sigma Yellow Belt certification,Development,On Track,56.0
+84,E020,2026-Q1,Migrate notification service to container-based deployment,Technical,On Track,84.0
+85,E020,2026-Q1,Finish Manager Essentials learning path,Development,On Track,75.0
+86,E020,2026-Q1,Complete data literacy course series,Development,Complete,100.0
+87,E021,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,Complete,100.0
+88,E021,2026-Q1,Reduce sprint carryover rate below 30%,Delivery,Complete,100.0
+89,E021,2026-Q1,Complete data migration for data warehouse,Delivery,Not Started,4.0
+90,E021,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,60.0
+91,E021,2026-Q1,Deliver dealer onboarding feature-flag rollout,Delivery,Complete,100.0
+92,E022,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Complete,100.0
+93,E022,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,62.0
+94,E022,2026-Q1,Implement end-to-end test coverage for dealer onboarding flow,Technical,On Track,83.0
+95,E023,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,Complete,100.0
+96,E023,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Not Started,4.0
+97,E023,2026-Q1,Reduce sprint carryover rate below 10%,Delivery,On Track,58.0
+98,E023,2026-Q1,Migrate auth service to container-based deployment,Technical,On Track,80.0
+99,E023,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Not Started,5.0
+100,E024,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,69.0
+101,E024,2026-Q1,Implement end-to-end test coverage for fraud alerts flow,Technical,Complete,100.0
+102,E024,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,68.0
+103,E025,2026-Q1,Close 20 legacy technical debt items,Delivery,On Track,77.0
+104,E025,2026-Q1,Migrate reporting service to container-based deployment,Technical,Not Started,3.0
+105,E025,2026-Q1,Migrate payments service to container-based deployment,Technical,Not Started,9.0
+106,E025,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,At Risk,18.0
+107,E025,2026-Q1,Migrate payments service to container-based deployment,Technical,At Risk,34.0
+108,E026,2026-Q1,Complete data migration for data warehouse,Delivery,Not Started,2.0
+109,E026,2026-Q1,Migrate payments service to container-based deployment,Technical,On Track,71.0
+110,E026,2026-Q1,Reduce sprint carryover rate below 20%,Delivery,Complete,100.0
+111,E027,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,Complete,100.0
+112,E027,2026-Q1,Migrate payments service to container-based deployment,Technical,On Track,83.0
+113,E027,2026-Q1,Deliver risk scoring feature-flag rollout,Delivery,On Track,72.0
+114,E027,2026-Q1,Implement end-to-end test coverage for risk scoring flow,Technical,On Track,55.0
+115,E028,2026-Q1,Mentor 25 engineers toward promotion readiness,Leadership,Complete,100.0
+116,E028,2026-Q1,Finish Manager Essentials learning path,Development,On Track,82.0
+117,E028,2026-Q1,Complete data migration for data warehouse,Delivery,On Track,81.0
+118,E029,2026-Q1,Complete data literacy course series,Development,Complete,100.0
+119,E029,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,Not Started,8.0
+120,E029,2026-Q1,Lead architecture design review for lead routing,Leadership,Complete,100.0
+121,E029,2026-Q1,Ship dealer onboarding to 100% of production traffic by end of quarter,Delivery,On Track,61.0
+122,E029,2026-Q1,Migrate reporting service to container-based deployment,Technical,On Track,58.0
+123,E030,2026-Q1,Deliver dark-mode UI feature-flag rollout,Delivery,At Risk,34.0
+124,E030,2026-Q1,Complete data literacy course series,Development,On Track,71.0
+125,E030,2026-Q1,Implement end-to-end test coverage for risk scoring flow,Technical,Complete,100.0
+126,E031,2026-Q1,Migrate search service to container-based deployment,Technical,At Risk,39.0
+127,E031,2026-Q1,Implement end-to-end test coverage for dealer onboarding flow,Technical,Not Started,9.0
+128,E031,2026-Q1,Migrate search service to container-based deployment,Technical,Complete,100.0
+129,E031,2026-Q1,Deliver batch export feature-flag rollout,Delivery,Not Started,4.0
+130,E031,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,On Track,79.0
+131,E032,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,At Risk,34.0
+132,E032,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,61.0
+133,E032,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,40.0
+134,E032,2026-Q1,Complete remediation for 200 high-severity vulnerabilities,Technical,Complete,100.0
+135,E032,2026-Q1,Ship batch export to 100% of production traffic by end of quarter,Delivery,At Risk,24.0
+136,E033,2026-Q1,Ship risk scoring to 100% of production traffic by end of quarter,Delivery,At Risk,36.0
+137,E033,2026-Q1,Reduce sprint carryover rate below 30%,Delivery,Complete,100.0
+138,E033,2026-Q1,Complete data migration for DMS integration,Delivery,At Risk,31.0
+139,E033,2026-Q1,Migrate auth service to container-based deployment,Technical,At Risk,36.0
+140,E033,2026-Q1,Deliver risk scoring feature-flag rollout,Delivery,On Track,71.0
+141,E034,2026-Q1,Close 200 legacy technical debt items,Delivery,Complete,100.0
+142,E034,2026-Q1,Present tech talk on ML in production to the broader engineering org,Leadership,At Risk,47.0
+143,E034,2026-Q1,Complete data literacy course series,Development,On Track,57.0
+144,E035,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,At Risk,25.0
+145,E035,2026-Q1,Complete remediation for 20 high-severity vulnerabilities,Technical,On Track,64.0
+146,E035,2026-Q1,Deliver dealer onboarding feature-flag rollout,Delivery,At Risk,29.0
+147,E036,2026-Q1,Complete Inclusive Leadership workshop,Development,At Risk,25.0
+148,E036,2026-Q1,Complete remediation for 20 high-severity vulnerabilities,Technical,Not Started,8.0
+149,E036,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,Complete,100.0
+150,E036,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,On Track,62.0
+151,E036,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,72.0
+152,E037,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,76.0
+153,E037,2026-Q1,Complete data migration for data warehouse,Delivery,On Track,75.0
+154,E037,2026-Q1,Complete remediation for 25 high-severity vulnerabilities,Technical,On Track,64.0
+155,E037,2026-Q1,Complete remediation for 50 high-severity vulnerabilities,Technical,Complete,100.0
+156,E038,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,66.0
+157,E038,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,81.0
+158,E038,2026-Q1,Ship dark-mode UI to 100% of production traffic by end of quarter,Delivery,Not Started,8.0
+159,E038,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,Complete,100.0
+160,E039,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,45.0
+161,E039,2026-Q1,Reduce sprint carryover rate below 10%,Delivery,Complete,100.0
+162,E039,2026-Q1,Ship batch export to 100% of production traffic by end of quarter,Delivery,Not Started,3.0
+163,E039,2026-Q1,Reduce p95 API latency by 100%,Technical,At Risk,49.0
+164,E040,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,81.0
+165,E040,2026-Q1,Lead architecture design review for DMS integration,Leadership,On Track,79.0
+166,E040,2026-Q1,Earn Snowflake SnowPro Core certification,Development,At Risk,46.0
+167,E041,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,74.0
+168,E041,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,71.0
+169,E041,2026-Q1,Earn Snowflake SnowPro Core certification,Development,Complete,100.0
+170,E041,2026-Q1,Reduce p95 API latency by 25%,Technical,On Track,68.0
+171,E042,2026-Q1,Ship dealer onboarding to 100% of production traffic by end of quarter,Delivery,At Risk,25.0
+172,E042,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,77.0
+173,E042,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Not Started,4.0
+174,E042,2026-Q1,Migrate search service to container-based deployment,Technical,On Track,70.0
+175,E042,2026-Q1,Close 50 legacy technical debt items,Delivery,At Risk,42.0
+176,E043,2026-Q1,Close 200 legacy technical debt items,Delivery,Complete,100.0
+177,E043,2026-Q1,Establish automated performance benchmarking pipeline,Technical,Complete,100.0
+178,E043,2026-Q1,Ship batch export to 100% of production traffic by end of quarter,Delivery,Complete,100.0
+179,E043,2026-Q1,Close 10 legacy technical debt items,Delivery,Complete,100.0
+180,E044,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,74.0
+181,E044,2026-Q1,Complete data migration for DMS integration,Delivery,Complete,100.0
+182,E044,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,At Risk,29.0
+183,E045,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,On Track,63.0
+184,E045,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,63.0
+185,E045,2026-Q1,Lead architecture design review for data warehouse,Leadership,At Risk,45.0
+186,E046,2026-Q1,Close 20 legacy technical debt items,Delivery,At Risk,33.0
+187,E046,2026-Q1,Implement end-to-end test coverage for fraud alerts flow,Technical,On Track,68.0
+188,E046,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,57.0
+189,E046,2026-Q1,Ship risk scoring to 100% of production traffic by end of quarter,Delivery,On Track,55.0
+190,E047,2026-Q1,Ship dark-mode UI to 100% of production traffic by end of quarter,Delivery,Complete,100.0
+191,E047,2026-Q1,Reduce p95 API latency by 100%,Technical,At Risk,33.0
+192,E047,2026-Q1,Complete data migration for data warehouse,Delivery,Not Started,8.0
+193,E047,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,70.0
+194,E048,2026-Q1,Implement end-to-end test coverage for fraud alerts flow,Technical,Complete,100.0
+195,E048,2026-Q1,Reduce sprint carryover rate below 50%,Delivery,At Risk,45.0
+196,E048,2026-Q1,Lead architecture design review for DMS integration,Leadership,On Track,80.0
+197,E048,2026-Q1,Reduce p95 API latency by 50%,Technical,On Track,69.0
+198,E048,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,71.0
+199,E049,2026-Q1,Complete Lean Six Sigma Yellow Belt certification,Development,Complete,100.0
+200,E049,2026-Q1,Reduce p95 API latency by 25%,Technical,Complete,100.0
+201,E049,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,81.0
+202,E050,2026-Q1,Complete data migration for lead routing,Delivery,At Risk,18.0
+203,E050,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,65.0
+204,E050,2026-Q1,Mentor 20 engineers toward promotion readiness,Leadership,On Track,57.0
+205,E050,2026-Q1,Mentor 15 engineers toward promotion readiness,Leadership,On Track,76.0
+206,E050,2026-Q1,Ship dealer onboarding to 100% of production traffic by end of quarter,Delivery,On Track,69.0
+207,E051,2026-Q1,Lead architecture design review for DMS integration,Leadership,On Track,57.0
+208,E051,2026-Q1,Finish Manager Essentials learning path,Development,Complete,100.0
+209,E051,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,65.0
+210,E051,2026-Q1,Complete data migration for DMS integration,Delivery,On Track,56.0
+211,E052,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Not Started,4.0
+212,E052,2026-Q1,Close 200 legacy technical debt items,Delivery,At Risk,46.0
+213,E052,2026-Q1,Reduce p95 API latency by 100%,Technical,Not Started,6.0
+214,E053,2026-Q1,Close 20 legacy technical debt items,Delivery,On Track,61.0
+215,E053,2026-Q1,Migrate notification service to container-based deployment,Technical,At Risk,46.0
+216,E053,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,74.0
+217,E053,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,75.0
+218,E054,2026-Q1,Present tech talk on API design to the broader engineering org,Leadership,At Risk,32.0
+219,E054,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,At Risk,24.0
+220,E054,2026-Q1,Earn Snowflake SnowPro Core certification,Development,On Track,74.0
+221,E054,2026-Q1,Complete remediation for 30 high-severity vulnerabilities,Technical,Complete,100.0
+222,E055,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Not Started,0.0
+223,E055,2026-Q1,Implement end-to-end test coverage for dealer onboarding flow,Technical,At Risk,30.0
+224,E055,2026-Q1,Achieve AWS Solutions Architect certification,Technical,At Risk,46.0
+225,E055,2026-Q1,Reduce sprint carryover rate below 20%,Delivery,Complete,100.0
+226,E056,2026-Q1,Earn Snowflake SnowPro Core certification,Development,At Risk,36.0
+227,E056,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,70.0
+228,E056,2026-Q1,Present tech talk on event-driven architecture to the broader engineering org,Leadership,Complete,100.0
+229,E057,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,73.0
+230,E057,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,At Risk,42.0
+231,E057,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,69.0
+232,E057,2026-Q1,Deliver dealer onboarding feature-flag rollout,Delivery,On Track,64.0
+233,E057,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,57.0
+234,E058,2026-Q1,Implement end-to-end test coverage for dark-mode UI flow,Technical,On Track,74.0
+235,E058,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,At Risk,49.0
+236,E058,2026-Q1,Reduce sprint carryover rate below 30%,Delivery,On Track,84.0
+237,E058,2026-Q1,Deliver dark-mode UI feature-flag rollout,Delivery,Not Started,6.0
+238,E059,2026-Q1,Achieve AWS Solutions Architect certification,Technical,At Risk,34.0
+239,E059,2026-Q1,Establish automated performance benchmarking pipeline,Technical,Complete,100.0
+240,E059,2026-Q1,Migrate search service to container-based deployment,Technical,At Risk,41.0
+241,E060,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,On Track,56.0
+242,E060,2026-Q1,Ship dealer onboarding to 100% of production traffic by end of quarter,Delivery,Not Started,6.0
+243,E060,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,71.0
+244,E061,2026-Q1,Establish automated performance benchmarking pipeline,Technical,Complete,100.0
+245,E061,2026-Q1,Complete remediation for 100 high-severity vulnerabilities,Technical,On Track,81.0
+246,E061,2026-Q1,Present tech talk on event-driven architecture to the broader engineering org,Leadership,At Risk,24.0
+247,E061,2026-Q1,Establish automated performance benchmarking pipeline,Technical,Complete,100.0
+248,E062,2026-Q1,Lead architecture design review for data warehouse,Leadership,Not Started,2.0
+249,E062,2026-Q1,Earn Snowflake SnowPro Core certification,Development,At Risk,32.0
+250,E062,2026-Q1,Lead architecture design review for DMS integration,Leadership,On Track,84.0
+251,E062,2026-Q1,Mentor 25 engineers toward promotion readiness,Leadership,At Risk,25.0
+252,E063,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,20.0
+253,E063,2026-Q1,Establish automated performance benchmarking pipeline,Technical,Complete,100.0
+254,E063,2026-Q1,Close 25 legacy technical debt items,Delivery,On Track,84.0
+255,E063,2026-Q1,Deliver batch export feature-flag rollout,Delivery,Complete,100.0
+256,E063,2026-Q1,Reduce sprint carryover rate below 50%,Delivery,On Track,81.0
+257,E064,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,At Risk,44.0
+258,E064,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,56.0
+259,E064,2026-Q1,Migrate search service to container-based deployment,Technical,Complete,100.0
+260,E065,2026-Q1,Ship batch export to 100% of production traffic by end of quarter,Delivery,Complete,100.0
+261,E065,2026-Q1,Complete remediation for 10 high-severity vulnerabilities,Technical,At Risk,27.0
+262,E065,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,84.0
+263,E066,2026-Q1,Reduce p95 API latency by 200%,Technical,On Track,75.0
+264,E066,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,At Risk,35.0
+265,E066,2026-Q1,Drive cross-team alignment on shared API contract,Leadership,On Track,81.0
+266,E066,2026-Q1,Close 25 legacy technical debt items,Delivery,On Track,76.0
+267,E067,2026-Q1,Ship risk scoring to 100% of production traffic by end of quarter,Delivery,At Risk,32.0
+268,E067,2026-Q1,Close 30 legacy technical debt items,Delivery,On Track,58.0
+269,E067,2026-Q1,Lead architecture design review for compliance reporting,Leadership,At Risk,26.0
+270,E068,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,63.0
+271,E068,2026-Q1,Finish Manager Essentials learning path,Development,On Track,74.0
+272,E068,2026-Q1,Complete remediation for 200 high-severity vulnerabilities,Technical,Complete,100.0
+273,E068,2026-Q1,Reduce sprint carryover rate below 30%,Delivery,On Track,65.0
+274,E068,2026-Q1,Reduce p95 API latency by 20%,Technical,On Track,55.0
+275,E069,2026-Q1,Complete remediation for 100 high-severity vulnerabilities,Technical,On Track,79.0
+276,E069,2026-Q1,Reduce p95 API latency by 200%,Technical,Not Started,9.0
+277,E069,2026-Q1,Reduce p95 API latency by 50%,Technical,At Risk,34.0
+278,E069,2026-Q1,Complete data migration for compliance reporting,Delivery,Complete,100.0
+279,E069,2026-Q1,Mentor 20 engineers toward promotion readiness,Leadership,Not Started,1.0
+280,E070,2026-Q1,Migrate checkout service to container-based deployment,Technical,Not Started,2.0
+281,E070,2026-Q1,Ship dark-mode UI to 100% of production traffic by end of quarter,Delivery,On Track,81.0
+282,E070,2026-Q1,Earn Snowflake SnowPro Core certification,Development,On Track,78.0
+283,E070,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,84.0
+284,E070,2026-Q1,Complete Inclusive Leadership workshop,Development,On Track,65.0
+285,E071,2026-Q1,Complete data migration for compliance reporting,Delivery,On Track,73.0
+286,E071,2026-Q1,Complete remediation for 100 high-severity vulnerabilities,Technical,On Track,77.0
+287,E071,2026-Q1,Lead architecture design review for compliance reporting,Leadership,On Track,64.0
+288,E072,2026-Q1,Deliver dealer onboarding feature-flag rollout,Delivery,At Risk,29.0
+289,E072,2026-Q1,Mentor 15 engineers toward promotion readiness,Leadership,On Track,75.0
+290,E072,2026-Q1,Establish team engineering standards and runbook documentation,Leadership,On Track,57.0
+291,E072,2026-Q1,Migrate checkout service to container-based deployment,Technical,Not Started,1.0
+292,E073,2026-Q1,Complete remediation for 50 high-severity vulnerabilities,Technical,On Track,61.0
+293,E073,2026-Q1,Complete remediation for 15 high-severity vulnerabilities,Technical,At Risk,33.0
+294,E073,2026-Q1,Reduce p95 API latency by 15%,Technical,On Track,81.0
+295,E073,2026-Q1,Ship batch export to 100% of production traffic by end of quarter,Delivery,On Track,71.0
+296,E074,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,47.0
+297,E074,2026-Q1,Close 100 legacy technical debt items,Delivery,At Risk,49.0
+298,E074,2026-Q1,Deliver fraud alerts feature-flag rollout,Delivery,At Risk,44.0
+299,E075,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,84.0
+300,E075,2026-Q1,Migrate checkout service to container-based deployment,Technical,Not Started,3.0
+301,E075,2026-Q1,Complete remediation for 50 high-severity vulnerabilities,Technical,Not Started,8.0
+302,E075,2026-Q1,Migrate search service to container-based deployment,Technical,On Track,72.0
+303,E075,2026-Q1,Close 50 legacy technical debt items,Delivery,On Track,83.0
+304,E076,2026-Q1,Ship dark-mode UI to 100% of production traffic by end of quarter,Delivery,On Track,60.0
+305,E076,2026-Q1,Close 50 legacy technical debt items,Delivery,Complete,100.0
+306,E076,2026-Q1,Complete remediation for 10 high-severity vulnerabilities,Technical,On Track,55.0
+307,E076,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,On Track,80.0
+308,E077,2026-Q1,Lead architecture design review for DMS integration,Leadership,At Risk,45.0
+309,E077,2026-Q1,Mentor 100 engineers toward promotion readiness,Leadership,On Track,82.0
+310,E077,2026-Q1,Mentor 20 engineers toward promotion readiness,Leadership,At Risk,24.0
+311,E077,2026-Q1,Ship dealer onboarding to 100% of production traffic by end of quarter,Delivery,Complete,100.0
+312,E077,2026-Q1,Complete remediation for 200 high-severity vulnerabilities,Technical,Complete,100.0
+313,E078,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,At Risk,40.0
+314,E078,2026-Q1,Reduce p95 API latency by 25%,Technical,On Track,66.0
+315,E078,2026-Q1,Reduce sprint carryover rate below 200%,Delivery,On Track,77.0
+316,E078,2026-Q1,Reduce p95 API latency by 30%,Technical,Complete,100.0
+317,E078,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,56.0
+318,E079,2026-Q1,Ship risk scoring to 100% of production traffic by end of quarter,Delivery,On Track,77.0
+319,E079,2026-Q1,Implement end-to-end test coverage for risk scoring flow,Technical,On Track,62.0
+320,E079,2026-Q1,Reduce p95 API latency by 15%,Technical,Not Started,7.0
+321,E079,2026-Q1,Complete remediation for 30 high-severity vulnerabilities,Technical,On Track,61.0
+322,E080,2026-Q1,Achieve AWS Solutions Architect certification,Technical,At Risk,47.0
+323,E080,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Not Started,4.0
+324,E080,2026-Q1,Finish Manager Essentials learning path,Development,On Track,70.0
+325,E080,2026-Q1,Ship batch export to 100% of production traffic by end of quarter,Delivery,On Track,77.0
+326,E081,2026-Q1,Reduce sprint carryover rate below 25%,Delivery,Complete,100.0
+327,E081,2026-Q1,Reduce p95 API latency by 30%,Technical,Not Started,9.0
+328,E081,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,At Risk,19.0
+329,E081,2026-Q1,Deliver dealer onboarding feature-flag rollout,Delivery,On Track,83.0
+330,E081,2026-Q1,Reduce p95 API latency by 100%,Technical,On Track,59.0
+331,E082,2026-Q1,Lead architecture design review for compliance reporting,Leadership,On Track,68.0
+332,E082,2026-Q1,Lead architecture design review for data warehouse,Leadership,On Track,83.0
+333,E082,2026-Q1,Deliver dark-mode UI feature-flag rollout,Delivery,At Risk,24.0
+334,E083,2026-Q1,Present tech talk on API design to the broader engineering org,Leadership,On Track,80.0
+335,E083,2026-Q1,Present tech talk on ML in production to the broader engineering org,Leadership,On Track,77.0
+336,E083,2026-Q1,Reduce p95 API latency by 15%,Technical,At Risk,29.0
+337,E083,2026-Q1,Reduce sprint carryover rate below 30%,Delivery,On Track,59.0
+338,E084,2026-Q1,Complete remediation for 20 high-severity vulnerabilities,Technical,Complete,100.0
+339,E084,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,58.0
+340,E084,2026-Q1,Reduce sprint carryover rate below 30%,Delivery,On Track,63.0
+341,E084,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,76.0
+342,E084,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,Complete,100.0
+343,E085,2026-Q1,Implement end-to-end test coverage for dark-mode UI flow,Technical,At Risk,44.0
+344,E085,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,On Track,75.0
+345,E085,2026-Q1,Reduce p95 API latency by 50%,Technical,On Track,78.0
+346,E085,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,19.0
+347,E085,2026-Q1,Complete remediation for 10 high-severity vulnerabilities,Technical,Not Started,3.0
+348,E086,2026-Q1,Deliver batch export feature-flag rollout,Delivery,On Track,67.0
+349,E086,2026-Q1,Implement end-to-end test coverage for batch export flow,Technical,On Track,74.0
+350,E086,2026-Q1,Complete remediation for 50 high-severity vulnerabilities,Technical,On Track,78.0
+351,E087,2026-Q1,Migrate reporting service to container-based deployment,Technical,At Risk,28.0
+352,E087,2026-Q1,Close 100 legacy technical debt items,Delivery,On Track,69.0
+353,E087,2026-Q1,Close 30 legacy technical debt items,Delivery,Not Started,2.0
+354,E087,2026-Q1,Reduce p95 API latency by 20%,Technical,At Risk,20.0
+355,E088,2026-Q1,Close 10 legacy technical debt items,Delivery,On Track,55.0
+356,E088,2026-Q1,Mentor 15 engineers toward promotion readiness,Leadership,At Risk,47.0
+357,E088,2026-Q1,Ship fraud alerts to 100% of production traffic by end of quarter,Delivery,Not Started,7.0
+358,E089,2026-Q1,Complete remediation for 20 high-severity vulnerabilities,Technical,On Track,71.0
+359,E089,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,76.0
+360,E089,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,65.0
+361,E090,2026-Q1,Close 25 legacy technical debt items,Delivery,At Risk,37.0
+362,E090,2026-Q1,Deliver risk scoring feature-flag rollout,Delivery,At Risk,41.0
+363,E090,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,72.0
+364,E090,2026-Q1,Present tech talk on ML in production to the broader engineering org,Leadership,On Track,73.0
+365,E091,2026-Q1,Implement end-to-end test coverage for dealer onboarding flow,Technical,On Track,56.0
+366,E091,2026-Q1,Reduce p95 API latency by 200%,Technical,At Risk,23.0
+367,E091,2026-Q1,Migrate notification service to container-based deployment,Technical,On Track,84.0
+368,E091,2026-Q1,Implement end-to-end test coverage for dark-mode UI flow,Technical,On Track,78.0
+369,E091,2026-Q1,Complete remediation for 200 high-severity vulnerabilities,Technical,Complete,100.0
+370,E092,2026-Q1,Migrate checkout service to container-based deployment,Technical,On Track,70.0
+371,E092,2026-Q1,Achieve AWS Solutions Architect certification,Technical,On Track,83.0
+372,E092,2026-Q1,Establish automated performance benchmarking pipeline,Technical,At Risk,44.0
+373,E092,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,On Track,70.0
+374,E092,2026-Q1,Finish Manager Essentials learning path,Development,On Track,77.0
+375,E093,2026-Q1,Present tech talk on ML in production to the broader engineering org,Leadership,At Risk,23.0
+376,E093,2026-Q1,Deliver dark-mode UI feature-flag rollout,Delivery,On Track,80.0
+377,E093,2026-Q1,Reduce sprint carryover rate below 25%,Delivery,At Risk,26.0
+378,E094,2026-Q1,Complete Lean Six Sigma Yellow Belt certification,Development,On Track,56.0
+379,E094,2026-Q1,Migrate checkout service to container-based deployment,Technical,Complete,100.0
+380,E094,2026-Q1,Attend AWS re:Invent and share key learnings with team,Development,On Track,60.0
+381,E095,2026-Q1,Complete data migration for DMS integration,Delivery,At Risk,39.0
+382,E095,2026-Q1,Close 20 legacy technical debt items,Delivery,At Risk,46.0
+383,E095,2026-Q1,Lead architecture design review for DMS integration,Leadership,On Track,57.0
+384,E095,2026-Q1,Reduce p95 API latency by 30%,Technical,On Track,57.0
+385,E096,2026-Q1,Complete data literacy course series,Development,At Risk,27.0
+386,E096,2026-Q1,Complete remediation for 100 high-severity vulnerabilities,Technical,At Risk,48.0
+387,E096,2026-Q1,Establish automated performance benchmarking pipeline,Technical,On Track,84.0
+388,E096,2026-Q1,Implement end-to-end test coverage for dealer onboarding flow,Technical,At Risk,26.0
+389,E096,2026-Q1,Complete all Q1 roadmap epics to 'Done',Delivery,At Risk,19.0
+390,E097,2026-Q1,Mentor 20 engineers toward promotion readiness,Leadership,At Risk,34.0
+391,E097,2026-Q1,Achieve AWS Solutions Architect certification,Technical,Complete,100.0
+392,E097,2026-Q1,Complete Lean Six Sigma Yellow Belt certification,Development,On Track,59.0
+393,E097,2026-Q1,Complete data migration for DMS integration,Delivery,On Track,56.0
+394,E097,2026-Q1,Reduce p95 API latency by 10%,Technical,On Track,78.0

@@ -1,0 +1,98 @@
+employee_id,full_name,title,level,employee_type,is_leader,sub_org,team,manager_id,start_date
+E001,Casey Mason,VP of Engineering,L8,Associate,1,Dealer,Dealer,,2016-12-24
+E002,Logan Vasquez,Director of Engineering,L7,Associate,1,DTD,DTD,E001,2017-03-17
+E003,Casey Ingram,Engineering Manager,L6,Associate,1,DTD,DTD - Platform,E002,2023-01-02
+E004,Casey Jackson,Principal Engineer,L7,Contractor,0,DTD,DTD - Platform,E003,2021-05-23
+E005,Rowan Singh,Software Engineer II,L4,Associate,0,DTD,DTD - Platform,E003,2024-09-16
+E006,Oakley Baker,Senior Software Engineer,L5,Contractor,0,DTD,DTD - Platform,E003,2023-04-11
+E007,Marley Davies,Software Engineer II,L4,Associate,0,DTD,DTD - Platform,E003,2020-12-29
+E008,Jesse Nguyen,Engineering Manager,L6,Associate,1,DTD,DTD - Integrations,E002,2020-06-04
+E009,Morgan Xavier,Senior Software Engineer,L5,Associate,0,DTD,DTD - Integrations,E008,2023-04-07
+E010,Marley Singh,Senior Software Engineer,L5,Associate,0,DTD,DTD - Integrations,E008,2023-02-23
+E011,Frankie Ingram,Software Engineer I,L3,Associate,0,DTD,DTD - Integrations,E008,2020-08-22
+E012,Frankie Underwood,Principal Engineer,L7,Associate,0,DTD,DTD - Integrations,E008,2023-09-05
+E013,Morgan Xu,Engineering Manager,L6,Associate,1,DTD,DTD - Analytics,E002,2019-06-11
+E014,Dakota Quinn,Software Engineer II,L4,Associate,0,DTD,DTD - Analytics,E013,2024-06-19
+E015,Skyler Price,Senior Software Engineer,L5,Associate,0,DTD,DTD - Analytics,E013,2022-04-02
+E016,Devon Vasquez,Software Engineer II,L4,Contractor,0,DTD,DTD - Analytics,E013,2021-04-16
+E017,Finley Ingram,Software Engineer II,L4,Associate,0,DTD,DTD - Analytics,E013,2022-03-19
+E018,Avery Price,Director of Engineering,L7,Associate,1,FMD,FMD,E001,2021-10-25
+E019,Indigo Anderson,Engineering Manager,L6,Associate,1,FMD,FMD - Originations,E018,2019-06-08
+E020,Harper Nguyen,Senior Software Engineer,L5,Contractor,0,FMD,FMD - Originations,E019,2021-06-03
+E021,Jordan Garcia,Senior Software Engineer,L5,Associate,0,FMD,FMD - Originations,E019,2024-05-13
+E022,Riley Reed,Senior Software Engineer,L5,Associate,0,FMD,FMD - Originations,E019,2022-08-10
+E023,Sydney Baker,Senior Software Engineer,L5,Associate,0,FMD,FMD - Originations,E019,2025-03-20
+E024,Spencer Nelson,Engineering Manager,L6,Associate,1,FMD,FMD - Servicing,E018,2022-05-23
+E025,Sterling Kim,Software Engineer I,L3,Associate,0,FMD,FMD - Servicing,E024,2024-03-11
+E026,Kendall Price,Staff Engineer,L6,Associate,0,FMD,FMD - Servicing,E024,2025-05-23
+E027,Logan Hudson,Software Engineer II,L4,Associate,0,FMD,FMD - Servicing,E024,2025-01-07
+E028,Spencer Ueda,Senior Software Engineer,L5,Contractor,0,FMD,FMD - Servicing,E024,2023-06-24
+E029,Kendall Oliver,Engineering Manager,L6,Associate,1,FMD,FMD - Risk,E018,2022-04-15
+E030,Skyler Mason,Software Engineer I,L3,Associate,0,FMD,FMD - Risk,E029,2021-09-28
+E031,Nash Zhang,Senior Software Engineer,L5,Associate,0,FMD,FMD - Risk,E029,2020-07-22
+E032,Quinn Irving,Senior Software Engineer,L5,Associate,0,FMD,FMD - Risk,E029,2023-08-14
+E033,Tyler Singh,Software Engineer II,L4,Associate,0,FMD,FMD - Risk,E029,2020-06-08
+E034,Casey Roberts,Director of Engineering,L7,Associate,1,CLO,CLO,E001,2022-05-22
+E035,Drew Xavier,Engineering Manager,L6,Associate,1,CLO,CLO - Lending,E034,2022-01-06
+E036,Nash Mason,Senior Software Engineer,L5,Associate,0,CLO,CLO - Lending,E035,2020-05-20
+E037,Harper Williams,Senior Software Engineer,L5,Contractor,0,CLO,CLO - Lending,E035,2021-08-30
+E038,River Garcia,Software Engineer I,L3,Contractor,0,CLO,CLO - Lending,E035,2023-03-17
+E039,Indigo Carter,Software Engineer II,L4,Associate,0,CLO,CLO - Lending,E035,2022-09-15
+E040,Skyler Xu,Engineering Manager,L6,Associate,1,CLO,CLO - Operations,E034,2019-01-29
+E041,Bailey Vasquez,Senior Software Engineer,L5,Contractor,0,CLO,CLO - Operations,E040,2024-01-07
+E042,Wiley Fleming,Senior Software Engineer,L5,Associate,0,CLO,CLO - Operations,E040,2025-04-01
+E043,Skyler Young,Software Engineer II,L4,Associate,0,CLO,CLO - Operations,E040,2024-09-05
+E044,Drew Irving,Software Engineer II,L4,Associate,0,CLO,CLO - Operations,E040,2022-06-26
+E045,Harper Irving,Engineering Manager,L6,Associate,1,CLO,CLO - Compliance,E034,2022-06-01
+E046,Oakley Edwards,Senior Software Engineer,L5,Associate,0,CLO,CLO - Compliance,E045,2022-06-19
+E047,Kendall Young,Software Engineer I,L3,Contractor,0,CLO,CLO - Compliance,E045,2023-02-23
+E048,Harper Hudson,Software Engineer I,L3,Associate,0,CLO,CLO - Compliance,E045,2023-01-06
+E049,Spencer Xu,Staff Engineer,L6,Associate,0,CLO,CLO - Compliance,E045,2021-04-10
+E050,River Walsh,Director of Engineering,L7,Associate,1,Dealer Core,Dealer Core,E001,2020-11-22
+E051,Spencer Adams,Engineering Manager,L6,Associate,1,Dealer Core,Core - Identity,E050,2019-02-12
+E052,Logan Anderson,Software Engineer I,L3,Contractor,0,Dealer Core,Core - Identity,E051,2020-10-14
+E053,Cameron Foster,Software Engineer II,L4,Associate,0,Dealer Core,Core - Identity,E051,2022-01-19
+E054,Bailey Knox,Software Engineer II,L4,Associate,0,Dealer Core,Core - Identity,E051,2021-09-19
+E055,Tyler Underwood,Senior Software Engineer,L5,Associate,0,Dealer Core,Core - Identity,E051,2020-05-08
+E056,Finley Lewis,Engineering Manager,L6,Associate,1,Dealer Core,Core - API,E050,2023-12-28
+E057,Cameron Price,Senior Software Engineer,L5,Associate,0,Dealer Core,Core - API,E056,2023-03-09
+E058,Indigo Fleming,Software Engineer II,L4,Contractor,0,Dealer Core,Core - API,E056,2024-02-11
+E059,Sterling Vance,Senior Software Engineer,L5,Associate,0,Dealer Core,Core - API,E056,2024-09-20
+E060,Skyler Xavier,Software Engineer I,L3,Associate,0,Dealer Core,Core - API,E056,2020-04-04
+E061,Quinn Turner,Engineering Manager,L6,Associate,1,Dealer Core,Core - Data,E050,2023-09-01
+E062,Frankie Foster,Staff Engineer,L6,Contractor,0,Dealer Core,Core - Data,E061,2022-11-11
+E063,Drew Hudson,Software Engineer II,L4,Contractor,0,Dealer Core,Core - Data,E061,2023-06-17
+E064,Hayden Singh,Software Engineer I,L3,Contractor,0,Dealer Core,Core - Data,E061,2024-04-08
+E065,Morgan Price,Staff Engineer,L6,Associate,0,Dealer Core,Core - Data,E061,2020-10-23
+E066,Quinn Lambert,Director of Engineering,L7,Associate,1,DR,DR,E001,2021-12-16
+E067,Hayden Dixon,Engineering Manager,L6,Associate,1,DR,DR - Recovery,E066,2019-11-24
+E068,Lane York,Software Engineer II,L4,Associate,0,DR,DR - Recovery,E067,2021-06-09
+E069,Logan Harris,Principal Engineer,L7,Associate,0,DR,DR - Recovery,E067,2020-07-29
+E070,Alex Anderson,Software Engineer II,L4,Associate,0,DR,DR - Recovery,E067,2021-12-27
+E071,Oakley Ingram,Software Engineer II,L4,Associate,0,DR,DR - Recovery,E067,2021-07-02
+E072,Tanner Ueda,Engineering Manager,L6,Associate,1,DR,DR - Collections,E066,2023-01-06
+E073,Casey Knox,Staff Engineer,L6,Contractor,0,DR,DR - Collections,E072,2021-03-04
+E074,Avery Evans,Software Engineer II,L4,Contractor,0,DR,DR - Collections,E072,2023-07-12
+E075,Rowan Hudson,Software Engineer II,L4,Associate,0,DR,DR - Collections,E072,2023-12-28
+E076,Phoenix Young,Software Engineer II,L4,Contractor,0,DR,DR - Collections,E072,2025-07-30
+E077,Tanner Baker,Engineering Manager,L6,Associate,1,DR,DR - Reporting,E066,2023-04-29
+E078,Wiley Lambert,Software Engineer II,L4,Associate,0,DR,DR - Reporting,E077,2023-05-30
+E079,Dakota Vance,Principal Engineer,L7,Associate,0,DR,DR - Reporting,E077,2021-08-27
+E080,Indigo Reed,Senior Software Engineer,L5,Contractor,0,DR,DR - Reporting,E077,2025-08-13
+E081,Sage Nelson,Software Engineer II,L4,Contractor,0,DR,DR - Reporting,E077,2023-03-03
+E082,Finley Quinn,Director of Engineering,L7,Associate,1,Fraud,Fraud,E001,2019-07-02
+E083,Glenn Edwards,Engineering Manager,L6,Associate,1,Fraud,Fraud - Detection,E082,2018-08-14
+E084,Lane Foster,Senior Software Engineer,L5,Associate,0,Fraud,Fraud - Detection,E083,2023-08-28
+E085,Remi Stone,Software Engineer II,L4,Associate,0,Fraud,Fraud - Detection,E083,2024-03-16
+E086,Mackenzie York,Software Engineer II,L4,Associate,0,Fraud,Fraud - Detection,E083,2021-08-12
+E087,Parker Dixon,Staff Engineer,L6,Associate,0,Fraud,Fraud - Detection,E083,2023-09-30
+E088,Quinn Johnson,Engineering Manager,L6,Associate,1,Fraud,Fraud - Investigation,E082,2019-04-08
+E089,Nash Vance,Software Engineer II,L4,Associate,0,Fraud,Fraud - Investigation,E088,2022-06-04
+E090,Skyler Williams,Software Engineer II,L4,Associate,0,Fraud,Fraud - Investigation,E088,2025-01-29
+E091,Dakota Irving,Software Engineer I,L3,Associate,0,Fraud,Fraud - Investigation,E088,2021-02-22
+E092,Taylor Oliver,Senior Software Engineer,L5,Contractor,0,Fraud,Fraud - Investigation,E088,2023-07-20
+E093,Jesse Patel,Engineering Manager,L6,Associate,1,Fraud,Fraud - Prevention,E082,2018-04-24
+E094,Rowan Adams,Staff Engineer,L6,Contractor,0,Fraud,Fraud - Prevention,E093,2025-06-22
+E095,Finley Martin,Software Engineer II,L4,Associate,0,Fraud,Fraud - Prevention,E093,2022-03-07
+E096,Sydney Anderson,Software Engineer II,L4,Associate,0,Fraud,Fraud - Prevention,E093,2023-08-29
+E097,Casey Price,Senior Software Engineer,L5,Associate,0,Fraud,Fraud - Prevention,E093,2025-02-15
