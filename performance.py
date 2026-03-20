@@ -15,9 +15,7 @@ def _():
 
 @app.cell(hide_code=True)
 def _():
-    REVIEW_PERIODS = ["2025-Q3", "2025-Q4", "2026-Q1"]
     CURRENT_PERIOD = "2026-Q1"
-    PRIOR_PERIOD   = "2025-Q4"
 
     ORG_HIERARCHY = {
         "Dealer":      ["DTD", "FMD", "CLO", "Dealer Core", "DR", "Fraud"],
@@ -95,10 +93,6 @@ def _():
         (1.5, "Developing"),
         (0.0, "Needs Improvement"),
     ]
-    RATING_LABEL_ORDER = [
-        "Needs Improvement", "Developing", "Meets Expectations",
-        "Exceeds Expectations", "Outstanding",
-    ]
     RATING_COLORS = {
         "Outstanding":          "#1b5e20",
         "Exceeds Expectations": "#388e3c",
@@ -107,15 +101,6 @@ def _():
         "Needs Improvement":    "#b71c1c",
     }
 
-    GOAL_STATUS_ORDER  = ["Not Started", "At Risk", "On Track", "Complete"]
-    GOAL_STATUS_COLORS = {
-        "Complete":    "#388e3c",
-        "On Track":    "#1565c0",
-        "At Risk":     "#e65100",
-        "Not Started": "#9e9e9e",
-    }
-
-    CHART_W, CHART_H = 400, 210
     return (
         CURRENT_PERIOD,
         IC_METRICS,
@@ -123,7 +108,6 @@ def _():
         ORG_HIERARCHY,
         RATING_BANDS,
         RATING_COLORS,
-        REVIEW_PERIODS,
     )
 
 
@@ -146,8 +130,7 @@ def _(pd):
         "data/individual_reviews.csv",
         dtype={
             "employee_id": "str", "review_period": "str",
-            "overall_rating": "float64", "goal_completion_pct": "float64",
-            "manager_notes": "str",
+            "overall_rating": "float64",
             # IC metrics (NaN for people leaders)
             "throughput_consistency":          "float64",
             "scope_of_impact":                 "float64",
@@ -164,17 +147,7 @@ def _(pd):
         keep_default_na=True,
         na_values=[""],
     )
-    goals_df = pd.read_csv(
-        "data/individual_goals.csv",
-        dtype={
-            "goal_id": "int64", "employee_id": "str", "review_period": "str",
-            "title": "str", "category": "str", "status": "str",
-            "completion_pct": "float64",
-        },
-        keep_default_na=True,
-        na_values=[""],
-    )
-    return goals_df, people_df, reviews_df
+    return people_df, reviews_df
 
 
 @app.cell(hide_code=True)
@@ -211,9 +184,7 @@ def _(ORG_HIERARCHY, mo):
 
 
 @app.cell(hide_code=True)
-def _(CURRENT_PERIOD, ORG_HIERARCHY, org_selector, people_df, reviews_df):
-    from datetime import date as _date
-
+def _(ORG_HIERARCHY, org_selector, people_df):
     _sel = org_selector.value
     if _sel == "Dealer":
         _mask = people_df["employee_id"].notna()
@@ -222,17 +193,7 @@ def _(CURRENT_PERIOD, ORG_HIERARCHY, org_selector, people_df, reviews_df):
     else:
         _mask = people_df["team"] == _sel
 
-    _fp = people_df[_mask].copy()
-    _fp["tenure_years"] = _fp["start_date"].apply(
-        lambda s: (_date(2026, 3, 18) - _date.fromisoformat(s)).days / 365.25
-    )
-    # Merge ALL current-period metric columns (drop review_period and manager_notes
-    # which are only needed in the individual profile cell via reviews_df directly).
-    _cur = reviews_df[reviews_df["review_period"] == CURRENT_PERIOD].drop(
-        columns=["review_period", "manager_notes"], errors="ignore"
-    )
-    filtered_people     = _fp
-    people_with_ratings = _fp.merge(_cur, on="employee_id", how="left")
+    filtered_people = people_df[_mask].copy()
     return (filtered_people,)
 
 
@@ -266,14 +227,7 @@ def _(filtered_people, person_selector):
 
 
 @app.cell(hide_code=True)
-def _(
-    CURRENT_PERIOD,
-    REVIEW_PERIODS,
-    goals_df,
-    people_df,
-    reviews_df,
-    selected_employee_id,
-):
+def _(CURRENT_PERIOD, people_df, reviews_df, selected_employee_id):
     from datetime import date as _d2
 
     if selected_employee_id is not None:
@@ -281,17 +235,11 @@ def _(
             people_df["employee_id"] == selected_employee_id
         ].iloc[0]
 
-        person_reviews = reviews_df[
+        person_review = reviews_df[
             (reviews_df["employee_id"] == selected_employee_id) &
-            reviews_df["review_period"].isin(REVIEW_PERIODS)
-        ].sort_values("review_period")
+            (reviews_df["review_period"] == CURRENT_PERIOD)
+        ]
 
-        person_goals = goals_df[
-            (goals_df["employee_id"] == selected_employee_id) &
-            (goals_df["review_period"] == CURRENT_PERIOD)
-        ].copy()
-
-        # Resolve manager name
         mgr_id = person_record.get("manager_id")
         if mgr_id and str(mgr_id) != "nan":
             _mgr_rows = people_df[people_df["employee_id"] == mgr_id]
@@ -303,12 +251,11 @@ def _(
             _d2(2026, 3, 18) - _d2.fromisoformat(person_record["start_date"])
         ).days / 365.25
     else:
-        person_record  = None
-        person_reviews = None
-        person_goals   = None
-        manager_name   = None
-        tenure_years   = None
-    return manager_name, person_record, person_reviews, tenure_years
+        person_record = None
+        person_review = None
+        manager_name  = None
+        tenure_years  = None
+    return manager_name, person_record, person_review, tenure_years
 
 
 @app.cell(hide_code=True)
@@ -521,27 +468,16 @@ def _(
 
 
 @app.cell(hide_code=True)
-def _(
-    CURRENT_PERIOD,
-    manager_name,
-    mo,
-    person_record,
-    person_reviews,
-    rating_badge_html,
-    tenure_years,
-):
+def _(manager_name, mo, person_record, person_review, rating_badge_html, tenure_years):
     if person_record is None:
         profile_section = mo.callout(
             mo.md("Select a person from the **Person** dropdown above to view their profile."),
             kind="info",
         )
     else:
-        _cur_review = person_reviews[
-            person_reviews["review_period"] == CURRENT_PERIOD
-        ]
         _cur_rating = (
-            _cur_review.iloc[0]["overall_rating"]
-            if len(_cur_review) > 0 else None
+            person_review.iloc[0]["overall_rating"]
+            if person_review is not None and len(person_review) > 0 else None
         )
         _badge = rating_badge_html(_cur_rating) if _cur_rating is not None else "—"
 
